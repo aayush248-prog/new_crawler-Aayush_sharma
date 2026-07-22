@@ -1,0 +1,5599 @@
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-us" data-locale="en-us">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>
+          
+            
+              Official YouTube Blog for Latest YouTube News &amp; Insights
+            
+          
+          
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0" />
+        <meta name="optimize_experiments" content="">
+
+        
+  
+
+
+
+
+
+<!--Article Specific Metadata-->
+<meta name="description" content="Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights."/>
+<meta name="keywords" content="youtube blog, news about youtube, blog insights"/>
+
+<!--Open Graph Metadata-->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="YouTube Official Blog"/>
+<meta property="og:description" content="Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights." />
+<meta property="og:image" content="https://blog.youtube/static/blog_youtube/images/youtube_social_1200x630.png?version=pr20260715-1455" />
+<meta property="og:site_name" content="blog.youtube" />
+<meta property="og:url" content="https://blog.youtube/" />
+
+<!--Twitter Card Metadata-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://blog.youtube/" />
+<meta name="twitter:title" content="YouTube Official Blog"/>
+<meta name="twitter:description" content="Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights." />
+<meta name="twitter:image:src" content="https://blog.youtube/static/blog_youtube/images/youtube_social_1200x630.png?version=pr20260715-1455" />
+<meta name="twitter:site" content="@youtube" />
+
+
+
+        
+        
+          <meta name="page" content="39322" />
+          <meta name="category" content="" />
+          <meta name="locale" content="en-us" />
+          <meta name="published_time" content="2020-07-31T16:39:39.879113+00:00" />
+          <meta name="content_type" content="blog_youtube.youtubehomepage" />
+          <meta name="tags" content="" />
+          <meta name="authors" content="" />
+        
+
+        
+
+    
+    
+        <script type="application/ld+json">
+            {"@context": "https://schema.org", "@type": "WebSite", "name": "YouTube Official Blog", "url": "https://blog.youtube/"}
+        </script>
+    
+
+
+
+        
+        
+        
+        
+        <link rel="preconnect" href="//storage.googleapis.com" crossorigin>
+        <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+
+        <link rel="dns-prefetch" href="//fonts.googleapis.com" crossorigin>
+        <link rel="dns-prefetch" href="//www.gstatic.com" crossorigin>
+
+        <link rel="icon" type="image/x-icon" href="/static/blog_youtube/images/favicon.ico?version=pr20260715-1455">
+        <link rel="apple-touch-icon" href="/static/blog_youtube/images/apple-touch-icon.png?version=pr20260715-1455">
+        <link rel="preload" type="text/css" href="/static/youtube/css/homepage/index.min.css?version=pr20260715-1455" as="style"/>
+        <link rel="stylesheet" type="text/css" href="/static/youtube/css/homepage/index.min.css?version=pr20260715-1455"/>
+
+        
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSansMono-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSans-Black.woff2" as="font" type="font/woff2" crossorigin>
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSansMono-Medium.woff2" as="font" type="font/woff2" crossorigin>
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSans-Light.woff2" as="font" type="font/woff2" crossorigin>
+        
+          <link rel="preload" href="/static/youtube/fonts/YouTubeSans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+        
+
+        <link rel="preload" type="text/css" href="//fonts.googleapis.com/css2?family=Google+Sans:wght@400;500&family=Product+Sans&family=Roboto:wght@100;300;400;500;700&amp;display=swap&amp;lang=en" as="style">
+        <link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Google+Sans:wght@400;500&family=Product+Sans&family=Roboto:wght@100;300;400;500;700&amp;display=swap&amp;lang=en">
+        
+
+        
+  
+  <style>
+    :root {
+      --primary-color: #00BAE5;
+      --secondary-color: #A4FFA4;
+      
+      
+      
+      --hero-pattern-large-mobile: url(/static/blog_youtube/images/common/patterns-big-mobile.svg?version=pr20260715-1455#rainbow-pattern-3-v-s);
+      --hero-pattern-small-mobile: url(/static/blog_youtube/images/common/patterns-small-mobile.svg?version=pr20260715-1455#rainbow-pattern-3-v-s);
+      --hero-pattern-large: url(/static/blog_youtube/images/common/patterns-big.svg?version=pr20260715-1455#rainbow-pattern-3-v);
+      --hero-pattern-small: url(/static/blog_youtube/images/common/patterns-small.svg?version=pr20260715-1455#rainbow-pattern-3-s);
+    }
+  </style>
+  
+
+
+        
+
+        
+          <link rel="canonical" href="https://blog.youtube/" />
+        
+
+        <link rel="dns-prefetch" href="//www.google-analytics.com" crossorigin />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" crossorigin />
+
+<meta property="gtm-tag" content="GTM-W8LC8VL">
+<meta property="ga-tag" content="UA-74385728-2">
+
+
+        <!-- https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API -->
+<script>
+  let trustedTypePolicy = {
+      createHTML: (str) => str,
+      createScript: (str) => str,
+      createScriptURL: (url) => url
+  };
+  if (window.trustedTypes && window.trustedTypes.createPolicy) {
+      const safeScriptDomains = [
+          'blob:',
+          '/static/blogv2/',
+          '/static/keyword/',
+          '/static/youtube/',
+          '/static/blog_youtube/',
+          '//cdn.ampproject.org/',
+          '//googleads.g.doubleclick.net',
+          '//survey.g.doubleclick.net',
+          '//www.google-analytics.com/',
+          '//www.google.com',
+          '//www.googletagmanager.com',
+          '//www.gstatic.com',
+          '//www.youtube.com',
+          '//youtube.googleapis.com',
+          '//ssl.gstatic.com/trends_nrtr/'
+      ];
+      const safeScripts = [
+          'google_tag_manager[""]',
+          '(function anonymous('
+      ];
+      trustedTypePolicy = window.trustedTypes.createPolicy('default', {
+          /* Enable create HTML */
+          createHTML: (str) => {
+              return str
+          },
+          /* Enable script creation */
+          createScript: (str) => {
+              const safeScriptString = safeScripts.find(
+                  (safeScript) => str.includes(safeScript)
+              );
+              if (!safeScriptString) {
+                  console.warn(
+                      `unsafe createScript: "${str}"`
+                  );
+              }
+
+              return str;
+          },
+          /* Allow for safe domains only */
+          createScriptURL: (url) => {
+              const safeDomainsUrl = safeScriptDomains.find(
+                  (safeDomain) => url.includes(safeDomain)
+              );
+              if (!safeDomainsUrl && !url.startsWith(window.location.origin)) {
+                  console.warn(
+                      `Unsafe createScriptURL: "${url}"`
+                  );
+              }
+
+              return url;
+          },
+      });
+  }
+
+  window.trustedTypePolicy = trustedTypePolicy;
+</script>
+
+
+        
+          
+        
+
+        
+
+    </head>
+
+    <body
+      class="template-youtube-homepage yt-page yt-overflow-x"
+      data-component="yt-anchor-link"
+    >
+        
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8LC8VL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        
+
+
+
+<div class="data-layer-init-data" data-analytics='
+  {
+    
+      "page_name": "blog_youtube | YouTube Homepage",
+    
+    
+        "page_template": "blog_youtube | YouTube Homepage",
+        "content_type": "blog_youtube | YouTube Homepage",
+    
+    
+        "locale": "en-us",
+    
+    "author_name": "undefined",
+    "is_archived_article": "undefined",
+    "experiments": "undefined"
+  }'
+  data-analytics-custom='
+    {
+        "content_category": "YouTube Official Blog",
+        "publication_date": "undefined",
+        
+        "content_length": "undefined",
+        "article_name": "undefined"
+    }'>
+</div>
+
+<div class="page-analytics-data"
+    data-component="yt-analytics"
+    data-analytics-options='
+    {
+        "isArchivedArticle": "undefined",
+        "authorName": "undefined",
+        
+          "locale": "en-us",
+        
+        
+            "pageTemplate": "blog_youtube | YouTube Homepage",
+            "contentYTType": "blog_youtube | YouTube Homepage"
+        
+    }'
+    data-analytics-custom-options='
+    {
+        "contentCategory": "YouTube Official Blog",
+        "publicationDate": "undefined",
+        "topicTags": "undefined",
+        "contentLength": "undefined"
+    }'>
+  </div>
+
+
+        
+
+        
+
+
+
+
+<div class="yt-loader">
+  <div class="yt-loader__loader"></div>
+  <div class="yt-loader__backdrop"></div>
+</div>
+<header
+  class="yt-header yt-header--subscription-newsletter yt-header--ai-search"
+  data-component="yt-header">
+  <div class="yt-header__main-navigation">
+    <a href="#jump-content" class="h-c-header__jump-to-content" data-glue-jump-link>
+      <span class="h-c-header__jump-to-content-text">Skip to Main Content</span>
+    </a>
+    <button class="yt-header__hamburger small-rule" aria-label="Toggle navigation menu">
+      <svg
+  
+  
+  aria-hidden="true"
+  
+  
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_h_burger"></use>
+</svg>
+
+    </button>
+    <a target="_self" href="/" title="YouTube Official Blog" class="yt-header__youtube-logo js-ga-yt-logo"
+      data-ga4-analytics-click='{
+        "event": "nav_click",
+        "module_name": "home logo",
+        "link_text": "YouTube Official Blog"
+      }'>
+      
+      <svg
+  
+  role="img"
+  
+  aria-label="YouTube Official Blog logo"
+  class="yt-header__youtube-logo--desktop"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo_desktop"></use>
+</svg>
+
+      <svg
+  
+  role="img"
+  
+  aria-label="YouTube Official Blog logo"
+  class="yt-header__youtube-logo--high-contrast"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo_desktop_high_contrast"></use>
+</svg>
+
+      <svg
+  
+  role="img"
+  
+  aria-label="YouTube Official Blog logo"
+  class="yt-header__youtube-logo--mobile"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo_mobile"></use>
+</svg>
+
+    </a>
+    
+
+
+<nav class="yt-header__navigation" aria-hidden="false" role="navigation"
+  aria-label="Main navigation" data-component="yt-navigation">
+  <div class="yt-header__menus">
+    <ul class="no-bullet yt-header__navigation-items">
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/news-and-events/"
+             title="News &amp; Events"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            News &amp; Events
+          </a>
+        </li>
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/creator-and-artist-stories/"
+             title="Creator &amp; Artist Stories"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            Creator &amp; Artist Stories
+          </a>
+        </li>
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/culture-and-trends/"
+             title="Culture &amp; Trends"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            Culture &amp; Trends
+          </a>
+        </li>
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/inside-youtube/"
+             title="Inside YouTube"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            Inside YouTube
+          </a>
+        </li>
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/madeonyoutube/"
+             title="Made On YouTube"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            Made On YouTube
+          </a>
+        </li>
+      
+    </ul>
+    <ul class="no-bullet yt-header__navigation-items yt-header__navigation-items--secondary">
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="/feed/"
+             title="Feed"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            <span>Feed</span>
+          </a>
+        </li>
+      
+        <li class="yt-header__navigation-item">
+          <a target="_self" href="#topic-hub-nav"
+             title="Topics"
+             class=" yt-header__navigation-item-link js-ga-yt-menu-link">
+            <span>Topics<svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+</svg>
+</span>
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+  
+    <div class="yt-subscription__header yt-subscription__header--mobile"
+      data-analytics-module='{
+        "module_name": "mobile nav",
+        "section_header": "YouTube Official Blog"
+      }'>
+      <button href="#" class="yt-subscription__header-btn yt-body--small" data-trigger-subscription-modal>
+        Subscribe
+      </button>
+    </div>
+  
+</nav>
+
+    
+
+
+
+<div class="yt-header__search-wrapper yt-header__search-wrapper--header"
+  data-component="yt-search-header"
+  data-header-options='{
+    "openSearchLabel": "Open Search",
+    "closeSearchLabel": "Close Search"
+  }'
+  >
+  <form class="yt-header__search yt-header__search--subscription-newsletter"
+      data-request-options='{
+        "language_path": "/",
+        "domain": "youtube",
+        "site_id": 4
+      }'>
+    <button
+      aria-hidden="true"
+      class="yt-header__search-submit">
+      <span class="yt-header__search-submit-text">Submit Search</span>
+      <div class="yt-header__search-submit-icon">
+        <svg
+  
+  
+  aria-hidden="true"
+  
+  class="magnifier"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_mi_search_ai_magnifier"></use>
+</svg>
+
+        <svg
+  
+  
+  aria-hidden="true"
+  
+  class="spark"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_mi_search_ai_spark"></use>
+</svg>
+
+      </div>
+    </button>
+    <label class="yt-header__search-label" for="search_bar_input_header" aria-hidden="true">
+      Search Input
+    </label>
+    <input
+      data-ai-placeholder="Ask us a question, or tell us what you're looking for || Ask us a question"
+      autocomplete="off"
+      aria-hidden="true"
+      class="yt-header__search-input"
+      id="search_bar_input_header"
+      placeholder="Search"
+      tabindex="-1"
+    >
+    <button
+      aria-label="Open Search"
+      class="yt-header__search-btn"
+      type="button"
+        data-analytics-module='{
+          "section_header": "YouTube Official Blog",
+        }'
+        >
+        <div class="yt-header__search-btn__icon-wrapper search">
+          <svg
+  
+  
+  aria-hidden="true"
+  
+  class="magnifier"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_mi_search_ai_magnifier"></use>
+</svg>
+
+          <svg
+  
+  
+  aria-hidden="true"
+  
+  class="spark"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_mi_search_ai_spark"></use>
+</svg>
+
+        </div>
+        <div class="yt-header__search-btn__icon-wrapper close">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false">
+            <path d="M4.89062 4L20.8906 20" stroke="#282828" stroke-width="2"/>
+            <path d="M20.8906 4L4.89062 20" stroke="#282828" stroke-width="2"/>
+          </svg>
+        </div>
+        <span class="yt-header__search-btn__text">Search with AI</span>
+    </button>
+    <div class="yt-header__search-results" aria-hidden="true" aria-busy="false" data-analytics-module='{
+        "module_name": "NavBar Search",
+        "section_header": "undefined"
+      }'>
+      <ul class="yt-header__search-results-list"></ul>
+    </div>
+  </form>
+</div>
+
+    
+    <div class="yt-subscription__header"
+    data-analytics-module='{
+      "module_name": "main nav",
+      "section_header": "YouTube Official Blog"
+      }'>
+      <div class="yt-subscription__header-divider"></div>
+      <button class="yt-subscription__header-btn" data-trigger-subscription-modal>
+        Subscribe
+      </button>
+    </div>
+    
+  </div>
+  <div class="yt-header__dialogs">
+    <div class="yt-header__navigation-dimmer" role="presentation"></div>
+    
+
+
+<div class="yt-header__suggested" aria-hidden="false" role="navigation"
+  data-analytics-module=' {
+    "event": "nav_click",
+    "module_name": "search header",
+    "section_header": "YouTube Official Blog",
+    "content_type": " blog_youtube | YouTube Homepage ",
+    "content_category": "YouTube Official Blog",
+  }'
+  >
+  <div class="js-suggested-searches__container yt-header__suggested__container">
+    <h3 class="yt-header__suggested__title">Suggested Searches</h3>
+    <ul class="yt-header__suggested__list js-suggested-searches__list">
+      
+        <li class="yt-header__suggested__item js-suggested-searches__item">
+          <a class="btn btn-suggested-search" href="/search/?query=What%20specific%20tools%20does%20YouTube%20offer%20creators%3F"
+          data-ga4-analytics-click='{
+            "event": "search",
+            "search_term": "What specific tools does YouTube offer creators?",
+          }'>What specific tools does YouTube offer creators?</a>
+        </li>
+      
+        <li class="yt-header__suggested__item js-suggested-searches__item">
+          <a class="btn btn-suggested-search" href="/search/?query=Neal%20Mohan"
+          data-ga4-analytics-click='{
+            "event": "search",
+            "search_term": "Neal Mohan",
+          }'>Neal Mohan</a>
+        </li>
+      
+        <li class="yt-header__suggested__item js-suggested-searches__item">
+          <a class="btn btn-suggested-search" href="/search/?query=What%20are%20the%20latest%20AI%20features%20on%20YouTube%3F"
+          data-ga4-analytics-click='{
+            "event": "search",
+            "search_term": "What are the latest AI features on YouTube?",
+          }'>What are the latest AI features on YouTube?</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+    
+
+
+
+<div class="yt-header__topic-hub-nav"
+  id="topic-hub-nav"
+  tabindex="-1"
+  aria-label="Topics Navigation"
+  aria-modal="true"
+  role="dialog"
+  inert
+  data-analytics-module=' {
+    "event": "nav_click",
+    "module_name": "topic navigation",
+    "section_header": "YouTube Official Blog",
+    "content_type": " blog_youtube | YouTube Homepage ",
+  }'
+  >
+  <div class="yt-header__topic-hub-nav__container">
+    <div class="yt-header__topic-hub-nav__mobile-header">
+      <button class="yt-header__topic-hub-nav__mobile-header__back-button" aria-label='Back'><svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+</svg>
+</button>
+      <h2 class="yt-header__topic-hub-nav__mobile-header__headline">Topics</h2>
+      <button class="yt-header__topic-hub-nav__mobile-header__close-button" aria-label='Close'><svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_close_icon"></use>
+</svg>
+</button>
+    </div>
+    <div class="yt-header__topic-hub-nav__featured">
+      <h2 class="yt-header__topic-hub-nav__headline">Featured</h2>
+      <ul>
+      
+        <li>
+          
+            
+
+
+<div class="yt-article-navigation-card "
+  data-analytics-module='{
+    "module_name": "Article Card",
+    "section_header": "YouTube Official Blog",
+    "has_impression": true,
+    "publication_date":"20260121",
+  }'
+  data-ga4-analytics-click='{"event": "card_click"}'>
+  
+  <a class="yt-article-navigation-card__image-link" 
+    href="https://blog.youtube/inside-youtube/the-future-of-youtube-2026/" 
+    aria-label="From the CEO: What’s coming to YouTube in 2026">
+    <figure class="yt-article-navigation-card__image-container">
+      <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YOUTUBE_BLOG_-_NEAL_S_LETTER_SQ.max-900x600.format-webp.webp" alt="">
+    </figure>
+  </a>
+  
+  <div class="yt-article-navigation-card__info">
+    <div class="yt-article-navigation-card__tag">
+      <a href="https://blog.youtube/topic-hub/executives/">
+        <span>Executives</span>
+      </a>
+    </div>
+    <a class="yt-article-navigation-card__title" 
+      href="https://blog.youtube/inside-youtube/the-future-of-youtube-2026/"
+      aria-label="From the CEO: What’s coming to YouTube in 2026">
+      <h3>From the CEO: What’s coming to YouTube in 2026</h3>
+    </a>
+  </div>
+</div>
+
+          
+        </li>
+      
+      </ul>
+    </div>
+    <div class="yt-header__topic-hub-nav__explored-topics">
+      <h2 class="yt-header__topic-hub-nav__headline">Explore topics</h2>
+      <ul>
+      
+        <li><a href="https://blog.youtube/topic-hub/kids-teens/"><span>Kids &amp; Teens</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/fifa-world-cup/"><span>FIFA World Cup</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/youtube-partner-program/"><span>YouTube Partner Program</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/youtube-live/"><span>Live</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/learning-education/"><span>Learning and Education</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/youtube-studio/"><span>YouTube Studio</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/celebrations/"><span>Celebrations</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/products-features/"><span>Products and Features</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/creators/"><span>Creators</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/work-diaries/"><span>Work Diaries</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/executives/"><span>Executives</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/policy/"><span>Policy</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/vidcon/"><span>VidCon</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/coachella/"><span>Coachella</span></a></li>
+      
+        <li><a href="https://blog.youtube/topic-hub/brandcast/"><span>Brandcast</span></a></li>
+      
+      </ul>
+    </div>
+  </div>
+</div>  
+
+
+  </div>
+</header>
+
+        
+        
+          
+        
+
+        <main id="main-content" class="site-content" tabindex="-1">
+            
+  <div data-homepage-locale="en-us"
+       data-survey-config="{&quot;apiKey&quot;: &quot;AIzaSyAKSDa88zpJ60s89BKL6h1VpPFodkRVGL0&quot;, &quot;triggerId&quot;: &quot;bSX3ZPjo049sG1ruwrYM0UHmJuR1&quot;, &quot;enableTestingMode&quot;: false, &quot;logoUrl&quot;: &quot;https://blog.youtube/static/blog_youtube/images/apple-touch-icon.png?version=pr20260715-1455&quot;}"
+       style="display: none;"></div>
+  <h1 class="sr-only">YouTube Official Blog</h1>
+  
+    
+
+
+<section
+  class="yt-homepage-hero-refresh"
+  data-analytics-module='{
+    "module_name": "Homepage Hero",
+    "section_header": "YouTube Official Blog",
+    "has_impression": true,
+    "position_maximum": 4,
+  }'
+  data-component="yt-homepage-hero-slider">
+  <h2 class="sr-only">Homepage Hero Slider</h2>
+  <div class="yt-homepage-hero-refresh__video-bg-container">
+    <picture class="yt-homepage-hero-refresh__video-bg">
+      <source type="image/webp" srcset="/static/blog_youtube/videos/bg-hero-desktop.webp?version=pr20260715-1455" media="(min-width: 1024px)">
+      <source type="image/webp" srcset="/static/blog_youtube/videos/bg-hero-tablet.webp?version=pr20260715-1455" media="(min-width: 768px)">
+      <source type="image/webp" srcset="/static/blog_youtube/videos/bg-hero-mobile.webp?version=pr20260715-1455" media="(max-width: 767px)">
+      <img type="image/webp" src="/static/blog_youtube/videos/bg-hero-desktop.webp?version=pr20260715-1455" alt="">
+    </picture>
+  </div>
+  <div class="yt-homepage-hero-refresh__wrapper">
+    <div class="yt-homepage-hero-refresh__carousel-wrapper" aria-roledescription="carousel">
+      <ul class="yt-homepage-hero-refresh__carousel">
+        
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="0"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        tabindex="-1">
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="0"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        tabindex="-1">
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="0"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life" tabindex="-1">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        tabindex="-1">
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="0"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        tabindex="-1">
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="1"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        >
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="1"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        >
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="1"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        >
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="1"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        >
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+
+        
+        
+        
+        
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="2"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        tabindex="-1">
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="2"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        tabindex="-1">
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="2"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life" tabindex="-1">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        tabindex="-1">
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="2"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        tabindex="-1">
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+
+        
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="3"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        tabindex="-1">
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="3"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        tabindex="-1">
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="3"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life" tabindex="-1">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        tabindex="-1">
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="3"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        tabindex="-1">
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+
+        
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="4"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        tabindex="-1">
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="4"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        tabindex="-1">
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="4"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life" tabindex="-1">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        tabindex="-1">
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="4"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        tabindex="-1">
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="5"
+  data-position="1"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Culture and Trends"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.max-100x100.format-webp.webp"
+      alt=""
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/wc200_a.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/culture-and-trends/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--culture-and-trends">
+        Culture and Trends
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/culture-and-trends/youtube-fifa-world-cup-2026-viewership-stats/"
+        aria-label="How the world experienced the FIFA World Cup 2026™ on YouTube. Card 1 of 4"
+        tabindex="-1">
+        <span>How the world experienced the FIFA World Cup 2026™ on YouTube</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    1 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-2
+  "
+  data-index-id="5"
+  data-position="2"
+  data-article-info='{
+    "publication_date":"20260721",
+    "content_category":"Creator and Artist Stories"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Dr. Becky and YouTube partner on digital parenting series" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.max-100x100.format-webp.webp"
+      alt="tk"
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/drbeckyphoto.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/creator-and-artist-stories/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--creator-and-artist-stories">
+        Creator and Artist Stories
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/creator-and-artist-stories/youtube-dr-becky-good-inside-parenting-series/"
+        aria-label="Dr. Becky and YouTube partner on digital parenting series. Card 2 of 4"
+        tabindex="-1">
+        <span>Dr. Becky and YouTube partner on digital parenting series</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    2 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-3
+  "
+  data-index-id="5"
+  data-position="3"
+  data-article-info='{
+    "publication_date":"20260717",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    <a class="yt-hero-card__media-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/" aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life" tabindex="-1">
+  <div class="yt-hero-card__mp4-video-container yt-card__mp4-video-container">
+    <video muted playsinline disablepictureinpicture
+      controlsList="nodownload nofullscreen noremoteplayback noplaybackrate"
+      class="lazy yt-blur yt-hero-card__mp4-video"
+      aria-hidden="true"
+      id="FeaturedArticle5163"
+      yt-mp4-card-video
+      poster="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-muz6857u_thumb.jpg">
+      <source data-src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/YT_AMERICA_250_SQUARE_v02.mp4" type="video/mp4">
+      
+      Video format not supported
+    </video>
+  </div>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/youtube-america-250-celebration-recap/"
+        aria-label="One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life. Card 3 of 4"
+        tabindex="-1">
+        <span>One nation, infinite celebrations: How YouTube brought America’s 250th birthday to life</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    3 / 4
+  </p>
+</li>
+
+        
+          
+
+<li class="yt-hero-card
+  
+    yt-hero-card--hero-4
+  "
+  data-index-id="5"
+  data-position="4"
+  data-article-info='{
+    "publication_date":"20260716",
+    "content_category":"News and Events"
+  }'
+>
+  
+  
+    
+
+<a class="yt-hero-card__media-link" aria-label="Exploring YouTube&#x27;s U.S. impact in 2025" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/" tabindex="-1">
+  <figure class="yt-hero-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-h.max-100x100.format-webp.webp"
+      alt="A graphic introducing the YouTube 2025 U.S. Impact Report."
+      class="yt-hero-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-us-impact-report-2025-hea.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+  
+  <div class="yt-hero-card__content">
+    <a class="yt-hero-card__category-link"
+      href="https://blog.youtube/news-and-events/" tabindex="-1">
+      <span class="yt-hero-card__category-link-content  yt-hero-card__category-link-content--news-and-events">
+        News and Events
+      </span>
+    </a>
+    <h3 class="yt-hero-card__title">
+      <a class="yt-hero-card__article-link" href="https://blog.youtube/news-and-events/2025-us-youtube-impact-report/"
+        aria-label="Exploring YouTube&#x27;s U.S. impact in 2025. Card 4 of 4"
+        tabindex="-1">
+        <span>Exploring YouTube&#x27;s U.S. impact in 2025</span> 
+      </a>
+    </h3>
+  </div>
+  <p class="yt-hero-card__pagination">
+    4 / 4
+  </p>
+</li>
+
+        
+      </ul>
+    </div>
+    <div class="yt-homepage-hero-refresh__navigation">
+      <button class="yt-homepage-hero-refresh__button yt-homepage-hero-refresh__button--pause" aria-label="Pauses/resumes the carousel animation">
+        <span class="yt-homepage-hero-refresh__button-content">
+          <svg class="yt-homepage-hero-refresh__button--pause-icon hidden" viewBox="0 0 20 20" fill="#000" role="presentation">
+            <path d="M7.5 15.833H5.833V4.167H7.5v11.666Zm6.667-11.666H12.5v11.666h1.667V4.167Z" >
+          </svg>
+          <svg class="yt-homepage-hero-refresh__button--play-icon" viewBox="0 0 24 24" fill="#000" role="presentation">
+            <path d="m7 4 12 8-12 8V4Z"/>
+          </svg>
+        </span>
+      </button>
+      <button class="yt-homepage-hero-refresh__button yt-homepage-hero-refresh__button--back" aria-label="Go to the first card">
+        <span class="yt-homepage-hero-refresh__button-content">
+          <svg id="yt_hero_carousel_previous" viewBox="0 0 20 20" fill="#000" role="presentation">
+            <path d="m12.466 15.8-5.8-5.8 5.8-5.8.592.59L7.842 10l5.208 5.208-.584.591Z"/>
+          </svg>
+        </span>
+      </button>
+      <button class="yt-homepage-hero-refresh__button yt-homepage-hero-refresh__button--forward" aria-label="Go to the last card">
+        <span class="yt-homepage-hero-refresh__button-content">
+          <svg id="yt_hero_carousel_next" viewBox="0 0 20 20" fill="#000" role="presentation">
+            <path d="m7.835 15.333-.584-.584 4.667-4.666-4.75-4.75.583-.584 5.334 5.334-5.25 5.25Z"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</section>
+
+    
+        
+
+<section
+  class="
+    youtube-media-carousel
+    js-yt-gtm-video-stories
+    
+    
+    
+    
+    "
+  data-component="yt-media-carousel"
+  data-analytics-module='{
+    "module_name": "Mixed Media",
+    "section_header": "Hit play",
+    "has_impression": true,
+    "position_maximum": "5",
+    "track_component_action_event": "true",
+    "track_carousel_interaction_event": "true",
+    "component_action": "mixed_media_interaction",
+  }'
+  >
+  <div class="youtube-media-carousel__wrapper">
+    
+    <div class="youtube-media-carousel__headline">
+      <h2 class="youtube-media-carousel__title ">
+        <span class="youtube-media-carousel__eyebrow">
+          More from YouTube
+        </span>
+        Hit play
+      </h2>
+      
+    </div>
+    
+    <ul class="youtube-media-carousel__videos no-bullet">
+      
+        <li class="youtube-media-carousel__card "
+          aria-disabled="false">
+          
+
+
+<article
+
+  class="
+  yt-article-video
+  yt-article-video--loading
+  js-yt-gtm-article-video
+  
+  
+  "
+  data-component="yt-article-yt-player"
+  data-section-title="How to Get Started on YouTube Shorts - Viral Ideas &amp; Inspiration"
+  data-page-url="https://blog.youtube/"
+  data-video-name="How to Get Started on YouTube Shorts - Viral Ideas &amp; Inspiration"
+  data-video-test="https://youtu.be/7Yu4nR4FHLw?si=Ig5xQbk-Uar_DlQ2"
+  data-video-id="7Yu4nR4FHLw"
+  data-video-type=""
+  data-video-source="article"
+  data-index-id="1"
+  data-component-id="ac"
+  data-component-position="center"
+  data-component-type="mixed media carousel"
+  data-publication-date="undefined"
+  data-topic-tags=""
+  
+    data-analytics-click='{
+      "event": "trackEvent",
+      "eventAction": "article video click",
+      "eventCategory": "module interaction",
+      "eventLabel": "https://youtube.com/watch?v=7Yu4nR4FHLw",
+      "componentType": "article video",
+      "componentPosition": "center"
+    }'
+  
+>
+  <div class="yt-article-video__embed yt-article-video__embed-container hide-from-all  ">
+    <div id="yt-article-yt-player-7Yu4nR4FHLw-1-ac"></div>
+  </div>
+  <figure class="yt-article-video__container ">
+    <div class="yt-image-placeholder ">
+      
+        <button
+          class="yt-article-video__custom-wrapper "
+          aria-label="Click to play the video How to Get Started on YouTube Shorts - Viral Ideas &amp; Inspiration  "
+        >
+      
+        
+
+          
+          
+
+          
+            
+
+
+
+
+<img
+  class="yt-article-video__default-image"
+  aria-hidden="true"
+  src="//i.ytimg.com/vi_webp/7Yu4nR4FHLw/default.webp"
+  srcset="//i.ytimg.com/vi_webp/7Yu4nR4FHLw/maxresdefault.webp 600w, //i.ytimg.com/vi_webp/7Yu4nR4FHLw/maxresdefault.webp 1024w"
+  sizes="(max-width: 600px) 600px, (max-width: 1440px) 1024px"
+  
+  
+  loading="lazy"
+  decoding="async"
+  alt="YouTube Official Blog"
+>
+
+          
+        
+        
+        <div class="yt-article-video__play-button ">
+          
+          
+            <svg
+  
+  role="img"
+  
+  aria-label="Play button"
+  class="h-c-video__play h-c-icon h-c-icon--color-white"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_video_play_button"></use>
+</svg>
+
+          
+        </div>
+      
+      </button>
+      
+    </div>
+    
+  </figure>
+
+  </article>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "name": "How to Get Started on YouTube Shorts - Viral Ideas &amp; Inspiration",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/7Yu4nR4FHLw/maxresdefault.webp",
+    "contentUrl": "https://www.youtube.com/watch?v=7Yu4nR4FHLw",
+    "embedUrl": "https://www.youtube.com/embed/7Yu4nR4FHLw",
+    "uploadDate": "2026-07-21T21:06:30.547785+00:00"
+  }
+</script>
+
+          <div class="youtube-media-carousel__video-info">
+            <h3 class="youtube-media-carousel__video-title">How to Get Started on YouTube Shorts - Viral Ideas &amp; Inspiration</h3>
+            
+          </div>
+        </li>
+      
+        <li class="youtube-media-carousel__card youtube-media-carousel__card--inactive"
+          aria-disabled="true">
+          
+
+
+<article
+
+  class="
+  yt-article-video
+  yt-article-video--loading
+  js-yt-gtm-article-video
+  
+  
+  "
+  data-component="yt-article-yt-player"
+  data-section-title="The future of news is on YouTube. 🏆"
+  data-page-url="https://blog.youtube/"
+  data-video-name="The future of news is on YouTube. 🏆"
+  data-video-test="https://www.youtube.com/shorts/-d1htZJ0gX8"
+  data-video-id="-d1htZJ0gX8"
+  data-video-type=""
+  data-video-source="article"
+  data-index-id="2"
+  data-component-id="ac"
+  data-component-position="center"
+  data-component-type="mixed media carousel"
+  data-publication-date="undefined"
+  data-topic-tags=""
+  
+    data-analytics-click='{
+      "event": "trackEvent",
+      "eventAction": "article video click",
+      "eventCategory": "module interaction",
+      "eventLabel": "https://youtube.com/watch?v=-d1htZJ0gX8",
+      "componentType": "article video",
+      "componentPosition": "center"
+    }'
+  
+>
+  <div class="yt-article-video__embed yt-article-video__embed-container hide-from-all  ">
+    <div id="yt-article-yt-player--d1htZJ0gX8-2-ac"></div>
+  </div>
+  <figure class="yt-article-video__container ">
+    <div class="yt-image-placeholder ">
+      
+        <button
+          class="yt-article-video__custom-wrapper "
+          aria-label="Click to play the video The future of news is on YouTube. 🏆  "
+        >
+      
+        
+
+          
+          
+
+          
+            
+
+
+
+
+<img
+  class="yt-article-video__default-image"
+  aria-hidden="true"
+  src="//i.ytimg.com/vi_webp/-d1htZJ0gX8/default.webp"
+  srcset="//i.ytimg.com/vi_webp/-d1htZJ0gX8/maxresdefault.webp 600w, //i.ytimg.com/vi_webp/-d1htZJ0gX8/maxresdefault.webp 1024w"
+  sizes="(max-width: 600px) 600px, (max-width: 1440px) 1024px"
+  
+  
+  loading="lazy"
+  decoding="async"
+  alt="YouTube Official Blog"
+>
+
+          
+        
+        
+        <div class="yt-article-video__play-button ">
+          
+          
+            <svg
+  
+  role="img"
+  
+  aria-label="Play button"
+  class="h-c-video__play h-c-icon h-c-icon--color-white"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_video_play_button"></use>
+</svg>
+
+          
+        </div>
+      
+      </button>
+      
+    </div>
+    
+  </figure>
+
+  </article>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "name": "The future of news is on YouTube. 🏆",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/-d1htZJ0gX8/maxresdefault.webp",
+    "contentUrl": "https://www.youtube.com/watch?v=-d1htZJ0gX8",
+    "embedUrl": "https://www.youtube.com/embed/-d1htZJ0gX8",
+    "uploadDate": "2026-07-21T21:06:30.547785+00:00"
+  }
+</script>
+
+          <div class="youtube-media-carousel__video-info">
+            <h3 class="youtube-media-carousel__video-title">The future of news is on YouTube. 🏆</h3>
+            
+          </div>
+        </li>
+      
+        <li class="youtube-media-carousel__card youtube-media-carousel__card--inactive"
+          aria-disabled="true">
+          
+
+
+<article
+
+  class="
+  yt-article-video
+  yt-article-video--loading
+  js-yt-gtm-article-video
+  
+  
+  "
+  data-component="yt-article-yt-player"
+  data-section-title="Ask Studio - Getting Started Guide for Creators"
+  data-page-url="https://blog.youtube/"
+  data-video-name="Ask Studio - Getting Started Guide for Creators"
+  data-video-test="https://www.youtube.com/watch?v=zpXHtc5m4ZI"
+  data-video-id="zpXHtc5m4ZI"
+  data-video-type=""
+  data-video-source="article"
+  data-index-id="3"
+  data-component-id="ac"
+  data-component-position="center"
+  data-component-type="mixed media carousel"
+  data-publication-date="undefined"
+  data-topic-tags=""
+  
+    data-analytics-click='{
+      "event": "trackEvent",
+      "eventAction": "article video click",
+      "eventCategory": "module interaction",
+      "eventLabel": "https://youtube.com/watch?v=zpXHtc5m4ZI",
+      "componentType": "article video",
+      "componentPosition": "center"
+    }'
+  
+>
+  <div class="yt-article-video__embed yt-article-video__embed-container hide-from-all  ">
+    <div id="yt-article-yt-player-zpXHtc5m4ZI-3-ac"></div>
+  </div>
+  <figure class="yt-article-video__container ">
+    <div class="yt-image-placeholder ">
+      
+        <button
+          class="yt-article-video__custom-wrapper "
+          aria-label="Click to play the video Ask Studio - Getting Started Guide for Creators  "
+        >
+      
+        
+
+          
+          
+
+          
+            
+
+
+
+
+<img
+  class="yt-article-video__default-image"
+  aria-hidden="true"
+  src="//i.ytimg.com/vi_webp/zpXHtc5m4ZI/default.webp"
+  srcset="//i.ytimg.com/vi_webp/zpXHtc5m4ZI/maxresdefault.webp 600w, //i.ytimg.com/vi_webp/zpXHtc5m4ZI/maxresdefault.webp 1024w"
+  sizes="(max-width: 600px) 600px, (max-width: 1440px) 1024px"
+  
+  
+  loading="lazy"
+  decoding="async"
+  alt="YouTube Official Blog"
+>
+
+          
+        
+        
+        <div class="yt-article-video__play-button ">
+          
+          
+            <svg
+  
+  role="img"
+  
+  aria-label="Play button"
+  class="h-c-video__play h-c-icon h-c-icon--color-white"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_video_play_button"></use>
+</svg>
+
+          
+        </div>
+      
+      </button>
+      
+    </div>
+    
+  </figure>
+
+  </article>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "name": "Ask Studio - Getting Started Guide for Creators",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/zpXHtc5m4ZI/maxresdefault.webp",
+    "contentUrl": "https://www.youtube.com/watch?v=zpXHtc5m4ZI",
+    "embedUrl": "https://www.youtube.com/embed/zpXHtc5m4ZI",
+    "uploadDate": "2026-07-21T21:06:30.547785+00:00"
+  }
+</script>
+
+          <div class="youtube-media-carousel__video-info">
+            <h3 class="youtube-media-carousel__video-title">Ask Studio - Getting Started Guide for Creators</h3>
+            
+          </div>
+        </li>
+      
+        <li class="youtube-media-carousel__card youtube-media-carousel__card--inactive"
+          aria-disabled="true">
+          
+
+
+<article
+
+  class="
+  yt-article-video
+  yt-article-video--loading
+  js-yt-gtm-article-video
+  
+  
+  "
+  data-component="yt-article-yt-player"
+  data-section-title="These YouTube creators are chasing Emmy noms with groundbreaking shows."
+  data-page-url="https://blog.youtube/"
+  data-video-name="These YouTube creators are chasing Emmy noms with groundbreaking shows."
+  data-video-test="https://www.youtube.com/shorts/DRdO_q9BMKc"
+  data-video-id="DRdO_q9BMKc"
+  data-video-type=""
+  data-video-source="article"
+  data-index-id="4"
+  data-component-id="ac"
+  data-component-position="center"
+  data-component-type="mixed media carousel"
+  data-publication-date="undefined"
+  data-topic-tags=""
+  
+    data-analytics-click='{
+      "event": "trackEvent",
+      "eventAction": "article video click",
+      "eventCategory": "module interaction",
+      "eventLabel": "https://youtube.com/watch?v=DRdO_q9BMKc",
+      "componentType": "article video",
+      "componentPosition": "center"
+    }'
+  
+>
+  <div class="yt-article-video__embed yt-article-video__embed-container hide-from-all  ">
+    <div id="yt-article-yt-player-DRdO_q9BMKc-4-ac"></div>
+  </div>
+  <figure class="yt-article-video__container ">
+    <div class="yt-image-placeholder ">
+      
+        <button
+          class="yt-article-video__custom-wrapper "
+          aria-label="Click to play the video These YouTube creators are chasing Emmy noms with groundbreaking shows.  "
+        >
+      
+        
+
+          
+          
+
+          
+            
+
+
+
+
+<img
+  class="yt-article-video__default-image"
+  aria-hidden="true"
+  src="//i.ytimg.com/vi_webp/DRdO_q9BMKc/default.webp"
+  srcset="//i.ytimg.com/vi_webp/DRdO_q9BMKc/maxresdefault.webp 600w, //i.ytimg.com/vi_webp/DRdO_q9BMKc/maxresdefault.webp 1024w"
+  sizes="(max-width: 600px) 600px, (max-width: 1440px) 1024px"
+  
+  
+  loading="lazy"
+  decoding="async"
+  alt="YouTube Official Blog"
+>
+
+          
+        
+        
+        <div class="yt-article-video__play-button ">
+          
+          
+            <svg
+  
+  role="img"
+  
+  aria-label="Play button"
+  class="h-c-video__play h-c-icon h-c-icon--color-white"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_video_play_button"></use>
+</svg>
+
+          
+        </div>
+      
+      </button>
+      
+    </div>
+    
+  </figure>
+
+  </article>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "name": "These YouTube creators are chasing Emmy noms with groundbreaking shows.",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/DRdO_q9BMKc/maxresdefault.webp",
+    "contentUrl": "https://www.youtube.com/watch?v=DRdO_q9BMKc",
+    "embedUrl": "https://www.youtube.com/embed/DRdO_q9BMKc",
+    "uploadDate": "2026-07-21T21:06:30.547785+00:00"
+  }
+</script>
+
+          <div class="youtube-media-carousel__video-info">
+            <h3 class="youtube-media-carousel__video-title">These YouTube creators are chasing Emmy noms with groundbreaking shows.</h3>
+            
+          </div>
+        </li>
+      
+        <li class="youtube-media-carousel__card youtube-media-carousel__card--inactive"
+          aria-disabled="true">
+          
+
+
+<article
+
+  class="
+  yt-article-video
+  yt-article-video--loading
+  js-yt-gtm-article-video
+  
+  
+  "
+  data-component="yt-article-yt-player"
+  data-section-title="Practical YouTube Tips for Healthy Family Screen Time"
+  data-page-url="https://blog.youtube/"
+  data-video-name="Practical YouTube Tips for Healthy Family Screen Time"
+  data-video-test="https://www.youtube.com/watch?v=4z8Zv-wCuxQ"
+  data-video-id="4z8Zv-wCuxQ"
+  data-video-type=""
+  data-video-source="article"
+  data-index-id="5"
+  data-component-id="ac"
+  data-component-position="center"
+  data-component-type="mixed media carousel"
+  data-publication-date="undefined"
+  data-topic-tags=""
+  
+    data-analytics-click='{
+      "event": "trackEvent",
+      "eventAction": "article video click",
+      "eventCategory": "module interaction",
+      "eventLabel": "https://youtube.com/watch?v=4z8Zv-wCuxQ",
+      "componentType": "article video",
+      "componentPosition": "center"
+    }'
+  
+>
+  <div class="yt-article-video__embed yt-article-video__embed-container hide-from-all  ">
+    <div id="yt-article-yt-player-4z8Zv-wCuxQ-5-ac"></div>
+  </div>
+  <figure class="yt-article-video__container ">
+    <div class="yt-image-placeholder ">
+      
+        <button
+          class="yt-article-video__custom-wrapper "
+          aria-label="Click to play the video Practical YouTube Tips for Healthy Family Screen Time  "
+        >
+      
+        
+
+          
+          
+
+          
+            
+
+
+
+
+<img
+  class="yt-article-video__default-image"
+  aria-hidden="true"
+  src="//i.ytimg.com/vi_webp/4z8Zv-wCuxQ/default.webp"
+  srcset="//i.ytimg.com/vi_webp/4z8Zv-wCuxQ/maxresdefault.webp 600w, //i.ytimg.com/vi_webp/4z8Zv-wCuxQ/maxresdefault.webp 1024w"
+  sizes="(max-width: 600px) 600px, (max-width: 1440px) 1024px"
+  
+  
+  loading="lazy"
+  decoding="async"
+  alt="YouTube Official Blog"
+>
+
+          
+        
+        
+        <div class="yt-article-video__play-button ">
+          
+          
+            <svg
+  
+  role="img"
+  
+  aria-label="Play button"
+  class="h-c-video__play h-c-icon h-c-icon--color-white"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_video_play_button"></use>
+</svg>
+
+          
+        </div>
+      
+      </button>
+      
+    </div>
+    
+  </figure>
+
+  </article>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "VideoObject",
+    "name": "Practical YouTube Tips for Healthy Family Screen Time",
+    "thumbnailUrl": "https://i.ytimg.com/vi_webp/4z8Zv-wCuxQ/maxresdefault.webp",
+    "contentUrl": "https://www.youtube.com/watch?v=4z8Zv-wCuxQ",
+    "embedUrl": "https://www.youtube.com/embed/4z8Zv-wCuxQ",
+    "uploadDate": "2026-07-21T21:06:30.547785+00:00"
+  }
+</script>
+
+          <div class="youtube-media-carousel__video-info">
+            <h3 class="youtube-media-carousel__video-title">Practical YouTube Tips for Healthy Family Screen Time</h3>
+            
+          </div>
+        </li>
+      
+    </ul>
+    <div class="youtube-media-carousel__pagination">
+      <button
+        class="
+          youtube-media-carousel__button-area
+          youtube-media-carousel__button-area--previous
+        "
+        aria-label="previous video"
+      >
+        <span class="youtube-media-carousel__button">
+          <svg class="youtube-media-carousel__arrow" viewBox="0 0 20 20" fill="currentColor" role="presentation">
+            <path d="m12.466 15.8-5.8-5.8 5.8-5.8.592.59L7.842 10l5.208 5.208-.584.591Z"/>
+          </svg>
+        </span>
+      </button>
+      <p class="youtube-media-carousel__pagination-info">
+        <span class="youtube-media-carousel__pagination-current">1</span>
+        <span class="youtube-media-carousel__pagination-separator" role="presentation"></span>
+        <span class="youtube-media-carousel__pagination-total">5</span>
+      </p>
+      <button
+        class="
+          youtube-media-carousel__button-area
+          youtube-media-carousel__button-area--next
+        "
+        aria-label="next video"
+      >
+        <span class="youtube-media-carousel__button">
+          <svg class="youtube-media-carousel__arrow" viewBox="0 0 20 20" fill="currentColor" role="presentation">
+            <path d="m7.835 15.333-.584-.584 4.667-4.666-4.75-4.75.583-.584 5.334 5.334-5.25 5.25Z"/>
+          </svg>
+          </span>
+      </button>
+    </div>
+  </div>
+</section>
+
+    
+        
+
+
+  <section
+  class="yt-carousel-short-posts"
+  role="region"
+  aria-roledescription="carousel"
+  data-component="yt-carousel-short-posts"
+  data-analytics-module='{
+    "module_name": "Short Post Carousel",
+    "section_header": "YouTube Official Blog",
+    "has_impression": true,
+    "track_component_action_event": "true",
+    "component_action": "short_posts_carousel_interaction",
+    "position_maximum": "5",
+  }'
+  >
+    <div class="grid">
+      <div class="yt-carousel-short-posts__wrapper grid__col">
+        <ul class="yt-carousel-short-posts__carousel">
+          
+            <li class="yt-carousel-short-posts__carousel__item"
+              role="group"
+              aria-roledescription="slide">
+              
+
+
+
+<div class="yt-short-post-overview"
+  data-analytics-post-read
+  data-analytics-module='{
+    "module_name": "Post Feed",
+    "section_header": "Relive Justin Bieber’s historic Coachella performance on YouTube",
+    "article_name": "Relive Justin Bieber’s historic Coachella performance on YouTube",
+    "author_name": "",
+    "content_category": "Culture and Trends",
+    "publication_date": "20260706",
+    "content_category": "Culture and Trends",
+    "topic_tags": "youtube music",
+    "position_index": "1",
+    "position_maximum": "5",
+  }'
+  style="--bg-primary-color: #FFEEFF;
+--bg-secondary-color: #FFB0FF;
+--bg-pull-quote-color: #FFB0FF66;
+--bg-callout-color: #FFDEFF80;
+--text-primary-color: #1A0059;
+">
+  <div class="yt-short-post-overview__wrapper">
+    
+    <div class="yt-short-post-overview__asset">
+      <a class="yt-short-post-overview__media-link" href="https://blog.youtube/culture-and-trends/justin-bieber-coachella-2026-youtube/" aria-label="Relive Justin Bieber’s historic Coachella performance on YouTube">
+        <div class="yt-short-post-overview__asset__media-container">
+          <div class="yt-short-post-overview__asset__media-container__image">
+            <figure class="orientation--landscape"
+              style="aspect-ratio: 16 / 9;">
+              <img src="https://i.ytimg.com/vi_webp/f_iCC1D0DT8/maxresdefault.webp" alt="" loading="lazy">
+            </figure>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="yt-short-post-overview__content">
+      <div class="yt-short-post-overview__category">
+        <a href="https://blog.youtube/culture-and-trends/" title="Culture and Trends"
+          data-ga4-analytics-click='{"event": "eyebrow_topic_click"}'>
+          <span>Culture and Trends</span>
+        </a>
+      </div>
+      <h2 class="yt-short-post-overview__title">
+        <a href="https://blog.youtube/culture-and-trends/justin-bieber-coachella-2026-youtube/" aria-label="Relive Justin Bieber’s historic Coachella performance on YouTube">
+          Relive Justin Bieber’s historic Coachella performance on YouTube
+        </a>
+      </h2>
+      <div class="yt-short-post-overview__info">
+        
+        
+        <p class="yt-short-post-overview__info__date">Jul 06, 2026</p>
+      </div>
+      
+      <div class="yt-short-post-overview__paragraph_mobile"
+        data-component="read-more"
+        style="--mobile-lines: 4;"
+        data-additional-texts='{
+          "readMore": "Show more",
+          "readLess": "Show less",
+        }'>
+          <div class="rich-text"><p data-block-key="ks33f"><a href="https://blog.youtube/inside-youtube/coachella-weekend-one-highlights-youtube/">Justin Bieber’s 2026 Coachella headlining sets</a> were nothing short of historic. Now, following the release of his live albums, SWAG LIVE FROM COACHELLA, he’s bringing the desert directly to your screen.</p><p data-block-key="b08t">The full performances from both historic weekends are now permanently available on <a href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ">Justin Bieber’s YouTube channel</a>.</p><p data-block-key="42fm1">From the surprise guests to the career-spanning setlists, it’s a chance to see one of music’s biggest artists return to the platform where it all began, delivering a performance that fans will be talking about for years to come.</p><p data-block-key="8g5ut">You don't need a festival wristband to get the best view in the house. Head over to <a href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ">his YouTube channel</a> and get ready to experience the show of the summer exactly how you want to – front row and on demand.</p></div>
+      </div>
+      <div class="yt-short-post-overview__paragraph_desktop">
+        <div class="rich-text"><p data-block-key="ks33f"><a href="https://blog.youtube/inside-youtube/coachella-weekend-one-highlights-youtube/">Justin Bieber’s 2026 Coachella headlining sets</a> were nothing short of historic. Now, following the release of his live albums, SWAG LIVE FROM COACHELLA, he’s bringing the desert directly to your screen.</p><p data-block-key="b08t">The full performances from both historic weekends are now permanently available on <a href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ">Justin Bieber’s YouTube channel</a>.</p><p data-block-key="42fm1">From the surprise guests to the career-spanning setlists, it’s a chance to see one of music’s biggest artists return to the platform where it all began, delivering a performance that fans will be talking about for years to come.</p><p data-block-key="8g5ut">You don't need a festival wristband to get the best view in the house. Head over to <a href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ">his YouTube channel</a> and get ready to experience the show of the summer exactly how you want to – front row and on demand.</p></div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+            </li>
+          
+            <li class="yt-carousel-short-posts__carousel__item"
+              role="group"
+              aria-roledescription="slide">
+              
+
+
+
+<div class="yt-short-post-overview"
+  data-analytics-post-read
+  data-analytics-module='{
+    "module_name": "Post Feed",
+    "section_header": "We’re partnering with Mark Rober to bring hands-on science to classrooms everywhere",
+    "article_name": "We’re partnering with Mark Rober to bring hands-on science to classrooms everywhere",
+    "author_name": "",
+    "content_category": "News and Events",
+    "publication_date": "20260629",
+    "content_category": "News and Events",
+    "topic_tags": "learning and education",
+    "position_index": "2",
+    "position_maximum": "5",
+  }'
+  style="--bg-primary-color: #FFF2F2;
+--bg-secondary-color: #FF8983;
+--bg-pull-quote-color: #FF89834D;
+--bg-callout-color: #FFE6E680;
+--text-primary-color: #590000;
+">
+  <div class="yt-short-post-overview__wrapper">
+    
+    <div class="yt-short-post-overview__asset">
+      <a class="yt-short-post-overview__media-link" href="https://blog.youtube/news-and-events/youtube-mark-rober-class-crunchlabs-science-curriculum/" aria-label="We’re partnering with Mark Rober to bring hands-on science to classrooms everywhere">
+        <div class="yt-short-post-overview__asset__media-container">
+          <div class="yt-short-post-overview__asset__media-container__image">
+            <figure class="orientation--landscape"
+              style="aspect-ratio: 16 / 9;">
+              <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/class-crunchlabs-announcement-s.max-900x600.format-webp.webp" alt="" loading="lazy">
+            </figure>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="yt-short-post-overview__content">
+      <div class="yt-short-post-overview__category">
+        <a href="https://blog.youtube/news-and-events/" title="News and Events"
+          data-ga4-analytics-click='{"event": "eyebrow_topic_click"}'>
+          <span>News and Events</span>
+        </a>
+      </div>
+      <h2 class="yt-short-post-overview__title">
+        <a href="https://blog.youtube/news-and-events/youtube-mark-rober-class-crunchlabs-science-curriculum/" aria-label="We’re partnering with Mark Rober to bring hands-on science to classrooms everywhere">
+          We’re partnering with Mark Rober to bring hands-on science to classrooms everywhere
+        </a>
+      </h2>
+      <div class="yt-short-post-overview__info">
+        
+        
+        <p class="yt-short-post-overview__info__date">Jun 29, 2026</p>
+      </div>
+      
+      <div class="yt-short-post-overview__paragraph_mobile"
+        data-component="read-more"
+        style="--mobile-lines: 4;"
+        data-additional-texts='{
+          "readMore": "Show more",
+          "readLess": "Show less",
+        }'>
+          <div class="rich-text"><p data-block-key="0uxip">We’re partnering with <a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg">engineer and creator Mark Rober</a> to bring his signature hands-on science experiments directly into the classroom. Class CrunchLabs is a free, standards-aligned science curriculum for Grades 3-8 designed to spark student curiosity, build teacher confidence, and make science feel doable and fun.</p><p data-block-key="5mqfa">Developed in partnership with the <a href="https://www.nsta.org/">National Science Teaching Association (NSTA)</a>, the full curriculum will include hundreds of hands-on challenges and more than 1,000 banger videos. All video content will be available in 34 languages on the new Class CrunchLabs YouTube channel ready for back-to-school 2026. It's all part of our ongoing effort to make YouTube a go-to resource for high-quality academic content.</p></div>
+      </div>
+      <div class="yt-short-post-overview__paragraph_desktop">
+        <div class="rich-text"><p data-block-key="0uxip">We’re partnering with <a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg">engineer and creator Mark Rober</a> to bring his signature hands-on science experiments directly into the classroom. Class CrunchLabs is a free, standards-aligned science curriculum for Grades 3-8 designed to spark student curiosity, build teacher confidence, and make science feel doable and fun.</p><p data-block-key="5mqfa">Developed in partnership with the <a href="https://www.nsta.org/">National Science Teaching Association (NSTA)</a>, the full curriculum will include hundreds of hands-on challenges and more than 1,000 banger videos. All video content will be available in 34 languages on the new Class CrunchLabs YouTube channel ready for back-to-school 2026. It's all part of our ongoing effort to make YouTube a go-to resource for high-quality academic content.</p></div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+            </li>
+          
+            <li class="yt-carousel-short-posts__carousel__item"
+              role="group"
+              aria-roledescription="slide">
+              
+
+
+
+<div class="yt-short-post-overview"
+  data-analytics-post-read
+  data-analytics-module='{
+    "module_name": "Post Feed",
+    "section_header": "Peacock Premium Plus is now available on YouTube Primetime Channels",
+    "article_name": "Peacock Premium Plus is now available on YouTube Primetime Channels",
+    "author_name": "",
+    "content_category": "News and Events",
+    "publication_date": "20260629",
+    "content_category": "News and Events",
+    "topic_tags": "youtube primetime channels",
+    "position_index": "3",
+    "position_maximum": "5",
+  }'
+  style="--bg-primary-color: #FFF2F2;
+--bg-secondary-color: #FF8983;
+--bg-pull-quote-color: #FF89834D;
+--bg-callout-color: #FFE6E680;
+--text-primary-color: #590000;
+">
+  <div class="yt-short-post-overview__wrapper">
+    
+    <div class="yt-short-post-overview__asset">
+      <a class="yt-short-post-overview__media-link" href="https://blog.youtube/news-and-events/peacock-premium-plus-youtube-primetime-channels/" aria-label="Peacock Premium Plus is now available on YouTube Primetime Channels">
+        <div class="yt-short-post-overview__asset__media-container">
+          <div class="yt-short-post-overview__asset__media-container__image">
+            <figure class="orientation--landscape"
+              style="aspect-ratio: 4 / 3;">
+              <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Peacock_Tile_Wall.max-900x600.format-webp.webp" alt="" loading="lazy">
+            </figure>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="yt-short-post-overview__content">
+      <div class="yt-short-post-overview__category">
+        <a href="https://blog.youtube/news-and-events/" title="News and Events"
+          data-ga4-analytics-click='{"event": "eyebrow_topic_click"}'>
+          <span>News and Events</span>
+        </a>
+      </div>
+      <h2 class="yt-short-post-overview__title">
+        <a href="https://blog.youtube/news-and-events/peacock-premium-plus-youtube-primetime-channels/" aria-label="Peacock Premium Plus is now available on YouTube Primetime Channels">
+          Peacock Premium Plus is now available on YouTube Primetime Channels
+        </a>
+      </h2>
+      <div class="yt-short-post-overview__info">
+        
+        
+        <p class="yt-short-post-overview__info__date">Jun 29, 2026</p>
+      </div>
+      
+      <div class="yt-short-post-overview__paragraph_mobile"
+        data-component="read-more"
+        style="--mobile-lines: 4;"
+        data-additional-texts='{
+          "readMore": "Show more",
+          "readLess": "Show less",
+        }'>
+          <div class="rich-text"><p data-block-key="xfezu">Starting today, Peacock’s Premium Plus tier (currently $16.99/month) is available as a subscription through <a href="https://www.youtube.com/@peacock">YouTube Primetime Channels</a>.</p><p data-block-key="7sb8v">Fans of NBCUniversal content now have the option to subscribe to and watch their favorite content from Peacock with limited ads, including FIFA World Cup 2026™ matches in Spanish and other live sports, NBC and Bravo Series, award-winning Originals, Universal films and more.</p><p data-block-key="av41n">Peacock subscribers can also access Telemundo content, including all FIFA World Cup 2026™ matches and coverage in Spanish, plus news, sports and entertainment programming, all directly on YouTube. Select World Cup matches will feature a free 10-minute look-in at the live match on <a href="https://www.youtube.com/channel/UCjZ7QPKb89R-4SxzBoceyOg">Telemundo Deportes’ YouTube channel</a>, enabling fans to get a preview of the action and the opportunity to subscribe to Peacock to continue watching.</p><p data-block-key="7nb7u">Peacock features marquee live sports like Sunday Night Football, NBA, MLB, Big Ten and Notre Dame College Football, Premier League, WNBA, and more; hit shows such as <i>Love Island USA</i>, <i>The Real Housewives of Rhode Island</i>, <i>Law &amp; Order: SVU</i>, <i>The Traitors</i>, <i>All Her Fault</i>, and <i>The Office</i>; as well as blockbuster Universal movies.</p><p data-block-key="euje7">For more information, visit <a href="https://www.peacocktv.com/blog/peacock-premium-plus-on-youtube-primetime-channels">Peacock’s blog</a> and <a href="https://www.youtube.com/@peacock">the Peacock channel on YouTube</a>.</p></div>
+      </div>
+      <div class="yt-short-post-overview__paragraph_desktop">
+        <div class="rich-text"><p data-block-key="xfezu">Starting today, Peacock’s Premium Plus tier (currently $16.99/month) is available as a subscription through <a href="https://www.youtube.com/@peacock">YouTube Primetime Channels</a>.</p><p data-block-key="7sb8v">Fans of NBCUniversal content now have the option to subscribe to and watch their favorite content from Peacock with limited ads, including FIFA World Cup 2026™ matches in Spanish and other live sports, NBC and Bravo Series, award-winning Originals, Universal films and more.</p><p data-block-key="av41n">Peacock subscribers can also access Telemundo content, including all FIFA World Cup 2026™ matches and coverage in Spanish, plus news, sports and entertainment programming, all directly on YouTube. Select World Cup matches will feature a free 10-minute look-in at the live match on <a href="https://www.youtube.com/channel/UCjZ7QPKb89R-4SxzBoceyOg">Telemundo Deportes’ YouTube channel</a>, enabling fans to get a preview of the action and the opportunity to subscribe to Peacock to continue watching.</p><p data-block-key="7nb7u">Peacock features marquee live sports like Sunday Night Football, NBA, MLB, Big Ten and Notre Dame College Football, Premier League, WNBA, and more; hit shows such as <i>Love Island USA</i>, <i>The Real Housewives of Rhode Island</i>, <i>Law &amp; Order: SVU</i>, <i>The Traitors</i>, <i>All Her Fault</i>, and <i>The Office</i>; as well as blockbuster Universal movies.</p><p data-block-key="euje7">For more information, visit <a href="https://www.peacocktv.com/blog/peacock-premium-plus-on-youtube-primetime-channels">Peacock’s blog</a> and <a href="https://www.youtube.com/@peacock">the Peacock channel on YouTube</a>.</p></div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+            </li>
+          
+            <li class="yt-carousel-short-posts__carousel__item"
+              role="group"
+              aria-roledescription="slide">
+              
+
+
+
+<div class="yt-short-post-overview"
+  data-analytics-post-read
+  data-analytics-module='{
+    "module_name": "Post Feed",
+    "section_header": "Expanding ways to share on YouTube",
+    "article_name": "Expanding ways to share on YouTube",
+    "author_name": "",
+    "content_category": "News and Events",
+    "publication_date": "20260610",
+    "content_category": "News and Events",
+    "topic_tags": "products and features",
+    "position_index": "4",
+    "position_maximum": "5",
+  }'
+  style="--bg-primary-color: #FFF2F2;
+--bg-secondary-color: #FF8983;
+--bg-pull-quote-color: #FF89834D;
+--bg-callout-color: #FFE6E680;
+--text-primary-color: #590000;
+">
+  <div class="yt-short-post-overview__wrapper">
+    
+    <div class="yt-short-post-overview__asset">
+      <a class="yt-short-post-overview__media-link" href="https://blog.youtube/news-and-events/youtube-in-app-video-sharing-messaging/" aria-label="Expanding ways to share on YouTube">
+        <div class="yt-short-post-overview__asset__media-container">
+          <div class="yt-short-post-overview__asset__media-container__image">
+            <figure class="orientation--square"
+              style="aspect-ratio: 1 / 1;">
+              <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/youtube-mobile-homepage-sharing.max-900x600.format-webp.webp" alt="" loading="lazy">
+            </figure>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="yt-short-post-overview__content">
+      <div class="yt-short-post-overview__category">
+        <a href="https://blog.youtube/news-and-events/" title="News and Events"
+          data-ga4-analytics-click='{"event": "eyebrow_topic_click"}'>
+          <span>News and Events</span>
+        </a>
+      </div>
+      <h2 class="yt-short-post-overview__title">
+        <a href="https://blog.youtube/news-and-events/youtube-in-app-video-sharing-messaging/" aria-label="Expanding ways to share on YouTube">
+          Expanding ways to share on YouTube
+        </a>
+      </h2>
+      <div class="yt-short-post-overview__info">
+        
+        
+        <p class="yt-short-post-overview__info__date">Jun 10, 2026</p>
+      </div>
+      
+      <div class="yt-short-post-overview__paragraph_mobile"
+        data-component="read-more"
+        style="--mobile-lines: 4;"
+        data-additional-texts='{
+          "readMore": "Show more",
+          "readLess": "Show less",
+        }'>
+          <div class="rich-text"><p data-block-key="vo7lw">Our community loves to share videos with their friends and family, and we want them to be able to do it in one place. Today, we’re starting to expand our in-app video sharing and messaging feature to the U.S. and other global locations so more users 18 and older can connect over their favorite videos directly on YouTube.</p><p data-block-key="cdnso">Whether it’s a new music video, a helpful tutorial, or a funny <a href="https://blog.youtube/topic-hub/shorts/">Short</a>, this update will give users a new way to share right where they’re watching. Simply click the <a href="https://support.google.com/youtube/answer/16650958?hl=en&amp;co=GENIE.Platform%3DAndroid#zippy=%2Cinvite-others-to-share-content-accept-invites">new messaging icon</a> directly within the YouTube app to send an invite to share videos and react in real-time.</p><p data-block-key="3fise">This update builds on the positive user response we’ve seen <a href="https://support.google.com/youtube/answer/16650958?hl=en&amp;co=GENIE.Platform%3DAndroid">in the countries</a> where it’s already live. As with all features on YouTube, our <a href="https://support.google.com/youtube/answer/9288567?hl=en">Community Guidelines</a> apply to all shared content and messages.</p><p data-block-key="ea78u">We’re excited for user feedback in new markets and look forward to expanding even further soon.</p></div>
+      </div>
+      <div class="yt-short-post-overview__paragraph_desktop">
+        <div class="rich-text"><p data-block-key="vo7lw">Our community loves to share videos with their friends and family, and we want them to be able to do it in one place. Today, we’re starting to expand our in-app video sharing and messaging feature to the U.S. and other global locations so more users 18 and older can connect over their favorite videos directly on YouTube.</p><p data-block-key="cdnso">Whether it’s a new music video, a helpful tutorial, or a funny <a href="https://blog.youtube/topic-hub/shorts/">Short</a>, this update will give users a new way to share right where they’re watching. Simply click the <a href="https://support.google.com/youtube/answer/16650958?hl=en&amp;co=GENIE.Platform%3DAndroid#zippy=%2Cinvite-others-to-share-content-accept-invites">new messaging icon</a> directly within the YouTube app to send an invite to share videos and react in real-time.</p><p data-block-key="3fise">This update builds on the positive user response we’ve seen <a href="https://support.google.com/youtube/answer/16650958?hl=en&amp;co=GENIE.Platform%3DAndroid">in the countries</a> where it’s already live. As with all features on YouTube, our <a href="https://support.google.com/youtube/answer/9288567?hl=en">Community Guidelines</a> apply to all shared content and messages.</p><p data-block-key="ea78u">We’re excited for user feedback in new markets and look forward to expanding even further soon.</p></div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+            </li>
+          
+            <li class="yt-carousel-short-posts__carousel__item"
+              role="group"
+              aria-roledescription="slide">
+              
+
+
+
+<div class="yt-short-post-overview"
+  data-analytics-post-read
+  data-analytics-module='{
+    "module_name": "Post Feed",
+    "section_header": "Watch Stella Lefty’s exclusive ‘Boston’ performance on YouTube",
+    "article_name": "Watch Stella Lefty’s exclusive ‘Boston’ performance on YouTube",
+    "author_name": "",
+    "content_category": "News and Events",
+    "publication_date": "20260610",
+    "content_category": "News and Events",
+    "topic_tags": "youtube music",
+    "position_index": "5",
+    "position_maximum": "5",
+  }'
+  style="--bg-primary-color: #FFF2F2;
+--bg-secondary-color: #FF8983;
+--bg-pull-quote-color: #FF89834D;
+--bg-callout-color: #FFE6E680;
+--text-primary-color: #590000;
+">
+  <div class="yt-short-post-overview__wrapper">
+    
+    <div class="yt-short-post-overview__asset">
+      <a class="yt-short-post-overview__media-link" href="https://blog.youtube/news-and-events/stella-lefty-boston-video/" aria-label="Watch Stella Lefty’s exclusive ‘Boston’ performance on YouTube">
+        <div class="yt-short-post-overview__asset__media-container">
+          <div class="yt-short-post-overview__asset__media-container__image">
+            <figure class="orientation--portrait"
+              style="aspect-ratio: 3 / 4;">
+              <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/stella-lefty-headshot-boston-pe.max-900x600.format-webp.webp" alt="" loading="lazy">
+            </figure>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="yt-short-post-overview__content">
+      <div class="yt-short-post-overview__category">
+        <a href="https://blog.youtube/news-and-events/" title="News and Events"
+          data-ga4-analytics-click='{"event": "eyebrow_topic_click"}'>
+          <span>News and Events</span>
+        </a>
+      </div>
+      <h2 class="yt-short-post-overview__title">
+        <a href="https://blog.youtube/news-and-events/stella-lefty-boston-video/" aria-label="Watch Stella Lefty’s exclusive ‘Boston’ performance on YouTube">
+          Watch Stella Lefty’s exclusive ‘Boston’ performance on YouTube
+        </a>
+      </h2>
+      <div class="yt-short-post-overview__info">
+        
+        
+        <p class="yt-short-post-overview__info__date">Jun 10, 2026</p>
+      </div>
+      
+      <div class="yt-short-post-overview__paragraph_mobile"
+        data-component="read-more"
+        style="--mobile-lines: 4;"
+        data-additional-texts='{
+          "readMore": "Show more",
+          "readLess": "Show less",
+        }'>
+          <div class="rich-text"><p data-block-key="hozgk">Rising country-pop singer-songwriter Stella Lefty is an artist you need to know. Today, her breakout hit, “Boston,” gets a new life with a performance video premiering exclusively on <a href="https://youtu.be/Xh0GyxWgKPs">YouTube</a>.</p><p data-block-key="v02o">At just 23 years old, the LA-based singer-songwriter is making her mark by blending pop sensibilities with the vulnerable storytelling of country music. Lefty was featured as a <a href="https://docs.google.com/document/d/1IHT9vv12hRjySJL25e0HiLYV6va1568rZ9yi6TJEZvM/edit?resourcekey=0-ss3OclWzOiIspnEkOrTQAw&amp;tab=t.thq6y4bfd8wc#:~:text=on%20YouTube%20Music-,https%3A//www.youtube.com/playlist%3Flist%3DOLJBWz2Zk1hmY6R12VywQTbNCe_pNW_E69Q,-Caroline%20Bourdeau">Trending Artist on the Rise</a> in May, as her track “Boston” climbed the charts. In 2026, her music has more than 160M views<sup>1</sup> and her monthly audience has grown to over 19M unique viewers on YouTube<sup>2</sup>. She’s sold out headline shows in minutes and is hitting the road this summer with some of music’s biggest names.</p><p data-block-key="98uq4">“Seeing people around the world discover ‘Boston’ has been so awesome,” said Lefty. “I made this song with my friends so it only made sense to make this video with my friends as well. I hope people love it as much as we loved making it!"</p><p data-block-key="94k1k">Get your front-row seat and watch the exclusive performance video for “Boston” <a href="https://youtu.be/Xh0GyxWgKPs">now on YouTube</a>.</p><p data-block-key="an7uj"><i><sub>1. 2. As of June 8, 2026</sub></i></p></div>
+      </div>
+      <div class="yt-short-post-overview__paragraph_desktop">
+        <div class="rich-text"><p data-block-key="hozgk">Rising country-pop singer-songwriter Stella Lefty is an artist you need to know. Today, her breakout hit, “Boston,” gets a new life with a performance video premiering exclusively on <a href="https://youtu.be/Xh0GyxWgKPs">YouTube</a>.</p><p data-block-key="v02o">At just 23 years old, the LA-based singer-songwriter is making her mark by blending pop sensibilities with the vulnerable storytelling of country music. Lefty was featured as a <a href="https://docs.google.com/document/d/1IHT9vv12hRjySJL25e0HiLYV6va1568rZ9yi6TJEZvM/edit?resourcekey=0-ss3OclWzOiIspnEkOrTQAw&amp;tab=t.thq6y4bfd8wc#:~:text=on%20YouTube%20Music-,https%3A//www.youtube.com/playlist%3Flist%3DOLJBWz2Zk1hmY6R12VywQTbNCe_pNW_E69Q,-Caroline%20Bourdeau">Trending Artist on the Rise</a> in May, as her track “Boston” climbed the charts. In 2026, her music has more than 160M views<sup>1</sup> and her monthly audience has grown to over 19M unique viewers on YouTube<sup>2</sup>. She’s sold out headline shows in minutes and is hitting the road this summer with some of music’s biggest names.</p><p data-block-key="98uq4">“Seeing people around the world discover ‘Boston’ has been so awesome,” said Lefty. “I made this song with my friends so it only made sense to make this video with my friends as well. I hope people love it as much as we loved making it!"</p><p data-block-key="94k1k">Get your front-row seat and watch the exclusive performance video for “Boston” <a href="https://youtu.be/Xh0GyxWgKPs">now on YouTube</a>.</p><p data-block-key="an7uj"><i><sub>1. 2. As of June 8, 2026</sub></i></p></div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+            </li>
+          
+        </ul>
+        <div class="yt-carousel-short-posts__controls" role="group" aria-label="slide controls">
+          <div class="yt-carousel-short-posts__button-container yt-carousel-short-posts__button-container--prev">
+            <button aria-label="previous post" disabled="true">
+              <svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_previous_arrow"></use>
+</svg>
+
+            </button>
+          </div>
+          <div class="yt-carousel-short-posts__pagination">
+            <span class="yt-carousel-short-posts__pagination__current">1</span>
+            <span class="yt-carousel-short-posts__pagination__separator" role="presentation"></span>
+            <span class="yt-carousel-short-posts__pagination__total">5</span>
+          </div>
+          <div class="yt-carousel-short-posts__button-container yt-carousel-short-posts__button-container--next">
+            <button aria-label="next post">
+              <svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_previous_arrow"></use>
+</svg>
+
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    
+        
+
+<section
+  class="yt-article-grid"
+  data-component="yt-article-grid"
+  data-excluded='{
+    "excluded_ids": "85656,85655,85576,85603"
+  }'
+  data-articles-limit="6"
+  data-options='{
+  "site_id": "4",
+  "page_id": "39322",
+  "tags": "",
+  "show_hero": "True",
+  "show_tags": "True",
+  "hero_size": "medium",
+  "image_format": "webp",
+  "author_id": "",
+  
+  }'
+  data-error-content='{
+    "errorText": "error loading",
+    "buttonText": "try again"
+  }'
+  data-additional-texts='{
+    "loadMore": "load more",
+    "loadMoreAriaLabel": "Load more articles",
+  }'
+  data-analytics-module='{
+    "module_name": "Card Grid",
+    "section_header": "YouTube Official Blog",
+    "has_impression": true,
+    "track_component_action_event": "true",
+    "component_action": "card_grid_interaction",
+  }'>
+
+  <div class="yt-article-grid__headline">
+    
+      <h2 class="sr-only">YouTube Official Blog Card Grid</h2>
+    
+  </div>
+  
+    
+
+<div class="filter-topics"
+     data-analytics-module='{
+      "module_name": "Filter Grid",
+      "section_header": "YouTube Official Blog",
+  }'>
+  <ul class="filter-topics__list">
+    <li>
+      <button class="filter-topics__button active" aria-label="Latest, 1 of 7" data-position="1">
+          <span class="filter-topics__button-content">
+            Latest
+          </span>
+      </button>
+    </li>
+    
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="Trending, 2 of 7"
+          data-position="2"
+          data-tag="youtube-trending"
+        >
+          <span class="filter-topics__button-content">
+            Trending
+          </span>
+        </button>
+      </li>
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="Creators, 3 of 7"
+          data-position="3"
+          data-tag="creators"
+        >
+          <span class="filter-topics__button-content">
+            Creators
+          </span>
+        </button>
+      </li>
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="Experience YouTube, 4 of 7"
+          data-position="4"
+          data-tag="youtube-experience-youtube"
+        >
+          <span class="filter-topics__button-content">
+            Experience YouTube
+          </span>
+        </button>
+      </li>
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="AI, 5 of 7"
+          data-position="5"
+          data-tag="youtube-ai"
+        >
+          <span class="filter-topics__button-content">
+            AI
+          </span>
+        </button>
+      </li>
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="Culture and Trends, 6 of 7"
+          data-position="6"
+          data-tag="culture-and-trends"
+        >
+          <span class="filter-topics__button-content">
+            Culture and Trends
+          </span>
+        </button>
+      </li>
+      
+      <li>
+        <button
+          class="filter-topics__button"
+          aria-label="YouTube Music, 7 of 7"
+          data-position="7"
+          data-tag="youtube-music"
+        >
+          <span class="filter-topics__button-content">
+            YouTube Music
+          </span>
+        </button>
+      </li>
+      
+    
+  </ul>
+  <div class="filter-topics__navigation">
+    <span class="filter-topics__start-background hidden"></span>
+    <button
+      class="filter-topics__arrow-button filter-topics__arrow-button--back hidden"
+      aria-label="View more filter options"
+      tabindex="-1">
+      <svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_previous_arrow"></use>
+</svg>
+
+    </button>
+    <span class="filter-topics__end-background"></span>
+    <button
+      class="filter-topics__arrow-button filter-topics__arrow-button--forward"
+      aria-label="View more filter options"
+      tabindex="-1">
+      <svg
+  
+  role="presentation"
+  
+  
+  
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_previous_arrow"></use>
+</svg>
+
+    </button>
+  </div>
+</div>
+
+  
+  <div class="yt-article-grid-list-container">
+    <ul class="yt-article-grid-list">
+    </ul>
+    <div class="yt-article-grid-list-skeleton" role=""presentation>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+        <div class="yt-skeleton yt-skeleton--animate-gradient">
+          <div class="yt-skeleton__line w-full h-full"></div>
+          <div class="yt-skeleton__line w-half"></div>
+          <div class="yt-skeleton__line w-half h-half"></div>
+          <div class="yt-skeleton__line w-one-fourth"></div>
+        </div>
+      
+    </div>
+  </div>
+</section>
+
+    
+        
+
+<section class="youtube-specific-topic" data-component="yt-specific-topic"
+  data-analytics-module='{
+    "module_name": "Specific topic",
+    "section_header": "FIFA World Cup 2026™ on YouTube",
+    "track_component_action_event": "true"
+  }'>
+  <div class="youtube-specific-topic__wrapper">
+    <div class="youtube-specific-topic__headline">
+      <h2 class="youtube-specific-topic__title">
+        <span class="youtube-specific-topic__eyebrow">
+          FIFA World Cup
+        </span>
+        FIFA World Cup 2026™ on YouTube
+      </h2>
+      <p class="youtube-specific-topic__description">YouTube has teamed up with FIFA for World Cup 2026™ as a preferred platform partner, so you&#x27;ll be able to catch all the action, highlights, analysis and more.</p>
+    </div>
+    <ul class="youtube-specific-topic__cards">
+      
+      <li>
+        
+
+
+
+<div
+  class="youtube-specific-topic-card youtube-specific-topic-card--news-and-events youtube-specific-topic-card--compressed"
+  
+    data-type="image"
+  
+  data-article-info='{
+    "publication_date":"20260610",
+    "topic_tags":"fifa world cup,youtube sports,culture and trends,events",
+    "content_category":"News and Events"
+  }'
+>
+  <div class="youtube-specific-topic-card__wrapper">
+    
+    
+    <div class="youtube-specific-topic-card__multimedia">
+      
+        
+
+<a class="youtube-specific-topic-card__media-link" aria-label="How to watch the 2026 FIFA World Cup™ on YouTube" href="https://blog.youtube/news-and-events/watch-fifa-world-cup-youtube/">
+  <figure class="youtube-specific-topic-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Shorts_GFX_CreatorsCup_KeyVisual_GIF_853x480p_051926.gif"
+      alt="Animated graphic featuring the FIFA and YouTube logos"
+      class="youtube-specific-topic-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Shorts_GFX_CreatorsCup_KeyVisual_GIF_853x480p_051926.gif",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Shorts_GFX_CreatorsCup_KeyVisual_GIF_853x480p_051926.gif"
+      }'
+    >
+  </figure>
+</a>
+
+      
+    </div>
+    
+    <div class="youtube-specific-topic-card__info">
+      <a class="youtube-specific-topic-card__eyebrow" href="https://blog.youtube/news-and-events/">
+        <span class="youtube-specific-topic-card__eyebrow-content">
+          News and Events
+        </span>
+      </a>
+      <h3 class="youtube-specific-topic-card__title">
+        <a class="youtube-specific-topic-card__article-link" href="https://blog.youtube/news-and-events/watch-fifa-world-cup-youtube/">How to watch the 2026 FIFA World Cup™ on YouTube</a>
+      </h3>
+    </div>
+    <div class="youtube-specific-topic-card__tags-container">
+      <ul class="youtube-specific-topic-card__tags">
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/news-and-events/"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Events
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/fifa-world-cup/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              FIFA World Cup
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/sports/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              YouTube Sports
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/culture-and-trends/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Culture and Trends
+            </span>
+          </a>
+        </li>
+        
+      </ul>
+      <button class="youtube-specific-topic-card__button">
+        <span class="youtube-specific-topic-card__button-content">
+          <span class="youtube-specific-topic-card__more">...</span>
+          <svg class="youtube-specific-topic-card__less" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40">
+            <path stroke="currentColor" stroke-width="3" d="m6.061 6.013 28 28M34.061 6.061l-28 28"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+
+      </li>
+      
+      <li>
+        
+
+
+
+<div
+  class="youtube-specific-topic-card youtube-specific-topic-card--news-and-events youtube-specific-topic-card--compressed"
+  
+    data-type="image"
+  
+  data-article-info='{
+    "publication_date":"20260610",
+    "topic_tags":"fifa world cup,culture and trends,youtube sports",
+    "content_category":"News and Events"
+  }'
+>
+  <div class="youtube-specific-topic-card__wrapper">
+    
+    
+    <div class="youtube-specific-topic-card__multimedia">
+      
+        
+
+<a class="youtube-specific-topic-card__media-link" aria-label="YouTube FIFA Creator Cup announced alongside global creator roster for FIFA World Cup 2026™" href="https://blog.youtube/news-and-events/youtube-fifa-world-cup-lineup/">
+  <figure class="youtube-specific-topic-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Creator_Image.max-100x100.format-webp.webp"
+      alt="A grid of portrait photos of various global YouTube creators against a black background. Below the portraits, the official FIFA World Cup 26 trophy logo is displayed next to the red and white YouTube logo."
+      class="youtube-specific-topic-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Creator_Image.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Creator_Image.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+      
+    </div>
+    
+    <div class="youtube-specific-topic-card__info">
+      <a class="youtube-specific-topic-card__eyebrow" href="https://blog.youtube/news-and-events/">
+        <span class="youtube-specific-topic-card__eyebrow-content">
+          News and Events
+        </span>
+      </a>
+      <h3 class="youtube-specific-topic-card__title">
+        <a class="youtube-specific-topic-card__article-link" href="https://blog.youtube/news-and-events/youtube-fifa-world-cup-lineup/">YouTube FIFA Creator Cup announced alongside global creator roster for FIFA World Cup 2026™</a>
+      </h3>
+    </div>
+    <div class="youtube-specific-topic-card__tags-container">
+      <ul class="youtube-specific-topic-card__tags">
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/sports/"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              YouTube Sports
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/fifa-world-cup/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              FIFA World Cup
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/culture-and-trends/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Culture and Trends
+            </span>
+          </a>
+        </li>
+        
+      </ul>
+      <button class="youtube-specific-topic-card__button">
+        <span class="youtube-specific-topic-card__button-content">
+          <span class="youtube-specific-topic-card__more">...</span>
+          <svg class="youtube-specific-topic-card__less" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40">
+            <path stroke="currentColor" stroke-width="3" d="m6.061 6.013 28 28M34.061 6.061l-28 28"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+
+      </li>
+      
+      <li>
+        
+
+
+
+<div
+  class="youtube-specific-topic-card youtube-specific-topic-card--news-and-events youtube-specific-topic-card--compressed"
+  
+    data-type="image"
+  
+  data-article-info='{
+    "publication_date":"20260317",
+    "topic_tags":"events,culture and trends,fifa world cup,youtube sports",
+    "content_category":"News and Events"
+  }'
+>
+  <div class="youtube-specific-topic-card__wrapper">
+    
+    
+    <div class="youtube-specific-topic-card__multimedia">
+      
+        
+
+<a class="youtube-specific-topic-card__media-link" aria-label="It’s official: YouTube and FIFA team up for the FIFA World Cup 2026™" href="https://blog.youtube/news-and-events/fifa-world-cup-2026-youtube-partnership/">
+  <figure class="youtube-specific-topic-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_FIFA_blogpost_12801280.max-100x100.format-webp.webp"
+      alt="FIFA and YouTube logos"
+      class="youtube-specific-topic-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_FIFA_blogpost_12801280.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_FIFA_blogpost_12801280.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+      
+    </div>
+    
+    <div class="youtube-specific-topic-card__info">
+      <a class="youtube-specific-topic-card__eyebrow" href="https://blog.youtube/news-and-events/">
+        <span class="youtube-specific-topic-card__eyebrow-content">
+          News and Events
+        </span>
+      </a>
+      <h3 class="youtube-specific-topic-card__title">
+        <a class="youtube-specific-topic-card__article-link" href="https://blog.youtube/news-and-events/fifa-world-cup-2026-youtube-partnership/">It’s official: YouTube and FIFA team up for the FIFA World Cup 2026™</a>
+      </h3>
+    </div>
+    <div class="youtube-specific-topic-card__tags-container">
+      <ul class="youtube-specific-topic-card__tags">
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/sports/"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              YouTube Sports
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/news-and-events/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Events
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/culture-and-trends/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Culture and Trends
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/fifa-world-cup/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              FIFA World Cup
+            </span>
+          </a>
+        </li>
+        
+      </ul>
+      <button class="youtube-specific-topic-card__button">
+        <span class="youtube-specific-topic-card__button-content">
+          <span class="youtube-specific-topic-card__more">...</span>
+          <svg class="youtube-specific-topic-card__less" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40">
+            <path stroke="currentColor" stroke-width="3" d="m6.061 6.013 28 28M34.061 6.061l-28 28"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+
+      </li>
+      
+      <li>
+        
+
+
+
+<div
+  class="youtube-specific-topic-card youtube-specific-topic-card--news-and-events youtube-specific-topic-card--compressed"
+  
+    data-type="image"
+  
+  data-article-info='{
+    "publication_date":"20260625",
+    "topic_tags":"youtube sports,creators,events,culture and trends,fifa world cup",
+    "content_category":"News and Events"
+  }'
+>
+  <div class="youtube-specific-topic-card__wrapper">
+    
+    
+    <div class="youtube-specific-topic-card__multimedia">
+      
+        
+
+<a class="youtube-specific-topic-card__media-link" aria-label="These YouTube creators are capturing the energy of the FIFA World Cup 2026™" href="https://blog.youtube/news-and-events/youtube-creators-fifa-world-cup/">
+  <figure class="youtube-specific-topic-card__image-container">
+    
+    
+    
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SnapInsta.to_722520446_18608190.max-100x100.format-webp.webp"
+      alt="A close-up of an excited young man cheering with clenched fists on a soccer field, wearing a blue vest that reads &quot;FIFA CREATOR.&quot; In the background,"
+      class="youtube-specific-topic-card__image"
+      loading="lazy"
+      data-loading='{
+        "mobile": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SnapInsta.to_722520446_1860819077.width-500.format-webp.webp",
+        "desktop": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SnapInsta.to_722520446_1860819077.width-800.format-webp.webp"
+      }'
+    >
+  </figure>
+</a>
+
+      
+    </div>
+    
+    <div class="youtube-specific-topic-card__info">
+      <a class="youtube-specific-topic-card__eyebrow" href="https://blog.youtube/news-and-events/">
+        <span class="youtube-specific-topic-card__eyebrow-content">
+          News and Events
+        </span>
+      </a>
+      <h3 class="youtube-specific-topic-card__title">
+        <a class="youtube-specific-topic-card__article-link" href="https://blog.youtube/news-and-events/youtube-creators-fifa-world-cup/">These YouTube creators are capturing the energy of the FIFA World Cup 2026™</a>
+      </h3>
+    </div>
+    <div class="youtube-specific-topic-card__tags-container">
+      <ul class="youtube-specific-topic-card__tags">
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/fifa-world-cup/"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              FIFA World Cup
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/sports/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              YouTube Sports
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/topic-hub/creators/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Creators
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/news-and-events/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Events
+            </span>
+          </a>
+        </li>
+        
+        <li class="youtube-specific-topic-card__tag-container">
+          <a
+            class="youtube-specific-topic-card__tag"
+            href="https://blog.youtube/culture-and-trends/"
+            tabindex="-1"
+          >
+            <span class="youtube-specific-topic-card__tag-content">
+              Culture and Trends
+            </span>
+          </a>
+        </li>
+        
+      </ul>
+      <button class="youtube-specific-topic-card__button">
+        <span class="youtube-specific-topic-card__button-content">
+          <span class="youtube-specific-topic-card__more">...</span>
+          <svg class="youtube-specific-topic-card__less" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 40 40">
+            <path stroke="currentColor" stroke-width="3" d="m6.061 6.013 28 28M34.061 6.061l-28 28"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+
+      </li>
+      
+    </ul>
+    
+    <a
+      class="youtube-specific-topic__cta"
+      href="https://blog.youtube/topic-hub/fifa-world-cup/"
+      data-ga4-analytics-click='{"event":"cta_click", "event_template":"CTA_CLICK_TEMPLATE", "component_action": "click"}'
+    >
+      <span class="youtube-specific-topic__cta-content">
+        Read more
+      </span>
+    </a>
+    
+  </div>
+</section>
+
+    
+        
+
+
+<div class="youtube-discover-more"
+ data-analytics-module='{
+  "module_name": "Discover more",
+  "section_header": "YouTube Official Blog",
+  "event_template": "DISCOVER_MORE_CLICK_TEMPLATE",
+  "component_action": "click",
+  "track_component_action_event": "true"
+  }'
+>
+  <div class="youtube-discover-more__wrapper">
+    <h2 class="youtube-discover-more__title">Discover More</h2>
+    <ul class="youtube-discover-more__tags">
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/ai/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 1,
+            "position_index": 1,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          AI
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="/search/?query=Artists&amp;tags=Artists"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 2,
+            "position_index": 2,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Artists
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="/search/?query=Health&amp;tags=Health"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 3,
+            "position_index": 3,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Health
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/learning-education/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 4,
+            "position_index": 4,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Learning and Education
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="/search/?query=Made On YouTube&amp;tags=Made On YouTube"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 5,
+            "position_index": 5,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Made On YouTube
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/youtube-premium/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 6,
+            "position_index": 6,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          YouTube Premium
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/yoodles/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 7,
+            "position_index": 7,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Yoodles
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/policy/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 8,
+            "position_index": 8,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Policy
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/products-features/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 9,
+            "position_index": 9,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Products and Features
+        </a>
+      </li>
+      
+      <li class="youtube-discover-more__tag">
+        <a
+          class="youtube-discover-more__link"
+          href="https://blog.youtube/topic-hub/work-diaries/"
+          data-ga4-analytics-click='{
+            "event": "discover_more_click",
+            "position": 10,
+            "position_index": 10,
+            "position_maximum": 10,
+            "topic_tags": "ai,artists,health,learning and education,made on youtube,youtube premium,yoodles,policy,products and features,work diaries"
+          }'
+        >
+          Work Diaries
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+    
+  
+  
+  
+    
+
+<div class="yt-newsletter-toast" data-component="yt-newsletter-toast">
+  <div class="yt-newsletter-toast__container">
+    <div class="yt-newsletter-toast__content"
+      data-analytics-module='{
+        "module_name": "newsletter toast",
+        "section_header": "YouTube Official Blog"
+      }'>
+      <div class="yt-newsletter-toast__content--info">
+        <span class="yt-newsletter-toast__content--img">
+          <svg
+  
+  
+  aria-hidden="true"
+  
+  class="icon"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_mail_toast"></use>
+</svg>
+
+        </span>
+        <p class="yt-newsletter-toast__content--text">
+          Want more from The YouTube Blog? Join our newsletter!
+        </p>
+      </div>
+      <a
+        class="yt-newsletter-toast--cta-sub yt-button--light"
+        aria-label="Newsletter subscribe"
+        data-content-type="blog_youtube | YouTube Homepage"
+        data-trigger-subscription-modal>
+        Subscribe
+      </a>
+      <button
+        aria-label=close
+        class="yt-newsletter-toast--close-button"
+        data-content-type="blog_youtube | YouTube Homepage">
+        <svg
+  
+  
+  aria-hidden="true"
+  
+  class="icon"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_close_toast"></use>
+</svg>
+
+      </button>
+    </div>
+  </div>
+</div>
+
+  
+
+        </main>
+
+        
+
+
+
+<footer class="yt-footer js-yt-gtm-footer" data-component="yt-footer" data-analytics-module='
+{
+  "module_name": "footer"
+}'>
+  <div class="yt-footer__wrapper">
+    <div class="yt-footer__row">
+        <div class="yt-footer__intro-section">
+          <div class="yt-footer__logo-container">
+            
+            <svg
+  
+  role="img"
+  
+  aria-label="YouTube Official Blog logo"
+  class="yt-footer__logo"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo_footer"></use>
+</svg>
+
+          </div>
+          <p class="yt-footer__description">
+            Explore the latest company news, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights on the YouTube Official Blog.
+          </p>
+        </div>
+        <div class="yt-footer__info-section yt-footer__top-nav" data-component="yt-accordion">
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-top-1">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>Our Channels</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/user/YouTube" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube",
+          "link_url": "https://www.youtube.com/user/YouTube"
+        }'>
+          YouTube
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/user/creatoracademy" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Creators",
+          "link_url": "https://www.youtube.com/user/creatoracademy"
+        }'>
+          YouTube Creators
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/channel/UCGg-UqjRgzhYDPJMr-9HXCg" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creator Insider",
+          "link_url": "https://www.youtube.com/channel/UCGg-UqjRgzhYDPJMr-9HXCg"
+        }'>
+          Creator Insider
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/user/YouTubeHelp" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "TeamYouTube [Help]",
+          "link_url": "https://www.youtube.com/user/YouTubeHelp"
+        }'>
+          TeamYouTube [Help]
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/@YouTubeInsider" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Liaison",
+          "link_url": "https://www.youtube.com/@YouTubeInsider"
+        }'>
+          YouTube Liaison
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-top-2">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>X (Twitter)</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/YouTube" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube",
+          "link_url": "https://x.com/YouTube"
+        }'>
+          YouTube
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/YouTubeInsider" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Liaison",
+          "link_url": "https://x.com/YouTubeInsider"
+        }'>
+          YouTube Liaison
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/YouTubeCreators" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Creators",
+          "link_url": "https://x.com/YouTubeCreators"
+        }'>
+          YouTube Creators
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/teamyoutube" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "TeamYouTube",
+          "link_url": "https://x.com/teamyoutube"
+        }'>
+          TeamYouTube
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/youtubegaming" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Gaming",
+          "link_url": "https://x.com/youtubegaming"
+        }'>
+          YouTube Gaming
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/youtubetv" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube TV",
+          "link_url": "https://x.com/youtubetv"
+        }'>
+          YouTube TV
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/youtubemusic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Music",
+          "link_url": "https://x.com/youtubemusic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        }'>
+          YouTube Music
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://x.com/YouTubeInsider" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTubeInsider",
+          "link_url": "https://x.com/YouTubeInsider"
+        }'>
+          YouTubeInsider
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+        </div>
+    </div>
+    <div class="yt-footer__row">
+        <div class="yt-footer__info-section-social">
+          <div class="yt-footer__info-section-social-title">Connect</div>
+          <div class="yt-footer__info-section-social-network-wrapper">
+            
+
+<section class="yt-social js-yt-gtm-social" >
+    <div class="yt-social__list"  data-analytics-module='{
+      "module_name": "Footer Connect",
+      "section_header": "undefined",
+      "topic_tags": "undefined"
+    }'>
+        
+        <ul class="">
+          
+            
+              <li class="yt-social__list-item">
+                  <a class="yt-social__list-link"
+                  
+                  
+                    aria-label="Instagram"
+                  
+                  href="https://www.instagram.com/youtube/"
+                  target="_blank"
+                  data-use-custom-options
+                  data-ga4-analytics-click='{
+                    "event": "social_follow",
+                    "method": "Instagram",
+                    "link_text": "undefined",
+                    "link_url": "https://www.instagram.com/youtube/",
+                    "article_name": "undefined"
+                  }'
+                  data-analytics-click='
+                  {
+                    "event": "trackEvent",
+                    "eventCategory": "progress",
+                    "eventAction": "footer - social share click",
+                    "eventLabel": "social - https://www.instagram.com/youtube/",
+                    "componentType": "footer"
+                  }'>
+                      <svg
+  
+  
+  aria-hidden="true"
+  
+  class="yt-social__list-svg"
+  
+  
+  viewBox="0 0 18 18"
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#social_instagram"></use>
+</svg>
+
+                  </a>
+              </li>
+            
+          
+            
+              <li class="yt-social__list-item">
+                  <a class="yt-social__list-link"
+                  
+                  
+                    aria-label="Facebook"
+                  
+                  href="https://www.facebook.com/youtube"
+                  target="_blank"
+                  data-use-custom-options
+                  data-ga4-analytics-click='{
+                    "event": "social_follow",
+                    "method": "Facebook",
+                    "link_text": "undefined",
+                    "link_url": "https://www.facebook.com/youtube",
+                    "article_name": "undefined"
+                  }'
+                  data-analytics-click='
+                  {
+                    "event": "trackEvent",
+                    "eventCategory": "progress",
+                    "eventAction": "footer - social share click",
+                    "eventLabel": "social - https://www.facebook.com/youtube",
+                    "componentType": "footer"
+                  }'>
+                      <svg
+  
+  
+  aria-hidden="true"
+  
+  class="yt-social__list-svg"
+  
+  
+  viewBox="0 0 18 18"
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_social_facebook"></use>
+</svg>
+
+                  </a>
+              </li>
+            
+          
+        </ul>
+    </div>
+  </section>
+
+          </div>
+        </div>
+    </div>
+    <div class="yt-footer__row">
+        <div class="yt-footer__info-section yt-footer__mid-nav" data-component="yt-accordion">
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-nav-1">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>About YouTube</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://about.youtube/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "About",
+          "link_url": "https://about.youtube/"
+        }'>
+          About
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="/press/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Press",
+          "link_url": "/press/"
+        }'>
+          Press
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/jobs/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Jobs",
+          "link_url": "https://www.youtube.com/jobs/"
+        }'>
+          Jobs
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/howyoutubeworks/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "How YouTube Works",
+          "link_url": "https://www.youtube.com/howyoutubeworks/"
+        }'>
+          How YouTube Works
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/trends/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Culture &amp; Trends",
+          "link_url": "https://www.youtube.com/trends/"
+        }'>
+          YouTube Culture &amp; Trends
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://support.google.com/youtube/community" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Community Forum",
+          "link_url": "https://support.google.com/youtube/community"
+        }'>
+          Community Forum
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-nav-2">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>YouTube Products</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/kids/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Kids",
+          "link_url": "https://www.youtube.com/kids/"
+        }'>
+          YouTube Kids
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/musicpremium" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Music",
+          "link_url": "https://www.youtube.com/musicpremium"
+        }'>
+          YouTube Music
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Originals",
+          "link_url": "https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ"
+        }'>
+          YouTube Originals
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/premium/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube Premium",
+          "link_url": "https://www.youtube.com/premium/"
+        }'>
+          YouTube Premium
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://tv.youtube.com/welcome/?zipcode=78702" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube TV",
+          "link_url": "https://tv.youtube.com/welcome/?zipcode=78702"
+        }'>
+          YouTube TV
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-nav-3">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>For Business</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/ads/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Advertising",
+          "link_url": "https://www.youtube.com/ads/"
+        }'>
+          Advertising
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://developers.google.com/youtube" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Developers",
+          "link_url": "https://developers.google.com/youtube"
+        }'>
+          Developers
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-nav-4">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>For Creators</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://artists.youtube/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Artists",
+          "link_url": "https://artists.youtube/"
+        }'>
+          Artists
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/creators/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creators",
+          "link_url": "https://www.youtube.com/creators/"
+        }'>
+          Creators
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creator Academy",
+          "link_url": "https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ"
+        }'>
+          Creator Academy
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/yt/family/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creating for Kids",
+          "link_url": "https://www.youtube.com/yt/family/"
+        }'>
+          Creating for Kids
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/creators/research/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creators Research",
+          "link_url": "https://www.youtube.com/creators/research/"
+        }'>
+          Creators Research
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://servicesdirectory.withyoutube.com/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creators Services Directory",
+          "link_url": "https://servicesdirectory.withyoutube.com/"
+        }'>
+          Creators Services Directory
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/@360/featured" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "YouTube VR",
+          "link_url": "https://www.youtube.com/@360/featured"
+        }'>
+          YouTube VR
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+            <div class="yt-footer__info-section-accordion yt-accordion__section" id="item-nav-5">
+              
+
+<button aria-expanded="false" class="yt-footer__info-section-accordion-title-wrapper yt-accordion__title-wrapper js-accordion-button">
+  <h2 class="yt-footer__info-section-accordion-title yt-accordion__title">
+    <span>Our Commitments</span>
+  </h2>
+  <div class="yt-search-filters__accordion-icon yt-accordion__icon">
+    <svg aria-hidden="true">
+      <title>Toggle</title>
+      <desc>Toggle Accordion</desc>
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+    </svg>
+  </div>
+</button>
+
+              <div class="yt-footer__info-section-accordion-body yt-accordion__body">
+  <ul class="yt-footer__info-section-list" data-analytics-module='{
+    "module_name": "footer"
+  }'>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/creators/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Creators for Change",
+          "link_url": "https://www.youtube.com/creators/"
+        }'>
+          Creators for Change
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://www.youtube.com/csai-match/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "CSAI Match",
+          "link_url": "https://www.youtube.com/csai-match/"
+        }'>
+          CSAI Match
+        </a>
+      </li>
+    
+      <li class="yt-footer__info-section-list-item">
+        <a class="yt-footer__info-section-list-item-link js-ga-yt-footer-link" href="https://socialimpact.youtube.com/" target="_blank"
+        data-ga4-analytics-click='{
+          "event": "nav_click",
+          "link_text": "Social Impact",
+          "link_url": "https://socialimpact.youtube.com/"
+        }'>
+          Social Impact
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+          
+        </div>
+    </div>
+   <div class="yt-footer__nav-section">
+      <div class="yt-footer__nav-section-nav-wrapper">
+        <a href="https://www.youtube.com/" class="yt-footer__nav-section-icon-link"
+        data-analytics-click='
+        {
+          "event": "trackEvent",
+          "eventCategory": "footer",
+          "eventAction": "footer logo click",
+          "eventLabel": "logo - https://www.youtube.com/",
+          "componentType": "footer"
+        }'
+        data-ga4-analytics-click='
+        {
+          "event": "nav_click",
+          "link_text": "YouTube logo"
+        }'
+        >
+        
+        <svg
+  
+  role="img"
+  
+  aria-label="YouTube Logo"
+  class="yt-footer__nav-section-yt-icon"
+  
+  
+  
+  
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo"></use>
+</svg>
+
+        </a>
+        <nav>
+          <ul class="yt-footer__nav-section-nav">
+            
+              <li class="yt-footer__nav-section-nav-item">
+                <a class="yt-footer__nav-section-nav-item-link" href="https://www.youtube.com/howyoutubeworks/policies/community-guidelines/#community-guidelines"
+                data-analytics-click='
+                {
+                  "event": "trackEvent",
+                  "eventCategory": "footer",
+                  "eventAction": "footer policy link click",
+                  "eventLabel": "Policy \u0026 Safety - https://www.youtube.com/howyoutubeworks/policies/community-guidelines/#community-guidelines",
+                  "componentType": "footer"
+                }'
+                data-ga4-analytics-click='{
+                  "event": "nav_click",
+                  "link_text": "Policy &amp; Safety",
+                  "link_url": "https://www.youtube.com/howyoutubeworks/policies/community-guidelines/#community-guidelines"
+                }'
+                >
+                  Policy &amp; Safety
+                </a>
+              </li>
+            
+              <li class="yt-footer__nav-section-nav-item">
+                <a class="yt-footer__nav-section-nav-item-link" href="https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting"
+                data-analytics-click='
+                {
+                  "event": "trackEvent",
+                  "eventCategory": "footer",
+                  "eventAction": "footer policy link click",
+                  "eventLabel": "Copyright - https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting",
+                  "componentType": "footer"
+                }'
+                data-ga4-analytics-click='{
+                  "event": "nav_click",
+                  "link_text": "Copyright",
+                  "link_url": "https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting"
+                }'
+                >
+                  Copyright
+                </a>
+              </li>
+            
+              <li class="yt-footer__nav-section-nav-item">
+                <a class="yt-footer__nav-section-nav-item-link" href="https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-colors"
+                data-analytics-click='
+                {
+                  "event": "trackEvent",
+                  "eventCategory": "footer",
+                  "eventAction": "footer policy link click",
+                  "eventLabel": "Brand Guidelines - https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-colors",
+                  "componentType": "footer"
+                }'
+                data-ga4-analytics-click='{
+                  "event": "nav_click",
+                  "link_text": "Brand Guidelines",
+                  "link_url": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-colors"
+                }'
+                >
+                  Brand Guidelines
+                </a>
+              </li>
+            
+              <li class="yt-footer__nav-section-nav-item">
+                <a class="yt-footer__nav-section-nav-item-link" href="https://policies.google.com/privacy"
+                data-analytics-click='
+                {
+                  "event": "trackEvent",
+                  "eventCategory": "footer",
+                  "eventAction": "footer policy link click",
+                  "eventLabel": "Privacy - https://policies.google.com/privacy",
+                  "componentType": "footer"
+                }'
+                data-ga4-analytics-click='{
+                  "event": "nav_click",
+                  "link_text": "Privacy",
+                  "link_url": "https://policies.google.com/privacy"
+                }'
+                >
+                  Privacy
+                </a>
+              </li>
+            
+              <li class="yt-footer__nav-section-nav-item">
+                <a class="yt-footer__nav-section-nav-item-link" href="https://www.youtube.com/t/terms"
+                data-analytics-click='
+                {
+                  "event": "trackEvent",
+                  "eventCategory": "footer",
+                  "eventAction": "footer policy link click",
+                  "eventLabel": "Terms - https://www.youtube.com/t/terms",
+                  "componentType": "footer"
+                }'
+                data-ga4-analytics-click='{
+                  "event": "nav_click",
+                  "link_text": "Terms",
+                  "link_url": "https://www.youtube.com/t/terms"
+                }'
+                >
+                  Terms
+                </a>
+              </li>
+            
+          </ul>
+        </nav>
+      </div>
+      <div class="yt-footer__help-section">
+        <div class="yt-footer__help-section-help-section-wrapper">
+          <a href="https://support.google.com/youtube/community" class="yt-footer__help-section-help-section-wrapper-link"
+          data-analytics-click='
+                    {
+                      "event": "trackEvent",
+                      "eventCategory": "footer",
+                      "eventAction": "footer support link click",
+                      "eventLabel": "Help - https://support.google.com/youtube/community",
+                      "componentType": "footer"
+                    }'
+          data-ga4-analytics-click='
+                {
+                  "event": "nav_click"
+                }'
+          >
+            <svg
+  id="question-mark-icon"
+  
+  aria-hidden="true"
+  
+  class="yt-footer__help-section-question-mark-icon"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#question_mark"></use>
+</svg>
+
+            <span class="yt-footer__help-section-question-mark-icon-label">
+              Help
+            </span>
+          </a>
+          <div class="yt-footer__help-section-lang js-yt-ga-translate">
+              
+
+
+
+<div class="yt-picker yt-picker--dark" data-component="yt-lang-picker" data-analytics-module='{
+    "module_name": "Language Selector",
+    "section_header": "YouTube Official Blog"
+  }'>
+  <select name="language"
+          id="yt-picker-language"
+          class="yt-picker-order-menu js-yt-select-lang-element"
+          aria-label="Select a language">
+    
+      <option label="Brasil (Português)"
+              value="/intl/pt-br/"
+              class="yt-picker-item"
+              >
+        Brasil (Português)
+      </option>
+    
+      <option label="Deutschland (Deutsch)"
+              value="/intl/de-de/"
+              class="yt-picker-item"
+              >
+        Deutschland (Deutsch)
+      </option>
+    
+      <option label="Global (English)"
+              value="/"
+              class="yt-picker-item"
+               selected="selected" >
+        Global (English)
+      </option>
+    
+      <option label="Latinoamérica (Español)"
+              value="/intl/es-419/"
+              class="yt-picker-item"
+              >
+        Latinoamérica (Español)
+      </option>
+    
+      <option label="日本 (日本語)"
+              value="/intl/ja-jp/"
+              class="yt-picker-item"
+              >
+        日本 (日本語)
+      </option>
+    
+      <option label="대한민국 (한국어)"
+              value="/intl/ko-kr/"
+              class="yt-picker-item"
+              >
+        대한민국 (한국어)
+      </option>
+    
+  </select>
+
+  <svg
+  
+  
+  aria-hidden="true"
+  
+  class="yt-picker-icon"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_footer_chevron_down"></use>
+</svg>
+
+</div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+        
+
+
+
+
+
+
+<div class="yt-subscription-modal__overlay hide-from-all" tabindex="0" aria-hidden="true"
+  data-component="yt-subscription-modal">
+  <div class="yt-subscription-modal__container">
+    <div class="yt-subscription-modal__dialog">
+      <div class="yt-subscription-modal__content"
+        data-errors='{
+          "emailErrors": "Email address contains error(s).",
+          "enterEmail": "Email address is required.",
+          "apiFail": "Please check your network connection and try again."
+        }'
+        data-analytics-module='{
+          "module_name": "Newsletter Subscription Modal",
+          "section_header": "YouTube Official Blog"
+        }'>
+        <div class="yt-subscription-modal__network-error">
+          Please check your network connection and 
+          <span class="yt-subscription-modal__network-error--red-text">try again.</span>
+        </div>
+        <figure class="yt-subscription-modal__image-container">
+          <svg
+  
+  
+  aria-hidden="true"
+  
+  class="yt-subscription-modal__image"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#subscription_envelope"></use>
+</svg>
+
+        </figure>
+        <div class="yt-subscription-modal__text-container">
+          <p class="yt-subscription-modal__text">Join our newsletter to receive the latest news, trends, and features straight to your inbox!</p>
+        </div>
+        <form
+          class="yt-subscription-modal__form"
+          data-method="POST"
+          data-action="https://services.google.com/fb/submissions/youtubenewslettersubscriptionsdev/"
+          aria-live="polite">
+          <div class="yt-subscription-modal__input-container">
+            <input class="yt-subscription-modal__input" type="text" placeholder="Email address" aria-required="true" aria-label="Email address" />
+            <figure class="yt-subscription-modal__input-invalid-icon">
+              <svg
+  
+  
+  aria-hidden="true"
+  
+  
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_input_error"></use>
+</svg>
+
+            </figure>
+            <div class="yt-subscription-modal__error-message"></div>
+          </div>
+          <div class="yt-subscription-modal__disclaimer-container">
+            <p class="yt-subscription-modal__disclaimer">Your information will be used in accordance with Google's privacy policy. You may opt out at any time.</p>
+          </div>
+          <div class="yt-subscription-modal__button-container">
+            <input class="yt-subscription-modal__button yt-button--light" type="submit" value="Subscribe">
+          </div>
+        </form>
+        <div class="yt-subscription-modal__loading">
+          <div class="yt-subscription-modal__animation">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div class="yt-subscription-modal__success">
+        <figure class="yt-subscription-modal__success-logo">
+          <svg
+  
+  
+  aria-hidden="true"
+  
+  
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_logo_symbol"></use>
+</svg>
+
+        </figure>
+        <p class="yt-subscription-modal__success-text">
+          Let's get contenting! You'll receive a confirmation soon.
+        </p>
+        <button class="yt-subscription-modal__success-cta">OK, got it</button>
+      </div>
+      <button class="yt-subscription-modal__close-button" aria-label="close dialog">
+        <svg
+  
+  
+  aria-hidden="true"
+  
+  class="yt-subscription-modal__close"
+  
+  
+  
+  focusable="false"
+>
+  <use
+    
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    data-xlink="/static/blog_youtube/images/icons.svg?version=pr20260715-1455#yt_close_icon_white"></use>
+</svg>
+
+      </button>
+    </div>
+  </div>
+</div>
+
+
+        
+        <div id="base-scripts" data-scripts='[
+              { "url": "/static/blog_youtube/js/csp/gtm.js?version=pr20260715-1455",
+                "options": {
+                  "async": false,
+                  "defer": true
+                }
+              },
+              { "url": "/static/youtube/js/all/index.js?version=pr20260715-1455",
+                "options": {
+                  "async": false,
+                  "defer": true
+                }
+              },
+              {
+                "url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+                "attributes": {
+                  "data-glue-cookie-notification-bar-category": "2B",
+                  "data-glue-cookie-notification-bar-site-id": "blog.youtube"
+                }
+              }
+            ]'></div>
+        <div class="extra-scripts">
+          
+  <div defer data-src="https://www.gstatic.com/external_hosted/vanillamasonry-v3_1_5/masonry.pkgd.min.js"></div>
+
+        </div>
+
+        <script>
+  const baseScripts = JSON.parse(document.querySelector("#base-scripts")?.getAttribute("data-scripts") || "[]");
+  
+  const userbar = typeof userbarScripts !== "undefined" && userbarScripts ? userbarScripts : [];
+
+  const extraScripts = Array.from(document.querySelectorAll(".extra-scripts div[data-src]")).map(el => {
+    const attrs = {};
+    Array.from(el.attributes).forEach(attr => {
+      attrs[attr.name === "data-src" ? "src" : attr.name] = attr.value;
+    });
+    return {
+      url: attrs.src,
+      options: {},
+      attributes: Object.fromEntries(Object.entries(attrs).filter(([k]) => k !== "src"))
+    };
+  });
+
+  [...baseScripts, ...userbar, ...extraScripts].forEach(({ url, options = {}, attributes = {} }) => {
+    const script = Object.assign(document.createElement("script"), {
+      async: options.async,
+      defer: options.defer,
+      src: url,
+    });
+
+    Object.entries(attributes).forEach(([k, v]) => script.setAttribute(k, v));
+    document.head.appendChild(script);
+  });
+</script>
+
+    </body>
+</html>

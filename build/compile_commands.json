@@ -1,0 +1,266 @@
+[
+{
+  "directory": "/Users/aayushsharma/new_crawler/build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/new_crawler/include -I/Users/aayushsharma/new_crawler/src -I/Users/aayushsharma/dslibrary/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/new_crawler.dir/main.cpp.o -c /Users/aayushsharma/new_crawler/main.cpp",
+  "file": "/Users/aayushsharma/new_crawler/main.cpp",
+  "output": "CMakeFiles/new_crawler.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/DSLibrary.dir/main.cpp.o -c /Users/aayushsharma/dslibrary/main.cpp",
+  "file": "/Users/aayushsharma/dslibrary/main.cpp",
+  "output": "ds_library_build/CMakeFiles/DSLibrary.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_main.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_main.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_main.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_main.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_push_back.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_push_back.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_push_back.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_push_back.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_pop_back.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_pop_back.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_pop_back.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_pop_back.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_size.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_size.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_size.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_size.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_capacity.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_capacity.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_capacity.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_capacity.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_isempty.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_isempty.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_isempty.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_isempty.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_operator_index.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_operator_index.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_operator_index.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_operator_index.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_assignment.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_assignment.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_assignment.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_assignment.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_copy_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_copy_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_copy_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_copy_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_vector/test_vector_userdefined.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_vector/test_vector_userdefined.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_vector/test_vector_userdefined.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_vector/test_vector_userdefined.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_push.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_push.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_push.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_push.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_pop.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_pop.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_pop.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_pop.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_delete_any.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_delete_any.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_delete_any.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_delete_any.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_size.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_size.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_size.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_size.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_isempty.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_isempty.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_isempty.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_isempty.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_operator_index.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_operator_index.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_operator_index.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_operator_index.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_copy_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_copy_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_copy_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_copy_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_assignment.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_assignment.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_assignment.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_assignment.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_userdefined.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_userdefined.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_linkedlist/test_linkedlist_userdefined.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_linkedlist/test_linkedlist_userdefined.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_hash.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_hash.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_hash.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_hash.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_copy_constructor.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_copy_constructor.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_copy_constructor.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_copy_constructor.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_assignment.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_assignment.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_assignment.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_assignment.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_push.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_push.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_push.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_push.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_find.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_find.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_find.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_find.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_pop.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_pop.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_pop.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_pop.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_operator_brackets.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_operator_brackets.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_operator_brackets.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_operator_brackets.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_keys.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_keys.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_keys.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_keys.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_rehash.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_rehash.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_rehash.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_rehash.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/test_hashmap/test_userdefined.cpp.o -c /Users/aayushsharma/dslibrary/tests/test_hashmap/test_userdefined.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/test_hashmap/test_userdefined.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/test_hashmap/test_userdefined.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/redis_lite/test_del.cpp.o -c /Users/aayushsharma/dslibrary/tests/redis_lite/test_del.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/redis_lite/test_del.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/redis_lite/test_del.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/redis_lite/test_keys1.cpp.o -c /Users/aayushsharma/dslibrary/tests/redis_lite/test_keys1.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/redis_lite/test_keys1.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/redis_lite/test_keys1.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/redis_lite/test_set_get.cpp.o -c /Users/aayushsharma/dslibrary/tests/redis_lite/test_set_get.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/redis_lite/test_set_get.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/redis_lite/test_set_get.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/redis_lite/test_exists.cpp.o -c /Users/aayushsharma/dslibrary/tests/redis_lite/test_exists.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/redis_lite/test_exists.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/redis_lite/test_exists.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/ds_library_build",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/dslibrary/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -isystem /opt/homebrew/include -isystem /opt/homebrew/include/bsoncxx/v_noabi -isystem /opt/homebrew/include/mongocxx/v_noabi -std=c++20 -arch arm64 -fsanitize=address -fno-omit-frame-pointer -g -o CMakeFiles/runTests.dir/tests/redis_lite/test_size.cpp.o -c /Users/aayushsharma/dslibrary/tests/redis_lite/test_size.cpp",
+  "file": "/Users/aayushsharma/dslibrary/tests/redis_lite/test_size.cpp",
+  "output": "ds_library_build/CMakeFiles/runTests.dir/tests/redis_lite/test_size.cpp.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/include -I/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -I/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/aayushsharma/new_crawler/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/include -isystem /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/aayushsharma/new_crawler/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

@@ -1,0 +1,1625 @@
+<!DOCTYPE html>
+<html data-generated-by="stalefish@0.0.9"
+  lang="en"
+  geo="in"
+  dir="ltr"
+  locale="ALL_in"
+  class="lb-breakpoints yth-page"
+  lb-auto-init="YTHPage"
+>
+  <head>
+    <meta charset="utf-8" />
+    <!-- Google Tag Manager -->
+    <script nonce="1JS6iIXYELq1DOUDDUz1SQ">
+      function glueCookieNotificationBarLoaded() {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-56HCXDK");
+      }
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover"
+    />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <title>How creators use AI for content creation – how YouTube works</title>
+    <meta
+      name="description"
+      content="Through AI, creativity is unlocked and allows for advances in content creation. Understand how YouTube and AI work together and the tools that are available."
+    />
+    <link
+      rel="canonical"
+      href="https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/"
+    />
+
+    <!-- Open graph metadata -->
+    <meta name="pinterest" content="nopin" />
+    <meta
+      property="og:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+    <meta
+      property="og:title"
+      content="How creators use AI for content creation – how YouTube works"
+    />
+    <meta property="og:site_name" content="How YouTube works" />
+    <meta
+      property="og:description"
+      content="Through AI, creativity is unlocked and allows for advances in content creation. Understand how YouTube and AI work together and the tools that are available."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/"
+    />
+    <meta
+      name="twitter:title"
+      content="How creators use AI for content creation – how YouTube works"
+    />
+    <meta
+      name="twitter:description"
+      content="Through AI, creativity is unlocked and allows for advances in content creation. Understand how YouTube and AI work together and the tools that are available."
+    />
+    <meta
+      name="twitter:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+
+    <!-- Preconnect and preload assets here -->
+    <link rel="preconnect" href="//lh3.googleusercontent.com" />
+    <link rel="preconnect" href="//kstatic.googleusercontent.com" />
+
+    <!-- Favicons -->
+    <link
+      rel="shortcut icon"
+      href="https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_48-vflVjB_Qk.png"
+      sizes="48x48"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_96-vflW9Ec0w.png"
+      sizes="96x96"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
+      sizes="144x144"
+    />
+
+    <!-- External stylesheets -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=YouTube+Sans:400,500,600,700|Roboto:400,500,600,700&amp;lang=en&amp;display=swap"
+      media="all"
+      nonce="1JS6iIXYELq1DOUDDUz1SQ"
+    />
+    <link
+      href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css"
+      rel="stylesheet"
+   nonce="1JS6iIXYELq1DOUDDUz1SQ" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/shared.index.min.css?cache=064ea36867"
+   nonce="1JS6iIXYELq1DOUDDUz1SQ" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/ai.index.min.css?cache=870238a544"
+   nonce="1JS6iIXYELq1DOUDDUz1SQ" />
+
+    <script
+      defer
+      src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js"
+    nonce="1JS6iIXYELq1DOUDDUz1SQ"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/shared.index.min.js?cache=4c3aea0bd5"
+    nonce="1JS6iIXYELq1DOUDDUz1SQ"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/ai.index.min.js?cache=d758885f40"
+    nonce="1JS6iIXYELq1DOUDDUz1SQ"></script>
+  </head>
+  <body>
+    <header
+      class="lb-header"
+      lb-auto-init="LBHeader, YTHPage"
+      lb-options="{
+            'persistentCtas': ['primary', 'secondary']
+          }"
+    >
+      <div class="lb-header__row">
+        <div class="lb-header__row-left lb-header-js-row-left">
+          <button
+            class="lb-header__menu-button lb-header-js-menu-btn"
+            aria-label="Toggle all"
+          >
+            <span class="lb-header__menu-button-box">
+              <span class="lb-header__menu-button-stroke"></span>
+            </span>
+          </button>
+          <a
+            class="lb-header__logo-wrapper lb-header-js-logo-wrapper"
+            href="/intl/ALL_in/howyoutubeworks/"
+            rel="noopener noreferrer"
+            aria-label="Home page link"
+          >
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-default"
+              src="https://kstatic.googleusercontent.com/files/eae0fcc1c67cc38d9c2cd2300f46c8e821fcd6bc3bafa1d222426a6a4d5f2081071424c94454d9d3b967ab373b16b6345a9fe9df890183f327400624d123f32d"
+              alt="YouTube logo"
+            />
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-hc"
+              src="https://kstatic.googleusercontent.com/files/cfe5d66fd54bdfebc20e894bb64db27f2d4c8eb9e20a0c268d57fa62e48aa3f2d126b4b30e84840608d4c4bab611e63fe39c70834f1c8abd53e1f4cdbba4caa9"
+              alt="YouTube logo high contrast"
+            />
+          </a>
+          <a class="lb-button lb-header__jump-to" href="#content">
+            Jump to content
+          </a>
+          <div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+            <nav class="lb-header__nav lb-header-js-nav" aria-label="Header">
+              <div class="lb-header__nav-item-wrapper" role="none">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  id="menuitem-1"
+                  aria-haspopup="menu"
+                  aria-label="How YouTube Works menupopup"
+                  tabindex="0"
+                  aria-controls="subnav-how-youtube-works"
+                  rel="noopener noreferrer"
+                  href="/intl/ALL_in/howyoutubeworks/"
+                >
+                  How YouTube Works
+                  <span class="lb-header__subnav-chevron"></span>
+                </a>
+                <ul
+                  class="lb-header__subnav-wrapper lb-header-js-subnav-wrapper"
+                  role="menu"
+                  id="subnav-how-youtube-works"
+                >
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header__subnav-item--active lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/ai/"
+                      aria-current="page"
+                    >
+                      AI
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/copyright/"
+                    >
+                      Copyright
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/creator-economy/"
+                    >
+                      Creator Economy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/elections/"
+                    >
+                      Elections
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/kids-and-teens/"
+                    >
+                      Kids &amp; Teens
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/learning/"
+                    >
+                      Learning
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/news/"
+                    >
+                      News
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/privacy/"
+                    >
+                      Privacy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/recommendations/"
+                    >
+                      Recommendations
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/our-policies/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Our Policies
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/youtubes-impact/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Impact Reports
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="https://transparencyreport.google.com/youtube-policy/removals"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Transparency Reports
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+
+        <!-- Search -->
+        <div class="lb-header__row-right lb-header-js-row-right">
+          <div class="lb-header__search-wrapper lb-header-js-search-wrapper">
+            <!-- Search inner -->
+            <div class="lb-header__search-inner lb-header-js-search-inner">
+              <form
+                class="lb-header__search-bar-wrapper"
+                novalidate
+                role="search"
+                lb-auto-init="LBSearchForm"
+                lb-options="{
+                'resultsPage': '/howyoutubeworks/search/'
+              }"
+              >
+                <!-- Search expand/search button -->
+                <button
+                  class="lb-header__search-button lb-header-js-search-toggle"
+                  aria-label="Search"
+                  type="submit"
+                  role="button"
+                >
+                  <svg
+                    class="lb-header__search-icon"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M0 0h24v24H0z" fill="none" />
+                    <path
+                      d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                    />
+                  </svg>
+                </button>
+                <!-- end Search expand/search button -->
+                <!-- Search bar -->
+                <input
+                  class="lb-font-body lb-header__search-bar lb-header-js-search-bar"
+                  type="text"
+                  placeholder="Search"
+                  aria-hidden="false"
+                  aria-label="Search"
+                  tabindex="-1"
+                  name="lb-search"
+                />
+              </form>
+              <!-- Search collapse button -->
+              <button
+                class="lb-header__search-button lb-header__search-button--collapse lb-header-js-search-toggle"
+                aria-label="Close"
+                tabindex="-1"
+                aria-hidden="true"
+              >
+                <svg
+                  class="lb-header__search-icon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <!-- end Search collapse button -->
+            </div>
+            <!-- end Search inner -->
+            <div
+              class="lb-header__search-overlay lb-header-js-search-toggle"
+            ></div>
+          </div>
+        </div>
+        <!-- end Search -->
+      </div>
+    </header>
+
+    <main class="yt-main yth-ai">
+      <section class="hero-section">
+        <div class="hero-section__container lb-padding-bottom-m lb-grid">
+          <div
+            class="hero-section__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-9 lb-grid__cell--lg-span-7"
+          >
+            <h1
+              class="hero-section__heading lb-font-display-2 lb-font--no-crop lb-font-weight-700"
+              id="content"
+            >
+              <div class="yth-md"><p>AI</p></div>
+            </h1>
+
+            <div
+              class="lb-font-subhead-1 yth-font-subhead-1 lb-font--no-crop lb-font-weight-600"
+            >
+              <div class="yth-md">
+                <p>
+                  From its earliest days, YouTube has enabled millions of
+                  creators to share their voices, connect with global audiences
+                  and build thriving businesses. We're excited about the
+                  opportunity for AI to unlock new forms of creativity and make
+                  the everyday work of creation easier.
+                </p>
+                <p>
+                  While we lean into AI's potential, we also want to make sure
+                  that we have the right protections and guardrails in place.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-12">
+            <!-- jumplink sentinel div element for observer flicker issue -->
+            <div class="jumplink-sentinel"></div>
+
+            <!-- jumplinks module template - Mobile -->
+            <div
+              class="yth-jumplinks yth-jumplinks--mobile"
+              id="ai-mobile"
+              lb-auto-init="YTHPage"
+            >
+              <div
+                lb-auto-init="LBExpansionPanel"
+                class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized"
+                lb-expansion-panel-options="{'family': 'gollum'}"
+                style="--transition-duration--surface: 0.25s"
+              >
+                <div class="yth-jumplinks__wrapper">
+                  <div
+                    class="lb-expansion-panel__heading yth-jumplinks--mobile-heading"
+                    role="heading"
+                    aria-level="2"
+                  >
+                    <div
+                      lb-auto-init="LBExpansionPanelTrigger"
+                      lb-expansion-panel-trigger-options="{'family': 'gollum', 'index': 0}"
+                      class="lb-expansion-panel__trigger lb-expansion-panel__trigger--reverse lb-expansion-panel-trigger--initialized"
+                      role="button"
+                      tabindex="0"
+                      aria-expanded="false"
+                      aria-controls="id-gollum-panel-1"
+                      id="id-gollum-panel-header-1"
+                    >
+                      <span
+                        class="lb-expansion-panel__trigger-name lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                        >jump to a section</span
+                      >
+                      <span class="lb-expansion-panel__trigger-icon">
+                        <img
+                          class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                          src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                          alt="jump to a section icon"
+                        />
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-expansion-panel__surface"
+                    id="id-gollum-panel-1"
+                    role="region"
+                    aria-labelledby="id-lone-wolf-2-panel-header-1"
+                    style="--visibility--surface: visible"
+                  >
+                    <div class="lb-expansion-panel__surface-content">
+                      <div
+                        class="yth-jumplinks__items"
+                        role="navigation"
+                        aria-label="jump to a section"
+                      >
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="unlocking-opportunity"
+                        >
+                          Unlocking opportunity
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="empowering-activity"
+                        >
+                          Empowering creativity
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="approaching-ai-responsibility"
+                        >
+                          Approaching AI responsibly
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- jumplinks module template - Desktop -->
+            <div
+              class="yth-jumplinks yth-jumplinks--desktop"
+              id="ai-desktop"
+              lb-auto-init="YTHPage"
+            >
+              <div class="yth-jumplinks__wrapper">
+                <div class="yth-jumplinks__heading-container">
+                  <img
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                    src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                    alt="jump to a section icon"
+                  />
+                  <span
+                    class="lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                    >jump to a section</span
+                  >
+                  <span
+                    class="lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop yth-jumplinks__heading--fixed"
+                    >AI</span
+                  >
+                </div>
+                <div class="yth-jumplinks__items-container">
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--left"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M15 18l-6-6 6-6" />
+                  </svg>
+                  <div class="yth-jumplinks__scroll-wrapper">
+                    <div
+                      class="yth-jumplinks__items"
+                      role="navigation"
+                      aria-label="jump to a section"
+                    >
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="unlocking-opportunity"
+                      >
+                        Unlocking opportunity
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="empowering-activity"
+                      >
+                        Empowering creativity
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="approaching-ai-responsibility"
+                      >
+                        Approaching AI responsibly
+                      </button>
+                    </div>
+                  </div>
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--right"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M9 18l6-6-6-6" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-opportunity" id="unlocking-opportunity">
+        <div class="lb-grid yth-opportunity__grid">
+          <div
+            class="lb-grid__cell lb-grid__cell--span-5 yth-opportunity__content-wrapper"
+          >
+            <div class="yth-rail lb-margin-bottom-xs"></div>
+
+            <h2
+              class="yth-opportunity__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+            >
+              Unlocking opportunity
+            </h2>
+
+            <div class="hyth-opportunity__description yth-font-body-1">
+              <div class="yth-md">
+                <p>
+                  Millions of creators have built sustainable businesses on
+                  YouTube since the platform transformed video for people all
+                  over the world. What does that mean for the creator economy
+                  that blossomed from this revolution?
+                </p>
+              </div>
+            </div>
+
+            <a
+              href="/intl/ALL_in/howyoutubeworks/ai/empowering-creators/"
+              target="_self"
+              class="yth-blue-arrow yth-opportunity__content-wrapper__link lb-font-weight-600"
+            >
+              Learn More about the Future of Tech &amp; Creativity
+            </a>
+          </div>
+          <div
+            class="lb-grid__cell lb-grid__cell--span-7 yth-opportunity__media-wrapper"
+          >
+            <img
+              class="yth-image"
+              lb-auto-init="LBImageLoader"
+              lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/1e72e3d5aa525f876601e0bc2589b075ffbd471ac6e3bf0daf4f1839bdba205ea737dea9888627ae10c77674a2a5523a6d8ee855a59bbe10a9be6a4587f4d304 1x'
+      }"
+              src="https://kstatic.googleusercontent.com/files/1e72e3d5aa525f876601e0bc2589b075ffbd471ac6e3bf0daf4f1839bdba205ea737dea9888627ae10c77674a2a5523a6d8ee855a59bbe10a9be6a4587f4d304=w1080"
+              alt="Jade Beason talking in a frame"
+            />
+
+            <div class="yth-opportunity__creator-link">
+              <img
+                src="https://kstatic.googleusercontent.com/files/165f6f0d754caddd6b8513b07cf4cd07c3dd8e3eea726e11b0ec6effd2d9cf9c053dc351ee77b8414d723db024dda86ba97e6c7b18e526f7600418b2e6fdb169"
+                alt="@JadeBeason"
+              />
+              <a
+                href="https://www.youtube.com/JadeBeason"
+                aria-label="@JadeBeason"
+                target="_blank"
+                class="yth-link"
+              >
+                @JadeBeason
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-section" id="ai-list-lockup">
+        <div class="yth-list-lockup">
+          <h3
+            class="yth-list-lockup__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+          >
+            The sky&#x27;s the limit for creators, who are now:
+          </h3>
+
+          <div
+            class="lb-grid yth-list-lockup__grid yth-list-lockup__grid-item-even"
+          >
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-3 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>1</span>
+              </div>
+              <div class="content-wrapper">
+                <div
+                  class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                >
+                  Running their own studios
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-3 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>2</span>
+              </div>
+              <div class="content-wrapper">
+                <div
+                  class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                >
+                  Employing writers, editors and videographers
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-3 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>3</span>
+              </div>
+              <div class="content-wrapper">
+                <div
+                  class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                >
+                  Producing top-quality content that entertains and inspires
+                  billions
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-3 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>4</span>
+              </div>
+              <div class="content-wrapper">
+                <div
+                  class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                >
+                  Lifting up the next generation of creator success stories
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-highlight-lockup" id="unlocking-efficiencies">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-highlight-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-6">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-highlight-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                Unlocking Efficiencies
+              </h2>
+
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    New AI-powered tools are making content creation more
+                    seamless and efficient, so creators can dedicate more time
+                    to the parts of the process that they want to invest in —
+                    and it will continue to evolve in the months and years to
+                    come.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="lb-grid__cell lb-grid__cell--offset-7-span-5">
+              <div
+                class="number-counter"
+                lb-auto-init-lazy="NumberCounter"
+                lb-number-counter-options='{"value":[1,92],"duration":1000,"suffix":"%"}'
+              >
+                <div class="number-counter__container">
+                  <div class="number-counter__percentage">
+                    <div class="progress-ring-container">
+                      <svg
+                        class="progress-ring"
+                        width="161"
+                        height="160"
+                        viewBox="0 0 161 160"
+                      >
+                        <circle
+                          class="progress-ring__track"
+                          stroke="#EDEDED"
+                          stroke-width="8"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__indicator"
+                          stroke="#FF0033"
+                          stroke-width="8"
+                          stroke-linecap="round"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__endpoint"
+                          fill="#FF0033"
+                          r="8.5"
+                          cx="80.5"
+                          cy="4"
+                        />
+                      </svg>
+                      <span
+                        class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                        >1</span
+                      >
+                    </div>
+                    <div
+                      class="number-counter__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-offset-4-span-8"
+                    >
+                      <div
+                        class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                      >
+                        <div class="yth-md">
+                          <p>of creators are already using gen AI tools</p>
+                        </div>
+                      </div>
+                      <div
+                        class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                      >
+                        <div class="yth-md">
+                          <p>Source: Radius, May 2024</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="yth-section yth-info-context-panel__section yth-info-context-panel"
+        id="empowering-activity"
+      >
+        <div class="lb-grid lb-margin-bottom-m yth-info-context-panel__grid">
+          <div class="lb-grid__cell lb-grid__cell--span-7">
+            <div class="yth-rail lb-margin-bottom-xs"></div>
+
+            <h2
+              class="lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-xs"
+            >
+              How YouTube is Empowering Human Creativity
+            </h2>
+
+            <div class="yth-font-body-2">
+              <div class="yth-md">
+                <p>
+                  Our goal is to
+                  <a
+                    href="https://kstatic.googleusercontent.com/files/199a0720c67812686a8b9e543bfcef992ebf97b54f7edc4bd2624fb416497b508d6d0b7393137a5030c412049181c88eb361bc6cc94c73eaf788c1a207879dc9"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    >empower human creativity</a
+                  >, not replace it. AI is the next creative revolution and
+                  we're excited for how it will help viewers experience YouTube
+                  in new ways.
+                </p>
+              </div>
+            </div>
+
+            <div class="yth-font-body-2">
+              <div class="yth-md">
+                <p>
+                  It's already allowing creators to innovate across formats and
+                  create fresh and relevant content — and we're focused on
+                  providing helpful features and opening doors for communities
+                  across the globe.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-5">
+            <div
+              class="number-counter"
+              lb-auto-init-lazy="NumberCounter"
+              lb-number-counter-options='{"value":[1,96],"duration":1000,"suffix":"%"}'
+            >
+              <div class="number-counter__container">
+                <div class="number-counter__percentage">
+                  <div class="progress-ring-container">
+                    <svg
+                      class="progress-ring"
+                      width="161"
+                      height="160"
+                      viewBox="0 0 161 160"
+                    >
+                      <circle
+                        class="progress-ring__track"
+                        stroke="#EDEDED"
+                        stroke-width="8"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__indicator"
+                        stroke="#FF0033"
+                        stroke-width="8"
+                        stroke-linecap="round"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__endpoint"
+                        fill="#FF0033"
+                        r="8.5"
+                        cx="80.5"
+                        cy="4"
+                      />
+                    </svg>
+                    <span
+                      class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                      >1</span
+                    >
+                  </div>
+                  <div
+                    class="number-counter__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-offset-4-span-8"
+                  >
+                    <div
+                      class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                    >
+                      <div class="yth-md">
+                        <p>
+                          of creators currently using gen AI are using it
+                          for creative support
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                    >
+                      <div class="yth-md"><p>Source: Radius, May 2024</p></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="lb-font-subhead-1 panel-title lb-font-weight-700 lb-margin-bottom-s"
+        >
+          Tools in action
+        </div>
+
+        <div class="yth-info-context-panel__container">
+          <div class="desktop-only">
+            <div
+              class="lb-grid yth-info-context-panel__grid yth-info-context-panel__grid-media landscape-grid"
+            >
+              <div
+                class="lb-grid__cell lb-grid__cell--span-4 yth-info-context-panel__grid-cell"
+              >
+                <div
+                  class="ytc-home-hero__video-container yth-img-wrapper--landscaped"
+                  lb-auto-init="YTHVideo"
+                >
+                  <video
+                    class="ytc-home-hero__video"
+                    src="https://kstatic.googleusercontent.com/files/88c930a5b1c781af0761dd01891c56cd8c306a955adb6b06c80c8137e915356f33978baabc1cf4ecaeda0560e79a76ee238d9500aa76e6e15384c9ba1f097375"
+                    autoplay
+                    muted
+                    loop
+                    playsinline
+                    controls
+                  ></video>
+                </div>
+
+                <div class="content-wrapper content-wrapper--info">
+                  <div
+                    class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2 yth-info-context-panel__title"
+                  >
+                    Auto Dubbing
+                  </div>
+                  <div
+                    class="yth-font-body-2 lb-margin-top-xxs yth-info-context-panel__description"
+                  >
+                    <div class="yth-md">
+                      <p>
+                        lets creators easily translate their videos and reach
+                        new audiences.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                class="lb-grid__cell lb-grid__cell--span-4 yth-info-context-panel__grid-cell"
+              >
+                <div
+                  class="ytc-home-hero__video-container yth-img-wrapper--landscaped"
+                  lb-auto-init="YTHVideo"
+                >
+                  <video
+                    class="ytc-home-hero__video"
+                    src="https://kstatic.googleusercontent.com/files/4670dcb89c9089f3dc8ba2e6d8a6cf4047e441b817b3dee4860f74e18d52a2f1e007cffecb054b81c259aa746e5ade39e15579a6574f920088447dbb8d440c2f"
+                    autoplay
+                    muted
+                    loop
+                    playsinline
+                    controls
+                  ></video>
+                </div>
+
+                <div class="content-wrapper content-wrapper--info">
+                  <div
+                    class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2 yth-info-context-panel__title"
+                  >
+                    AI-Powered Inspiration Tools
+                  </div>
+                  <div
+                    class="yth-font-body-2 lb-margin-top-xxs yth-info-context-panel__description"
+                  >
+                    <div class="yth-md">
+                      <p>
+                        help creators along every step of the creative process,
+                        with the Inspiration tab in YouTube Studio powered by AI
+                        to help curate video ideas, titles and thumbnail
+                        suggestions for creators.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="mobile-only">
+            <div
+              class="yth-carousel yth-info-context-carousel lb-carousel empowering-activity__carousel lbd-carousel-demo lbd-carousel-demo--tiles"
+              lb-auto-init="LBCarousel"
+              lb-options="{'uid': 'empowering-activity'}"
+            >
+              <div class="lb-carousel__viewport">
+                <div
+                  class="lb-carousel__track empowering-activity__carousel-track"
+                >
+                  <div
+                    class="lb-carousel__slide empowering-activity__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="yth-generic-carousel__media">
+                        <div
+                          class="ytc-home-hero__video-container yth-img-wrapper--landscaped"
+                          lb-auto-init="YTHVideo"
+                        >
+                          <video
+                            class="ytc-home-hero__video"
+                            src="https://kstatic.googleusercontent.com/files/88c930a5b1c781af0761dd01891c56cd8c306a955adb6b06c80c8137e915356f33978baabc1cf4ecaeda0560e79a76ee238d9500aa76e6e15384c9ba1f097375"
+                            autoplay
+                            muted
+                            loop
+                            playsinline
+                            controls
+                          ></video>
+                        </div>
+                      </div>
+                      <div class="yth-generic-carousel__card-info">
+                        <div class="content-wrapper">
+                          <h3
+                            class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2 yth-info-context-panel__title"
+                          >
+                            Auto Dubbing
+                          </h3>
+                          <div
+                            class="yth-font-body-2 lb-margin-top-xxs yth-info-context-panel__description"
+                          >
+                            <div class="yth-md">
+                              <p>
+                                lets creators easily translate their videos and
+                                reach new audiences.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    class="lb-carousel__slide empowering-activity__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="yth-generic-carousel__media">
+                        <div
+                          class="ytc-home-hero__video-container yth-img-wrapper--landscaped"
+                          lb-auto-init="YTHVideo"
+                        >
+                          <video
+                            class="ytc-home-hero__video"
+                            src="https://kstatic.googleusercontent.com/files/4670dcb89c9089f3dc8ba2e6d8a6cf4047e441b817b3dee4860f74e18d52a2f1e007cffecb054b81c259aa746e5ade39e15579a6574f920088447dbb8d440c2f"
+                            autoplay
+                            muted
+                            loop
+                            playsinline
+                            controls
+                          ></video>
+                        </div>
+                      </div>
+                      <div class="yth-generic-carousel__card-info">
+                        <div class="content-wrapper">
+                          <h3
+                            class="lb-font--no-crop lb-font-weight-600 lb-font-subhead-2 yth-info-context-panel__title"
+                          >
+                            AI-Powered Inspiration Tools
+                          </h3>
+                          <div
+                            class="yth-font-body-2 lb-margin-top-xxs yth-info-context-panel__description"
+                          >
+                            <div class="yth-md">
+                              <p>
+                                help creators along every step of the creative
+                                process, with the Inspiration tab in YouTube
+                                Studio powered by AI to help curate video ideas,
+                                titles and thumbnail suggestions for creators.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <button
+                  class="lb-carousel-button lb-carousel-button--previous carousel-previous-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'empowering-activity', 'previous': true, 'direction': -1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                    alt="Previous"
+                  />
+                </button>
+                <button
+                  class="lb-carousel-button lb-carousel-button--next carousel-next-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'empowering-activity', 'next': true, 'direction': 1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                    alt="Next"
+                  />
+                </button>
+              </div>
+
+              <div
+                class="lb-carousel-progress"
+                lb-auto-init="LBCarouselProgress"
+                lb-options="{'uid': 'empowering-activity'}"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-text-lockup" id="approaching-ai-responsibility">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-text-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                <div class="yth-md">
+                  <p>How YouTube is Approaching AI Responsibly</p>
+                </div>
+              </h2>
+            </div>
+            <div
+              class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+            >
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    While we lean into AI's potential, we want to make sure that
+                    we have the right protections and guardrails in place. Our
+                    policies and products aim to protect and empower creatives
+                    in the AI age and keep the YouTube community safe.
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-highlight-lockup__sub-description yth-font-body-2"
+              >
+                <div class="yth-md">
+                  <p>
+                    As always, our
+                    <a
+                      href="https://support.google.com/youtube/answer/9288567"
+                      target="_blank"
+                      aria-label="Community Guidelines link opens in new tab"
+                      rel="noopener noreferrer"
+                      >Community Guidelines</a
+                    >
+                    define the rules of the road for all content – including
+                    AI-generated content – on YouTube. We also have specific
+                    policies that guide how we treat AI content, including
+                    disclosure requirements and labelling.
+                  </p>
+                  <p>
+                    To help keep viewers informed about the content that they're
+                    viewing, we require creators to disclose if AI was used to
+                    edit or generate realistic content in their videos. Labels
+                    for photorealistic and meaningfully altered AI content may
+                    appear on the video player for Shorts or directly below the
+                    video for long-form videos. For other types of AI content,
+                    the label will appear in the video's description (e.g. minor
+                    edits like beauty filters or animated characters). If a
+                    creator doesn't disclose their use of AI but our systems
+                    detect it, we may automatically apply a label. Creators can
+                    manage these labels in YouTube Studio, but they cannot
+                    remove them if there is a high degree of confidence that it
+                    was made with AI.
+                  </p>
+                  <p>
+                    We've also made updates to our privacy standards that make
+                    it possible to request the removal of AI-generated or other
+                    synthetic or altered content that simulates an identifiable
+                    individual, including their face or voice, using our privacy
+                    request process. Not all content will be removed from
+                    YouTube, and we consider a variety of factors when
+                    evaluating these requests. This could include whether the
+                    content is parody or satire, whether the person making the
+                    request can be uniquely identified, or whether it features a
+                    public official or well-known individual, in which case
+                    there may be a higher bar.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid yth-text-lockup__grid lb-margin-top-m">
+            <div class="lb-grid__cell lb-grid__cell--span-4">
+              <div
+                class="number-counter"
+                lb-auto-init-lazy="NumberCounter"
+                lb-number-counter-options='{"value":[1,74],"duration":1000,"suffix":"%"}'
+              >
+                <div class="number-counter__container">
+                  <div class="number-counter__percentage">
+                    <div class="progress-ring-container">
+                      <svg
+                        class="progress-ring"
+                        width="161"
+                        height="160"
+                        viewBox="0 0 161 160"
+                      >
+                        <circle
+                          class="progress-ring__track"
+                          stroke="#EDEDED"
+                          stroke-width="8"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__indicator"
+                          stroke="#FF0033"
+                          stroke-width="8"
+                          stroke-linecap="round"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__endpoint"
+                          fill="#FF0033"
+                          r="8.5"
+                          cx="80.5"
+                          cy="4"
+                        />
+                      </svg>
+                      <span
+                        class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                        >1</span
+                      >
+                    </div>
+                    <div
+                      class="number-counter__text-content lb-grid__cell lb-grid__cell--span-12"
+                    >
+                      <div
+                        class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            of creators
+                            <span class="yth-red">want guidelines</span> for
+                            responsibly posting gen AI content to social media
+                            and video platforms
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                      >
+                        <div class="yth-md">
+                          <p>Source: Radius, May 2024</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="lb-grid__cell lb-grid__cell--offset-5-span-7">
+              <div
+                class="yth-text-lockup__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                How AI-powered Content Moderation works
+              </div>
+
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    YouTube has always used a combination of people and
+                    machine-learning technologies to enforce our Community
+                    Guidelines. In our systems, AI classifiers help to detect
+                    potentially violative content at scale, and reviewers work
+                    to confirm whether content has actually crossed policy
+                    lines. AI is continuously increasing both the speed and
+                    accuracy of our content moderation systems.
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-highlight-lockup__sub-description yth-font-body-2 lb-margin-bottom-m"
+              >
+                <div class="yth-md">
+                  <p>
+                    We also work with other companies across the technology and
+                    media industries to establish commitments and standards that
+                    support broader responsibility around gen AI, including the
+                    <a
+                      href="https://securityconference.org/en/aielectionsaccord/"
+                      target="_blank"
+                      aria-label="Tech accord on deceptive AI election content link opens in new tab"
+                      rel="noopener noreferrer"
+                      >Tech Accord to Combat Deceptive Use of AI in 2024
+                      Elections</a
+                    >
+                    and
+                    <a
+                      href="https://c2pa.org/"
+                      target="_blank"
+                      aria-label="C2PA link opens in new tab"
+                      rel="noopener noreferrer"
+                      >C2PA</a
+                    >
+                    .
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-text-lockup__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                Partnership-first approach
+              </div>
+
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    At YouTube, we're committed to ensuring that our creators
+                    and partners thrive in this evolving landscape. This means
+                    equipping them with the tools that they need to harness AI's
+                    creative potential while maintaining control over how their
+                    likeness, including their face and voice, is represented.
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-highlight-lockup__sub-description yth-font-body-2 lb-margin-bottom-m"
+              >
+                <div class="yth-md">
+                  <p>
+                    To achieve this, we've developed likeness management
+                    technology, including new synthetic singing identification
+                    technology within
+                    <a
+                      href="https://support.google.com/youtube/answer/2797370"
+                      target="_blank"
+                      aria-label="Content ID link opens in new tab"
+                      rel="noopener noreferrer"
+                      >Content ID</a
+                    >, which we're piloting with partners to automatically
+                    detect and manage AI-generated content on YouTube that
+                    simulates their singing voices.
+                  </p>
+                  <p>
+                    <a
+                      href="https://blog.youtube/news-and-events/expanding-likeness-detection-civic-leaders-journalists/"
+                      target="_blank"
+                      aria-label="Expanding likeness link opens in new tab"
+                      rel="noopener noreferrer"
+                      >Likeness detection</a
+                    >
+                    is an industry-first tool that works similarly to
+                    Content ID, but for likeness. It looks for a participant's
+                    likeness in AI-generated content, and if a match is found –
+                    like a deepfake of their face – the individual can review
+                    the content and request removal if it violates
+                    <a
+                      href="https://support.google.com/youtube/answer/2801895?hl=en-GB"
+                      target="_blank"
+                      aria-label="our privacy link opens in new tab"
+                      rel="noopener noreferrer"
+                      >our privacy guidelines</a
+                    >.<br />
+                     <br />
+                    As always, we'll continue to evolve and iterate to ensure
+                    that we are balancing the tremendous benefits that this
+                    technology offers with the continued safety of our
+                    community.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-explore-more" id="ai-explore-more">
+        <div class="yth-section">
+          <h3
+            class="yth-explore-more__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+          >
+            Explore more
+          </h3>
+          <div class="lb-grid">
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Our approach to responsible AI innovation
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/inside-youtube/our-approach-to-responsible-ai-innovation/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Our approach to responsible AI innovation"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                AI and creators: The future of tech and creativity
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/tech-and-creativity/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="AI and creators: The future of tech and creativity"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Our principles for partnering with the music industry on AI
+                technology
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/inside-youtube/partnering-with-the-music-industry-on-ai/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Our principles for partnering with the music industry on AI technology"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Tools to protect creators and artists
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/responsible-ai-tools/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Tools to protect creators and artists"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Partnering with Creative Artists Agency on the next generation
+                of responsible AI tools for talent
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/creative-artists-agency-responsible-ai-tools-for-talent/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Partnering with Creative Artists Agency on the next generation of responsible AI tools for talent"
+              >
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer
+      class="lb-footer"
+      role="contentinfo"
+      lb-auto-init="LBCustomFooter"
+      lb-options="{
+            'bareUrl': '/howyoutubeworks/ai/',
+            'locales': 'en_us,ALL_au,en_be,ALL_ca,ALL_in,ALL_uk,en_mt,ALL_ie,ALL_kr,ALL_it,ALL_ee,ALL_fi,fr_ca,ALL_nl,ALL_be,ALL_hu,ALL_lv,ALL_cz,ALL_id,fr_be,ALL_fr,fr_lu,ALL_bg,sw_ALL,ALL_se,ALL_ro,ALL_sk,ALL_es,ALL_vn,es_us,mt_ALL,ALL_pl,ALL_lt,ALL_dk,ALL_hr,ALL_si,ALL_gr,el_cy,ALL_pt,ALL_ru,ar_ALL,ALL_de,ALL_at,de_be,ALL_lu,ALL_tr,tr_cy,ALL_br,ga_ALL,zh-TW_ALL,hi_in,iw_ALL,ALL_jp'
+          }"
+    ></footer>
+
+    <script type="application/ld+json" nonce="1JS6iIXYELq1DOUDDUz1SQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "How Youtube Works",
+        "alternateName": ["How Youtube Works"],
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "logo": "https://lh3.googleusercontent.com/u7efPJhM1pB1PAIAO5PotDW-Qkkpnde_2MPx2P8pWFua7ZfgMowbhNbklswuAbT9RpzabRA3TEhZd00LJQwbX71Z3PZKBhR87P71I21cS4FkiUXfTa0",
+        "description": "Through AI, creativity is unlocked and allows for advances in content creation. Understand how YouTube and AI work together and the tools that are available."
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="1JS6iIXYELq1DOUDDUz1SQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "How creators use AI for content creation – how YouTube works",
+        "image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/",
+        "description": "Through AI, creativity is unlocked and allows for advances in content creation. Understand how YouTube and AI work together and the tools that are available.",
+        "publisher": { "@type": "WebPageElement", "name": "How Youtube Works" }
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="1JS6iIXYELq1DOUDDUz1SQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/",
+        "name": "How creators use AI for content creation – how YouTube works",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/ai/",
+          "query-input": "required name=query"
+        }
+      }
+    </script>
+
+    <script
+      src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"
+      data-glue-cookie-notification-bar-category="2A"
+      data-glue-cookie-notification-bar-language="en"
+      data-glue-cookie-notification-bar-site-id="youtube.com/howyoutubeworks"
+    nonce="1JS6iIXYELq1DOUDDUz1SQ"></script>
+  </body>
+</html>

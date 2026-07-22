@@ -1,0 +1,2120 @@
+<!DOCTYPE html>
+<html data-generated-by="stalefish@0.0.9"
+  lang="en"
+  geo="in"
+  dir="ltr"
+  locale="ALL_in"
+  class="lb-breakpoints yth-page"
+  lb-auto-init="YTHPage"
+>
+  <head>
+    <meta charset="utf-8" />
+    <!-- Google Tag Manager -->
+    <script nonce="3DpFEjRQiElxVOECEJ0o1A">
+      function glueCookieNotificationBarLoaded() {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-56HCXDK");
+      }
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover"
+    />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <title>
+      Reliable political news coverage on YouTube – how YouTube works
+    </title>
+    <meta
+      name="description"
+      content="YouTube aims to provide users with news content for reliable and timely material. Learn how YouTube sources political coverage for elections."
+    />
+    <link
+      rel="canonical"
+      href="https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/"
+    />
+
+    <!-- Open graph metadata -->
+    <meta name="pinterest" content="nopin" />
+    <meta
+      property="og:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+    <meta
+      property="og:title"
+      content="Reliable political news coverage on YouTube – how YouTube works"
+    />
+    <meta property="og:site_name" content="How YouTube works" />
+    <meta
+      property="og:description"
+      content="YouTube aims to provide users with news content for reliable and timely material. Learn how YouTube sources political coverage for elections."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/"
+    />
+    <meta
+      name="twitter:title"
+      content="Reliable political news coverage on YouTube – how YouTube works"
+    />
+    <meta
+      name="twitter:description"
+      content="YouTube aims to provide users with news content for reliable and timely material. Learn how YouTube sources political coverage for elections."
+    />
+    <meta
+      name="twitter:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+
+    <!-- Preconnect and preload assets here -->
+    <link rel="preconnect" href="//lh3.googleusercontent.com" />
+    <link rel="preconnect" href="//kstatic.googleusercontent.com" />
+
+    <!-- Favicons -->
+    <link
+      rel="shortcut icon"
+      href="https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_48-vflVjB_Qk.png"
+      sizes="48x48"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_96-vflW9Ec0w.png"
+      sizes="96x96"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
+      sizes="144x144"
+    />
+
+    <!-- External stylesheets -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=YouTube+Sans:400,500,600,700|Roboto:400,500,600,700&amp;lang=en&amp;display=swap"
+      media="all"
+      nonce="3DpFEjRQiElxVOECEJ0o1A"
+    />
+    <link
+      href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css"
+      rel="stylesheet"
+   nonce="3DpFEjRQiElxVOECEJ0o1A" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/shared.index.min.css?cache=064ea36867"
+   nonce="3DpFEjRQiElxVOECEJ0o1A" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/elections.index.min.css?cache=064ea36867"
+   nonce="3DpFEjRQiElxVOECEJ0o1A" />
+
+    <script
+      defer
+      src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js"
+    nonce="3DpFEjRQiElxVOECEJ0o1A"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/shared.index.min.js?cache=4c3aea0bd5"
+    nonce="3DpFEjRQiElxVOECEJ0o1A"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/elections.index.min.js?cache=23a130fbe1"
+    nonce="3DpFEjRQiElxVOECEJ0o1A"></script>
+  </head>
+  <body>
+    <header
+      class="lb-header"
+      lb-auto-init="LBHeader, YTHPage"
+      lb-options="{
+            'persistentCtas': ['primary', 'secondary']
+          }"
+    >
+      <div class="lb-header__row">
+        <div class="lb-header__row-left lb-header-js-row-left">
+          <button
+            class="lb-header__menu-button lb-header-js-menu-btn"
+            aria-label="Toggle all"
+          >
+            <span class="lb-header__menu-button-box">
+              <span class="lb-header__menu-button-stroke"></span>
+            </span>
+          </button>
+          <a
+            class="lb-header__logo-wrapper lb-header-js-logo-wrapper"
+            href="/intl/ALL_in/howyoutubeworks/"
+            rel="noopener noreferrer"
+            aria-label="Home page link"
+          >
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-default"
+              src="https://kstatic.googleusercontent.com/files/eae0fcc1c67cc38d9c2cd2300f46c8e821fcd6bc3bafa1d222426a6a4d5f2081071424c94454d9d3b967ab373b16b6345a9fe9df890183f327400624d123f32d"
+              alt="YouTube logo"
+            />
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-hc"
+              src="https://kstatic.googleusercontent.com/files/cfe5d66fd54bdfebc20e894bb64db27f2d4c8eb9e20a0c268d57fa62e48aa3f2d126b4b30e84840608d4c4bab611e63fe39c70834f1c8abd53e1f4cdbba4caa9"
+              alt="YouTube logo high contrast"
+            />
+          </a>
+          <a class="lb-button lb-header__jump-to" href="#content">
+            Jump to content
+          </a>
+          <div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+            <nav class="lb-header__nav lb-header-js-nav" aria-label="Header">
+              <div class="lb-header__nav-item-wrapper" role="none">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  id="menuitem-1"
+                  aria-haspopup="menu"
+                  aria-label="How YouTube Works menupopup"
+                  tabindex="0"
+                  aria-controls="subnav-how-youtube-works"
+                  rel="noopener noreferrer"
+                  href="/intl/ALL_in/howyoutubeworks/"
+                >
+                  How YouTube Works
+                  <span class="lb-header__subnav-chevron"></span>
+                </a>
+                <ul
+                  class="lb-header__subnav-wrapper lb-header-js-subnav-wrapper"
+                  role="menu"
+                  id="subnav-how-youtube-works"
+                >
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/ai/"
+                    >
+                      AI
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/copyright/"
+                    >
+                      Copyright
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/creator-economy/"
+                    >
+                      Creator Economy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header__subnav-item--active lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/elections/"
+                      aria-current="page"
+                    >
+                      Elections
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/kids-and-teens/"
+                    >
+                      Kids &amp; Teens
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/learning/"
+                    >
+                      Learning
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/news/"
+                    >
+                      News
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/privacy/"
+                    >
+                      Privacy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/recommendations/"
+                    >
+                      Recommendations
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/our-policies/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Our Policies
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/youtubes-impact/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Impact Reports
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="https://transparencyreport.google.com/youtube-policy/removals"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Transparency Reports
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+
+        <!-- Search -->
+        <div class="lb-header__row-right lb-header-js-row-right">
+          <div class="lb-header__search-wrapper lb-header-js-search-wrapper">
+            <!-- Search inner -->
+            <div class="lb-header__search-inner lb-header-js-search-inner">
+              <form
+                class="lb-header__search-bar-wrapper"
+                novalidate
+                role="search"
+                lb-auto-init="LBSearchForm"
+                lb-options="{
+                'resultsPage': '/howyoutubeworks/search/'
+              }"
+              >
+                <!-- Search expand/search button -->
+                <button
+                  class="lb-header__search-button lb-header-js-search-toggle"
+                  aria-label="Search"
+                  type="submit"
+                  role="button"
+                >
+                  <svg
+                    class="lb-header__search-icon"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M0 0h24v24H0z" fill="none" />
+                    <path
+                      d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                    />
+                  </svg>
+                </button>
+                <!-- end Search expand/search button -->
+                <!-- Search bar -->
+                <input
+                  class="lb-font-body lb-header__search-bar lb-header-js-search-bar"
+                  type="text"
+                  placeholder="Search"
+                  aria-hidden="false"
+                  aria-label="Search"
+                  tabindex="-1"
+                  name="lb-search"
+                />
+              </form>
+              <!-- Search collapse button -->
+              <button
+                class="lb-header__search-button lb-header__search-button--collapse lb-header-js-search-toggle"
+                aria-label="Close"
+                tabindex="-1"
+                aria-hidden="true"
+              >
+                <svg
+                  class="lb-header__search-icon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <!-- end Search collapse button -->
+            </div>
+            <!-- end Search inner -->
+            <div
+              class="lb-header__search-overlay lb-header-js-search-toggle"
+            ></div>
+          </div>
+        </div>
+        <!-- end Search -->
+      </div>
+    </header>
+
+    <main class="yt-main hytw-elections">
+      <section class="hero-section">
+        <div class="hero-section__container lb-padding-bottom-m lb-grid">
+          <div
+            class="hero-section__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-9 lb-grid__cell--lg-span-7"
+          >
+            <h1
+              class="hero-section__heading lb-font-display-2 lb-font--no-crop lb-font-weight-700"
+              id="content"
+            >
+              <div class="yth-md"><p>Elections</p></div>
+            </h1>
+
+            <div
+              class="lb-font-subhead-1 yth-font-subhead-1 lb-font--no-crop lb-font-weight-600"
+            >
+              <div class="yth-md">
+                <p>
+                  Users all over the world come to YouTube for news and
+                  information about elections – from finding reliable
+                  information about voting, candidates and election results to
+                  being able to access major election-related live moments –
+                  such as debates and election event coverage.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-12">
+            <!-- jumplink sentinel div element for observer flicker issue -->
+            <div class="jumplink-sentinel"></div>
+
+            <!-- jumplinks module template - Mobile -->
+            <div
+              class="yth-jumplinks yth-jumplinks--mobile"
+              id="elections-mobile"
+              lb-auto-init="YTHPage"
+            >
+              <div
+                lb-auto-init="LBExpansionPanel"
+                class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized"
+                lb-expansion-panel-options="{'family': 'gollum'}"
+                style="--transition-duration--surface: 0.25s"
+              >
+                <div class="yth-jumplinks__wrapper">
+                  <div
+                    class="lb-expansion-panel__heading yth-jumplinks--mobile-heading"
+                    role="heading"
+                    aria-level="2"
+                  >
+                    <div
+                      lb-auto-init="LBExpansionPanelTrigger"
+                      lb-expansion-panel-trigger-options="{'family': 'gollum', 'index': 0}"
+                      class="lb-expansion-panel__trigger lb-expansion-panel__trigger--reverse lb-expansion-panel-trigger--initialized"
+                      role="button"
+                      tabindex="0"
+                      aria-expanded="false"
+                      aria-controls="id-gollum-panel-1"
+                      id="id-gollum-panel-header-1"
+                    >
+                      <span
+                        class="lb-expansion-panel__trigger-name lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                        >jump to a section</span
+                      >
+                      <span class="lb-expansion-panel__trigger-icon">
+                        <img
+                          class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                          src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                          alt="jump to a section icon"
+                        />
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-expansion-panel__surface"
+                    id="id-gollum-panel-1"
+                    role="region"
+                    aria-labelledby="id-lone-wolf-2-panel-header-1"
+                    style="--visibility--surface: visible"
+                  >
+                    <div class="lb-expansion-panel__surface-content">
+                      <div
+                        class="yth-jumplinks__items"
+                        role="navigation"
+                        aria-label="jump to a section"
+                      >
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="elections-on-youtube"
+                        >
+                          Elections on YouTube
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="how-policies-work"
+                        >
+                          Elections Policies
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="addressing-ai-generated-content"
+                        >
+                          Addressing AI-Generated content
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="managing-early-detections"
+                        >
+                          Managing early detections
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="political-advertising"
+                        >
+                          Political advertising
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- jumplinks module template - Desktop -->
+            <div
+              class="yth-jumplinks yth-jumplinks--desktop"
+              id="elections-desktop"
+              lb-auto-init="YTHPage"
+            >
+              <div class="yth-jumplinks__wrapper">
+                <div class="yth-jumplinks__heading-container">
+                  <img
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                    src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                    alt="jump to a section icon"
+                  />
+                  <span
+                    class="lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                    >jump to a section</span
+                  >
+                  <span
+                    class="lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop yth-jumplinks__heading--fixed"
+                    >Elections</span
+                  >
+                </div>
+                <div class="yth-jumplinks__items-container">
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--left"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M15 18l-6-6 6-6" />
+                  </svg>
+                  <div class="yth-jumplinks__scroll-wrapper">
+                    <div
+                      class="yth-jumplinks__items"
+                      role="navigation"
+                      aria-label="jump to a section"
+                    >
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="elections-on-youtube"
+                      >
+                        Elections on YouTube
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="how-policies-work"
+                      >
+                        Elections Policies
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="addressing-ai-generated-content"
+                      >
+                        Addressing AI-Generated content
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="managing-early-detections"
+                      >
+                        Managing early detections
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="political-advertising"
+                      >
+                        Political advertising
+                      </button>
+                    </div>
+                  </div>
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--right"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M9 18l6-6-6-6" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-text-lockup" id="elections-on-youtube">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-text-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                <div class="yth-md">
+                  <p>How YouTube Connects People to Elections Content</p>
+                </div>
+              </h2>
+            </div>
+            <div
+              class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+            >
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    We are committed to connecting people to reliable elections
+                    content and ensuring that major election-related live
+                    moments remain easily accessible to a wide audience on our
+                    platform.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-text-lockup" id="how-policies-work">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-text-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                <div class="yth-md">
+                  <p>How YouTube’s Elections Policies Work</p>
+                </div>
+              </h2>
+            </div>
+            <div
+              class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+            >
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    Given the global nature of our platform, our elections
+                    policies and systems are developed and implemented with a
+                    global view: our
+                    <a href="../our-policies/">Community Guidelines</a> are
+                    enforced across languages and locales, and our systems
+                    connect voters across all of the countries we operate in to
+                    high-quality news and information about the elections that
+                    are most relevant to them.
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-highlight-lockup__sub-description yth-font-body-2"
+              >
+                <div class="yth-md">
+                  <p>
+                    When users search for or watch elections content on YouTube,
+                    our recommendation system prominently surfaces high-quality
+                    content in search results, the homepage and the 'watch next'
+                    panel. That way, voters are connected to high-quality
+                    content from a variety of news sources. In addition, to
+                    expand access to election-related live content, live streams
+                    of major election-related live moments – such as debates and
+                    election event coverage – may show on your homepage or at
+                    the top of your search results when you search for videos
+                    related to select national elections live moments.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-information" id="how-policies-work-child">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid lb-margin-bottom-m yth-information__sub-header">
+            <div class="lb-grid__cell lb-grid__cell--span-6">
+              <h2
+                class="yth-information__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-xs"
+              >
+                Elevating Civics and Elections Information
+              </h2>
+
+              <div class="yth-information__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    Beyond our always-on product features, we may launch
+                    additional efforts to raise information during key civics
+                    and elections moments. Here's what that may look like
+                    in-product during an election cycle:
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="desktop-only">
+            <div class="yth-information__tab lb-grid">
+              <div
+                class="lb-tablist lb-grid__cell lb-grid__cell--span-6"
+                lb-auto-init="LBTablist"
+                lb-options="{'uid': 'how-policies-work-child'}"
+              >
+                <ul
+                  class="lb-tablist__tabs-wrapper lb-js-tablist-wrapper"
+                  role="tablist"
+                  tabindex="0"
+                >
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="candidate-information-panel"
+                      id="candidate-information-panel"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="0"
+                      aria-label="Candidate information panel"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': true}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="1"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-1"
+                            id="id-gollum-panel-header-1"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Candidate information panel
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-1"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-1"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  Candidate information panels may show at the
+                                  top of your search results when you search for
+                                  the names of eligible candidates. These panels
+                                  highlight info on the candidates, such as
+                                  their political party and what office they're
+                                  running for. For some elections, information
+                                  panels may also surface when you search for
+                                  eligible political parties.
+                                </p>
+                              </div>
+                            </div>
+
+                            <a
+                              class="yth-blue-arrow lb-font-weight-500"
+                              href="https://support.google.com/youtube/answer/10047535"
+                              target="_blank"
+                            >
+                              Learn more
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="voting-information-panels"
+                      id="voting-information-panels"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="1"
+                      aria-label="Voting information panels"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': false}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="2"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-2"
+                            id="id-gollum-panel-header-2"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Voting information panels
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-2"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-2"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  Voting information panels may show at the top
+                                  of your search results when you search for
+                                  info on how to vote. To help you learn more
+                                  about specific voting info, these panels will
+                                  refer you to voting information in Google
+                                  Search that's gathered from vetted,
+                                  non-partisan, third-party sources, or link you
+                                  directly to those sources.
+                                </p>
+                              </div>
+                            </div>
+
+                            <a
+                              class="yth-blue-arrow lb-font-weight-500"
+                              href="https://support.google.com/youtube/answer/10047535"
+                              target="_blank"
+                            >
+                              Learn more
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="elections-results-information-panels"
+                      id="elections-results-information-panels"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="2"
+                      aria-label="Elections results information panels"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': false}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="3"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-3"
+                            id="id-gollum-panel-header-3"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Elections results information panels
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-3"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-3"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  Election results information panels may show
+                                  at the top of your search results when you
+                                  search for videos related to select national
+                                  elections. These panels may also show under
+                                  videos that discuss selected national
+                                  elections. The information panels may link out
+                                  to non-partisan, third-party sources.
+                                </p>
+                              </div>
+                            </div>
+
+                            <a
+                              class="yth-blue-arrow lb-font-weight-500"
+                              href="https://support.google.com/youtube/answer/10047535"
+                              target="_blank"
+                            >
+                              Learn more
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+                </ul>
+              </div>
+
+              <div
+                class="lb-tabpanel-group lb-grid__cell lb-grid__cell--span-6"
+              >
+                <div
+                  class="lb-tabpanel lb-tabpanel--open"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'how-policies-work-child',
+                            'panelIndex': 'candidate-information-panel'
+                          }"
+                  role="tabpanel"
+                  id="candidate-information-panel"
+                  aria-labelledby="candidate-information-panel"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/c690be59676b396defc15b3e4fe50b6b6c3c3ed3587faf1c54cfb5a9dbf5d8dde834215835e268f506f9861a4099287a9255f8f643ebdd5699e9d14849e0fbad 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/c690be59676b396defc15b3e4fe50b6b6c3c3ed3587faf1c54cfb5a9dbf5d8dde834215835e268f506f9861a4099287a9255f8f643ebdd5699e9d14849e0fbad=w1080"
+                            alt="Candidate information panel image"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-tabpanel"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'how-policies-work-child',
+                            'panelIndex': 'voting-information-panels'
+                          }"
+                  role="tabpanel"
+                  id="voting-information-panels"
+                  aria-labelledby="voting-information-panels"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/81590c6697cbff85a47757ae0f554f143c3de307a26cd75c670d03a48acc127a74ead712d2f85fd4af29a8dab0775547bc51261924f9381c45cc673667f61811 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/81590c6697cbff85a47757ae0f554f143c3de307a26cd75c670d03a48acc127a74ead712d2f85fd4af29a8dab0775547bc51261924f9381c45cc673667f61811=w1080"
+                            alt="Voting information panels image"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-tabpanel"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'how-policies-work-child',
+                            'panelIndex': 'elections-results-information-panels'
+                          }"
+                  role="tabpanel"
+                  id="elections-results-information-panels"
+                  aria-labelledby="elections-results-information-panels"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/c7785b16c01acffba7f009f9e999aee2893f724d83fa12b7cfdcc799cf2c5f8540b0767c25b847c338b2e526c6947a7c62bca6e8a945730224cdfb0f6e041c52 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/c7785b16c01acffba7f009f9e999aee2893f724d83fa12b7cfdcc799cf2c5f8540b0767c25b847c338b2e526c6947a7c62bca6e8a945730224cdfb0f6e041c52=w1080"
+                            alt="Election results information panels image"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mobile-only">
+            <div
+              class="yth-carousel yth-elections-information-carousel lb-carousel how-policies-work-child__carousel lbd-carousel-demo lbd-carousel-demo--tiles"
+              lb-auto-init="LBCarousel"
+              lb-options="{'uid': 'how-policies-work-child'}"
+            >
+              <div class="lb-carousel__viewport">
+                <div
+                  class="lb-carousel__track how-policies-work-child__carousel-track"
+                >
+                  <div
+                    class="lb-carousel__slide how-policies-work-child__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/c690be59676b396defc15b3e4fe50b6b6c3c3ed3587faf1c54cfb5a9dbf5d8dde834215835e268f506f9861a4099287a9255f8f643ebdd5699e9d14849e0fbad 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/c690be59676b396defc15b3e4fe50b6b6c3c3ed3587faf1c54cfb5a9dbf5d8dde834215835e268f506f9861a4099287a9255f8f643ebdd5699e9d14849e0fbad=w1080"
+                            alt="Candidate information panel image"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Candidate information panel
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              Candidate information panels may show at the top
+                              of your search results when you search for the
+                              names of eligible candidates. These panels
+                              highlight info on the candidates, such as their
+                              political party and what office they're running
+                              for. For some elections, information panels may
+                              also surface when you search for eligible
+                              political parties.
+                            </p>
+                          </div>
+                        </div>
+
+                        <a
+                          class="yth-blue-arrow"
+                          href="https://support.google.com/youtube/answer/10047535"
+                          target="_blank"
+                        >
+                          Learn more
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    class="lb-carousel__slide how-policies-work-child__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/81590c6697cbff85a47757ae0f554f143c3de307a26cd75c670d03a48acc127a74ead712d2f85fd4af29a8dab0775547bc51261924f9381c45cc673667f61811 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/81590c6697cbff85a47757ae0f554f143c3de307a26cd75c670d03a48acc127a74ead712d2f85fd4af29a8dab0775547bc51261924f9381c45cc673667f61811=w1080"
+                            alt="Voting information panels image"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Voting information panels
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              Voting information panels may show at the top of
+                              your search results when you search for info on
+                              how to vote. To help you learn more about specific
+                              voting info, these panels will refer you to voting
+                              information in Google Search that's gathered from
+                              vetted, non-partisan, third-party sources, or link
+                              you directly to those sources.
+                            </p>
+                          </div>
+                        </div>
+
+                        <a
+                          class="yth-blue-arrow"
+                          href="https://support.google.com/youtube/answer/10047535"
+                          target="_blank"
+                        >
+                          Learn more
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    class="lb-carousel__slide how-policies-work-child__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/c7785b16c01acffba7f009f9e999aee2893f724d83fa12b7cfdcc799cf2c5f8540b0767c25b847c338b2e526c6947a7c62bca6e8a945730224cdfb0f6e041c52 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/c7785b16c01acffba7f009f9e999aee2893f724d83fa12b7cfdcc799cf2c5f8540b0767c25b847c338b2e526c6947a7c62bca6e8a945730224cdfb0f6e041c52=w1080"
+                            alt="Election results information panels image"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Elections results information panels
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              Election results information panels may show at
+                              the top of your search results when you search for
+                              videos related to select national elections. These
+                              panels may also show under videos that discuss
+                              selected national elections. The information
+                              panels may link out to non-partisan, third-party
+                              sources.
+                            </p>
+                          </div>
+                        </div>
+
+                        <a
+                          class="yth-blue-arrow"
+                          href="https://support.google.com/youtube/answer/10047535"
+                          target="_blank"
+                        >
+                          Learn more
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <button
+                  class="lb-carousel-button lb-carousel-button--previous carousel-previous-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'how-policies-work-child', 'previous': true, 'direction': -1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                    alt="Previous"
+                  />
+                </button>
+                <button
+                  class="lb-carousel-button lb-carousel-button--next carousel-next-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'how-policies-work-child', 'next': true, 'direction': 1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                    alt="Next"
+                  />
+                </button>
+              </div>
+
+              <div
+                class="lb-carousel-progress"
+                lb-auto-init="LBCarouselProgress"
+                lb-options="{'uid': 'how-policies-work-child'}"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-section" id="content-that-violates-policy">
+        <div class="yth-list-lockup">
+          <h3
+            class="yth-list-lockup__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+          >
+            We may also remove content specific to the following:
+          </h3>
+
+          <div
+            class="lb-grid yth-list-lockup__grid yth-list-lockup__grid-item-odd"
+          >
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-4 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>1</span>
+              </div>
+              <div class="content-wrapper">
+                <a
+                  class="yth-black-arrow lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                  href="https://support.google.com/youtube/answer/10835034?en-GB&amp;sjid=10233159174352341243-NA#zippy=%2Cvoter-suppression"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Voter suppression
+                </a>
+
+                <div class="yth-font-body-2 lb-margin-top-xxs">
+                  <div class="yth-md">
+                    <p>
+                      We prohibit content aiming to mislead voters about the
+                      time, place, means or eligibility requirements for voting,
+                      or false claims that could materially discourage voting.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-4 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>2</span>
+              </div>
+              <div class="content-wrapper">
+                <a
+                  class="yth-black-arrow lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                  href="https://support.google.com/youtube/answer/2801947?en-GB&amp;sjid=10233159174352341243-NA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Impersonation
+                </a>
+
+                <div class="yth-font-body-2 lb-margin-top-xxs">
+                  <div class="yth-md">
+                    <p>
+                      Content that's intended to impersonate a person or
+                      channel, such as a political candidate or their political
+                      party, isn't allowed.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-4 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>3</span>
+              </div>
+              <div class="content-wrapper">
+                <a
+                  class="yth-black-arrow lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                  href="https://support.google.com/youtube/answer/10835034?en-GB&amp;sjid=10233159174352341243-NA#zippy=%2Cvoter-suppression"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Candidate Eligibility
+                </a>
+
+                <div class="yth-font-body-2 lb-margin-top-xxs">
+                  <div class="yth-md">
+                    <p>
+                      We prohibit content that advances false claims related to
+                      the technical eligibility requirements for current
+                      political candidates and sitting elected government
+                      officials to serve in office. Eligibility requirements
+                      considered are based on applicable national law and
+                      include age, citizenship or vital status.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-4 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>4</span>
+              </div>
+              <div class="content-wrapper">
+                <a
+                  class="yth-black-arrow lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                  href="https://support.google.com/youtube/answer/10835034?en-GB&amp;sjid=10233159174352341243-NA#zippy=%2Cincitement-to-interfere-with-democratic-processes"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Incitement to interfere
+                </a>
+
+                <div class="yth-font-body-2 lb-margin-top-xxs">
+                  <div class="yth-md">
+                    <p>
+                      Content that encourages others to interfere with
+                      democratic processes is not allowed on YouTube. This
+                      includes obstructing or interrupting voting procedures.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--md-span-6 lb-grid__cell--span-4 yth-list-lockup__grid-cell"
+            >
+              <div
+                class="list-number lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+              >
+                <span>5</span>
+              </div>
+              <div class="content-wrapper">
+                <a
+                  class="yth-black-arrow lb-font--no-crop lb-font-weight-600 lb-font-subhead-2"
+                  href="https://support.google.com/youtube/answer/10834785?en-GB&amp;sjid=10233159174352341243-NA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Manipulated content
+                </a>
+
+                <div class="yth-font-body-2 lb-margin-top-xxs">
+                  <div class="yth-md">
+                    <p>
+                      Content that has been technically manipulated or doctored
+                      in a way that misleads users (usually beyond clips taken
+                      out of context) and that may pose a serious risk of
+                      egregious harm is not allowed on YouTube.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="yth-font-body-2">
+            <div class="yth-md">
+              <p>
+                We also acknowledge that content focused on elections requires
+                careful balancing, ensuring that we allow for robust political
+                debate, so sometimes content that might otherwise violate our
+                policies may remain on YouTube if it contains
+                <a
+                  href="https://support.google.com/youtube/answer/6345162?en-GB&amp;ref_topic=9282435&amp;sjid=11081800680106190907-NA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Educational, Documentary, Scientific or Artistic (EDSA)</a
+                >
+                context.
+              </p>
+              <p>
+                In some cases, we may make EDSA exceptions based on public
+                interest. This could include, for example, content like national
+                political candidates on the campaign trail.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="yth-information yth-information__bg"
+        id="addressing-ai-generated-content"
+      >
+        <div class="yth-section yth-section--small">
+          <div class="yth-rail lb-margin-bottom-xs"></div>
+          <div class="lb-grid lb-margin-bottom-m yth-information__header">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <h2
+                class="yth-information__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+              >
+                How YouTube is Addressing AI-Generated Election Content
+              </h2>
+            </div>
+            <div class="lb-grid__cell lb-grid__cell--span-7">
+              <div class="yth-information__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    As AI becomes more sophisticated, it may be challenging for
+                    viewers to distinguish between real and synthetic content.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid lb-margin-bottom-m yth-information__sub-header">
+            <div class="lb-grid__cell lb-grid__cell--span-6">
+              <h2
+                class="yth-information__heading lb-font-subhead-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-xs"
+              >
+                Here&#x27;s how we&#x27;re addressing this:
+              </h2>
+            </div>
+          </div>
+
+          <div class="desktop-only">
+            <div class="yth-information__tab lb-grid">
+              <div
+                class="lb-tablist lb-grid__cell lb-grid__cell--span-6"
+                lb-auto-init="LBTablist"
+                lb-options="{'uid': 'addressing-ai-generated-content'}"
+              >
+                <ul
+                  class="lb-tablist__tabs-wrapper lb-js-tablist-wrapper"
+                  role="tablist"
+                  tabindex="0"
+                >
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="creator-disclosure"
+                      id="creator-disclosure"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="0"
+                      aria-label="Creator Disclosure"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': true}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="1"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-1"
+                            id="id-gollum-panel-header-1"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Creator Disclosure
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-1"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-1"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  Creators are
+                                  <strong>required to disclose</strong> when
+                                  they've created altered or synthetic content,
+                                  including election content, that's realistic —
+                                  and when they use AI tools.
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="labeling"
+                      id="labeling"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="1"
+                      aria-label="Labelling"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': false}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="2"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-2"
+                            id="id-gollum-panel-header-2"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Labelling
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-2"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-2"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  We use labels to clearly indicate
+                                  <strong
+                                    >altered or synthetic election
+                                    content</strong
+                                  >. For elections, this label is displayed in
+                                  both the video player and description, and is
+                                  then surfaced regardless of the creator,
+                                  political viewpoints or language.
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+
+                  <li class="lb-tablist__tab-container" role="none">
+                    <a
+                      class="yth-blue-arrow lb-font-weight-500"
+                      href="https://support.google.com/youtube/answer/14328491?sjid=6072454939037422647-NC"
+                      target="_blank"
+                      role="tab"
+                    >
+                      Learn more
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div
+                class="lb-tabpanel-group lb-grid__cell lb-grid__cell--span-6"
+              >
+                <div
+                  class="lb-tabpanel lb-tabpanel--open"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'addressing-ai-generated-content',
+                            'panelIndex': 'creator-disclosure'
+                          }"
+                  role="tabpanel"
+                  id="creator-disclosure"
+                  aria-labelledby="creator-disclosure"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div
+                          class="ytc-home-hero__video-container"
+                          lb-auto-init="YTHVideo"
+                        >
+                          <video
+                            class="ytc-home-hero__video"
+                            src="https://kstatic.googleusercontent.com/files/73b369c79afc31c1ce7137d9a00a45f3f857f4b12be67f5eb2427fd30c0fede38dddc503e89a42b6845fb0da2a50f8c5c5df00049b028ab053a07e7df0dec697"
+                            autoplay
+                            muted
+                            loop
+                            playsinline
+                            controls
+                          ></video>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-tabpanel"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'addressing-ai-generated-content',
+                            'panelIndex': 'labeling'
+                          }"
+                  role="tabpanel"
+                  id="labeling"
+                  aria-labelledby="labeling"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/eaee41277c16885f05207ed4da4411015282637a2d4e07ccb0122de341417ce13d85934b317e596db7f265040704c050351d0c41785013d746ba2f591e3f3947 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/eaee41277c16885f05207ed4da4411015282637a2d4e07ccb0122de341417ce13d85934b317e596db7f265040704c050351d0c41785013d746ba2f591e3f3947=w1080"
+                            alt="Labelling image"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mobile-only">
+            <div
+              class="yth-carousel yth-elections-information-carousel lb-carousel addressing-ai-generated-content__carousel lbd-carousel-demo lbd-carousel-demo--tiles"
+              lb-auto-init="LBCarousel"
+              lb-options="{'uid': 'addressing-ai-generated-content'}"
+            >
+              <div class="lb-carousel__viewport">
+                <div
+                  class="lb-carousel__track addressing-ai-generated-content__carousel-track"
+                >
+                  <div
+                    class="lb-carousel__slide addressing-ai-generated-content__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <div
+                            class="ytc-home-hero__video-container"
+                            lb-auto-init="YTHVideo"
+                          >
+                            <video
+                              class="ytc-home-hero__video"
+                              src="https://kstatic.googleusercontent.com/files/73b369c79afc31c1ce7137d9a00a45f3f857f4b12be67f5eb2427fd30c0fede38dddc503e89a42b6845fb0da2a50f8c5c5df00049b028ab053a07e7df0dec697"
+                              autoplay
+                              muted
+                              loop
+                              playsinline
+                              controls
+                            ></video>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Creator disclosure
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              Creators are
+                              <strong>required to disclose</strong> when they've
+                              created altered or synthetic content, including
+                              election content, that's realistic — and when they
+                              use AI tools.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    class="lb-carousel__slide addressing-ai-generated-content__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/eaee41277c16885f05207ed4da4411015282637a2d4e07ccb0122de341417ce13d85934b317e596db7f265040704c050351d0c41785013d746ba2f591e3f3947 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/eaee41277c16885f05207ed4da4411015282637a2d4e07ccb0122de341417ce13d85934b317e596db7f265040704c050351d0c41785013d746ba2f591e3f3947=w1080"
+                            alt="Labelling image"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Labelling
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              We use labels to clearly indicate
+                              <strong
+                                >altered or synthetic election content</strong
+                              >. For elections, this label is displayed in both
+                              the video player and description, and is then
+                              surfaced regardless of the creator, political
+                              viewpoints or language.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <button
+                  class="lb-carousel-button lb-carousel-button--previous carousel-previous-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'addressing-ai-generated-content', 'previous': true, 'direction': -1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                    alt="Previous"
+                  />
+                </button>
+                <button
+                  class="lb-carousel-button lb-carousel-button--next carousel-next-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'addressing-ai-generated-content', 'next': true, 'direction': 1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                    alt="Next"
+                  />
+                </button>
+              </div>
+
+              <div
+                class="lb-carousel-progress"
+                lb-auto-init="LBCarouselProgress"
+                lb-options="{'uid': 'addressing-ai-generated-content'}"
+              ></div>
+            </div>
+
+            <div
+              class="yth-elections-information-carousel__link lb-margin-top-s"
+            >
+              <a
+                class="yth-blue-arrow"
+                href="https://support.google.com/youtube/answer/14328491?sjid=6072454939037422647-NC"
+                target="_blank"
+              >
+                Learn more
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-text-lockup" id="managing-early-detections">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-text-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                <div class="yth-md">
+                  <p>How YouTube Manages Early Detections</p>
+                </div>
+              </h2>
+            </div>
+            <div
+              class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+            >
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    We work to remove content that violates our policies as
+                    early as possible by staying ahead of emerging threats and
+                    issues before they reach or become widespread on our
+                    platform. Our Intelligence Desk monitors and detects new
+                    content trends, to include inappropriate content and
+                    problematic behaviours.
+                  </p>
+                </div>
+              </div>
+
+              <div
+                class="yth-highlight-lockup__sub-description yth-font-body-2"
+              >
+                <div class="yth-md">
+                  <p>
+                    YouTube Trust &amp; Safety and
+                    <a
+                      href="https://blog.google/threat-analysis-group/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Google's Threat Analysis Group</a
+                    >
+                    (TAG) work together to identify coordinated influence
+                    operations on YouTube and terminate their channels and
+                    accounts — including government-backed hacking looking to
+                    interfere in electoral processes. Through TAG, we share
+                    intelligence, best practices and threat information with law
+                    enforcement and industry partners.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-text-lockup" id="political-advertising">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-text-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                <div class="yth-md">
+                  <p>How Political Advertising Works on YouTube</p>
+                </div>
+              </h2>
+            </div>
+            <div
+              class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+            >
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    Our
+                    <a
+                      href="https://support.google.com/youtube/answer/9288567?en-GB&amp;sjid=11081800680106190907-NA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Community Guidelines</a
+                    >,
+                    <a
+                      href="https://support.google.com/youtube/answer/6162278?en-GB&amp;sjid=11081800680106190907-NA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >advertiser-friendly content guidelines</a
+                    >
+                    and
+                    <a
+                      href="https://support.google.com/adspolicy/answer/6008942?en-GB&amp;sjid=11081800680106190907-NA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Google Ads policies</a
+                    >
+                    work together to ensure a safe, positive experience for our
+                    users, creators and advertisers and govern the content that
+                    is shown in advertisements across Google — which includes
+                    YouTube.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-explore-more" id="elections-explore-more">
+        <div class="yth-section">
+          <h3
+            class="yth-explore-more__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+          >
+            Explore more
+          </h3>
+          <div class="lb-grid">
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                The lead-up to the 2024 US Election
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/2024-us-election/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="The lead-up to the 2024 US Election"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                The 2024 European Parliament elections on YouTube
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/2024-european-parliamentary-elections-on-youtube/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="The 2024 European Parliament elections on YouTube"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                How YouTube is supporting the 2024 European Parliament elections
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/inside-youtube/supporting-the-2024-european-parliamentary-elections/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="How YouTube is supporting the 2024 European Parliament elections"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Supporting the 2024 United States election
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/inside-youtube/supporting-2024-united-states-election/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Supporting the 2024 United States election"
+              >
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer
+      class="lb-footer"
+      role="contentinfo"
+      lb-auto-init="LBCustomFooter"
+      lb-options="{
+            'bareUrl': '/howyoutubeworks/elections/',
+            'locales': 'en_us,ALL_au,en_be,ALL_ca,ALL_in,ALL_uk,en_mt,ALL_ie,ALL_kr,ALL_it,ALL_ee,ALL_fi,fr_ca,ALL_nl,ALL_be,ALL_hu,ALL_lv,ALL_cz,ALL_id,fr_be,ALL_fr,fr_lu,ALL_bg,sw_ALL,ALL_se,ALL_ro,ALL_sk,ALL_es,ALL_vn,es_us,mt_ALL,ALL_pl,ALL_lt,ALL_dk,ALL_hr,ALL_si,ALL_gr,el_cy,ALL_pt,ALL_ru,ar_ALL,ALL_de,ALL_at,de_be,ALL_lu,ALL_tr,tr_cy,ALL_br,ga_ALL,zh-TW_ALL,hi_in,iw_ALL,ALL_jp'
+          }"
+    ></footer>
+
+    <script type="application/ld+json" nonce="3DpFEjRQiElxVOECEJ0o1A">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "How Youtube Works",
+        "alternateName": ["How Youtube Works"],
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "logo": "https://lh3.googleusercontent.com/u7efPJhM1pB1PAIAO5PotDW-Qkkpnde_2MPx2P8pWFua7ZfgMowbhNbklswuAbT9RpzabRA3TEhZd00LJQwbX71Z3PZKBhR87P71I21cS4FkiUXfTa0",
+        "description": "YouTube aims to provide users with news content for reliable and timely material. Learn how YouTube sources political coverage for elections."
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="3DpFEjRQiElxVOECEJ0o1A">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Reliable political news coverage on YouTube – how YouTube works",
+        "image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/",
+        "description": "YouTube aims to provide users with news content for reliable and timely material. Learn how YouTube sources political coverage for elections.",
+        "publisher": { "@type": "WebPageElement", "name": "How Youtube Works" }
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="3DpFEjRQiElxVOECEJ0o1A">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/",
+        "name": "Reliable political news coverage on YouTube – how YouTube works",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/elections/",
+          "query-input": "required name=query"
+        }
+      }
+    </script>
+
+    <script
+      src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"
+      data-glue-cookie-notification-bar-category="2A"
+      data-glue-cookie-notification-bar-language="en"
+      data-glue-cookie-notification-bar-site-id="youtube.com/howyoutubeworks"
+    nonce="3DpFEjRQiElxVOECEJ0o1A"></script>
+  </body>
+</html>

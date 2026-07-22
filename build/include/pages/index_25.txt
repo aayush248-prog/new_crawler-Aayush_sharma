@@ -1,0 +1,3009 @@
+<!DOCTYPE html>
+<html data-generated-by="stalefish@0.0.9"
+  lang="en"
+  geo="in"
+  dir="ltr"
+  locale="ALL_in"
+  class="lb-breakpoints yth-page"
+  lb-auto-init="YTHPage"
+>
+  <head>
+    <meta charset="utf-8" />
+    <!-- Google Tag Manager -->
+    <script nonce="Vf6PZUCzjDiLWerwoL7txQ">
+      function glueCookieNotificationBarLoaded() {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-56HCXDK");
+      }
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover"
+    />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <title>Creator economy: Income through YouTube – how YouTube works</title>
+    <meta
+      name="description"
+      content="The YouTube Partner Programme has cultivated a creator economy through monetisation, allowing content creators to be part of a thriving creative ecosystem."
+    />
+    <link
+      rel="canonical"
+      href="https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/"
+    />
+
+    <!-- Open graph metadata -->
+    <meta name="pinterest" content="nopin" />
+    <meta
+      property="og:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+    <meta
+      property="og:title"
+      content="Creator economy: Income through YouTube – how YouTube works"
+    />
+    <meta property="og:site_name" content="How YouTube works" />
+    <meta
+      property="og:description"
+      content="The YouTube Partner Programme has cultivated a creator economy through monetisation, allowing content creators to be part of a thriving creative ecosystem."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/"
+    />
+    <meta
+      name="twitter:title"
+      content="Creator economy: Income through YouTube – how YouTube works"
+    />
+    <meta
+      name="twitter:description"
+      content="The YouTube Partner Programme has cultivated a creator economy through monetisation, allowing content creators to be part of a thriving creative ecosystem."
+    />
+    <meta
+      name="twitter:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+
+    <!-- Preconnect and preload assets here -->
+    <link rel="preconnect" href="//lh3.googleusercontent.com" />
+    <link rel="preconnect" href="//kstatic.googleusercontent.com" />
+
+    <!-- Favicons -->
+    <link
+      rel="shortcut icon"
+      href="https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_48-vflVjB_Qk.png"
+      sizes="48x48"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_96-vflW9Ec0w.png"
+      sizes="96x96"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
+      sizes="144x144"
+    />
+
+    <!-- External stylesheets -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=YouTube+Sans:400,500,600,700|Roboto:400,500,600,700&amp;lang=en&amp;display=swap"
+      media="all"
+      nonce="Vf6PZUCzjDiLWerwoL7txQ"
+    />
+    <link
+      href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css"
+      rel="stylesheet"
+   nonce="Vf6PZUCzjDiLWerwoL7txQ" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/shared.index.min.css?cache=064ea36867"
+   nonce="Vf6PZUCzjDiLWerwoL7txQ" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/creator-economy.index.min.css?cache=8a7a8bf5b1"
+   nonce="Vf6PZUCzjDiLWerwoL7txQ" />
+
+    <script
+      defer
+      src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js"
+    nonce="Vf6PZUCzjDiLWerwoL7txQ"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/shared.index.min.js?cache=4c3aea0bd5"
+    nonce="Vf6PZUCzjDiLWerwoL7txQ"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/creator-economy.index.min.js?cache=e913a528f8"
+    nonce="Vf6PZUCzjDiLWerwoL7txQ"></script>
+  </head>
+  <body>
+    <header
+      class="lb-header"
+      lb-auto-init="LBHeader, YTHPage"
+      lb-options="{
+            'persistentCtas': ['primary', 'secondary']
+          }"
+    >
+      <div class="lb-header__row">
+        <div class="lb-header__row-left lb-header-js-row-left">
+          <button
+            class="lb-header__menu-button lb-header-js-menu-btn"
+            aria-label="Toggle all"
+          >
+            <span class="lb-header__menu-button-box">
+              <span class="lb-header__menu-button-stroke"></span>
+            </span>
+          </button>
+          <a
+            class="lb-header__logo-wrapper lb-header-js-logo-wrapper"
+            href="/intl/ALL_in/howyoutubeworks/"
+            rel="noopener noreferrer"
+            aria-label="Home page link"
+          >
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-default"
+              src="https://kstatic.googleusercontent.com/files/eae0fcc1c67cc38d9c2cd2300f46c8e821fcd6bc3bafa1d222426a6a4d5f2081071424c94454d9d3b967ab373b16b6345a9fe9df890183f327400624d123f32d"
+              alt="YouTube logo"
+            />
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-hc"
+              src="https://kstatic.googleusercontent.com/files/cfe5d66fd54bdfebc20e894bb64db27f2d4c8eb9e20a0c268d57fa62e48aa3f2d126b4b30e84840608d4c4bab611e63fe39c70834f1c8abd53e1f4cdbba4caa9"
+              alt="YouTube logo high contrast"
+            />
+          </a>
+          <a class="lb-button lb-header__jump-to" href="#content">
+            Jump to content
+          </a>
+          <div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+            <nav class="lb-header__nav lb-header-js-nav" aria-label="Header">
+              <div class="lb-header__nav-item-wrapper" role="none">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  id="menuitem-1"
+                  aria-haspopup="menu"
+                  aria-label="How YouTube Works menupopup"
+                  tabindex="0"
+                  aria-controls="subnav-how-youtube-works"
+                  rel="noopener noreferrer"
+                  href="/intl/ALL_in/howyoutubeworks/"
+                >
+                  How YouTube Works
+                  <span class="lb-header__subnav-chevron"></span>
+                </a>
+                <ul
+                  class="lb-header__subnav-wrapper lb-header-js-subnav-wrapper"
+                  role="menu"
+                  id="subnav-how-youtube-works"
+                >
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/ai/"
+                    >
+                      AI
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/copyright/"
+                    >
+                      Copyright
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header__subnav-item--active lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/creator-economy/"
+                      aria-current="page"
+                    >
+                      Creator Economy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/elections/"
+                    >
+                      Elections
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/kids-and-teens/"
+                    >
+                      Kids &amp; Teens
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/learning/"
+                    >
+                      Learning
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/news/"
+                    >
+                      News
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/privacy/"
+                    >
+                      Privacy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/recommendations/"
+                    >
+                      Recommendations
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/our-policies/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Our Policies
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/youtubes-impact/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Impact Reports
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="https://transparencyreport.google.com/youtube-policy/removals"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Transparency Reports
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+
+        <!-- Search -->
+        <div class="lb-header__row-right lb-header-js-row-right">
+          <div class="lb-header__search-wrapper lb-header-js-search-wrapper">
+            <!-- Search inner -->
+            <div class="lb-header__search-inner lb-header-js-search-inner">
+              <form
+                class="lb-header__search-bar-wrapper"
+                novalidate
+                role="search"
+                lb-auto-init="LBSearchForm"
+                lb-options="{
+                'resultsPage': '/howyoutubeworks/search/'
+              }"
+              >
+                <!-- Search expand/search button -->
+                <button
+                  class="lb-header__search-button lb-header-js-search-toggle"
+                  aria-label="Search"
+                  type="submit"
+                  role="button"
+                >
+                  <svg
+                    class="lb-header__search-icon"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M0 0h24v24H0z" fill="none" />
+                    <path
+                      d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                    />
+                  </svg>
+                </button>
+                <!-- end Search expand/search button -->
+                <!-- Search bar -->
+                <input
+                  class="lb-font-body lb-header__search-bar lb-header-js-search-bar"
+                  type="text"
+                  placeholder="Search"
+                  aria-hidden="false"
+                  aria-label="Search"
+                  tabindex="-1"
+                  name="lb-search"
+                />
+              </form>
+              <!-- Search collapse button -->
+              <button
+                class="lb-header__search-button lb-header__search-button--collapse lb-header-js-search-toggle"
+                aria-label="Close"
+                tabindex="-1"
+                aria-hidden="true"
+              >
+                <svg
+                  class="lb-header__search-icon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <!-- end Search collapse button -->
+            </div>
+            <!-- end Search inner -->
+            <div
+              class="lb-header__search-overlay lb-header-js-search-toggle"
+            ></div>
+          </div>
+        </div>
+        <!-- end Search -->
+      </div>
+    </header>
+
+    <main class="yt-main yth-creator-economy">
+      <div class="yth-main__inner">
+        <section class="hero-section">
+          <div class="hero-section__img-wrapper">
+            <img
+              class="hero-section__img"
+              lb-auto-init="LBImageLoader"
+              lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/d85df87c2881cd4042d5d45c415d3d375f8522681cdd3a052610b226413357c51de25442e4f6f1d65d20f7a223ac6e65b73a0564154d99988ac812e08476e671 1x'
+      }"
+              src="https://kstatic.googleusercontent.com/files/d85df87c2881cd4042d5d45c415d3d375f8522681cdd3a052610b226413357c51de25442e4f6f1d65d20f7a223ac6e65b73a0564154d99988ac812e08476e671=w1080"
+              alt="Creator economy hero image"
+            />
+          </div>
+
+          <div class="hero-section__container lb-padding-bottom-m lb-grid">
+            <div
+              class="hero-section__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-9 lb-grid__cell--lg-span-7"
+            >
+              <h1
+                class="hero-section__heading lb-font-display-2 lb-font--no-crop lb-font-weight-700"
+                id="content"
+              >
+                <div class="yth-md"><p>Creator Economy</p></div>
+              </h1>
+
+              <div
+                class="lb-font-subhead-1 yth-font-subhead-1 lb-font--no-crop lb-font-weight-600"
+              >
+                <div class="yth-md">
+                  <p>
+                    Sharing more with creators, artists and media companies
+                    means that they can share more with others. See how our
+                    revenue-sharing model has enabled a thriving ecosystem of
+                    more than three million people earning through YouTube.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="lb-grid__cell lb-grid__cell--span-12">
+              <!-- jumplink sentinel div element for observer flicker issue -->
+              <div class="jumplink-sentinel"></div>
+
+              <!-- jumplinks module template - Mobile -->
+              <div
+                class="yth-jumplinks yth-jumplinks--mobile"
+                id="creator-economy-new-mobile"
+                lb-auto-init="YTHPage"
+              >
+                <div
+                  lb-auto-init="LBExpansionPanel"
+                  class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized"
+                  lb-expansion-panel-options="{'family': 'gollum'}"
+                  style="--transition-duration--surface: 0.25s"
+                >
+                  <div class="yth-jumplinks__wrapper">
+                    <div
+                      class="lb-expansion-panel__heading yth-jumplinks--mobile-heading"
+                      role="heading"
+                      aria-level="2"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanelTrigger"
+                        lb-expansion-panel-trigger-options="{'family': 'gollum', 'index': 0}"
+                        class="lb-expansion-panel__trigger lb-expansion-panel__trigger--reverse lb-expansion-panel-trigger--initialized"
+                        role="button"
+                        tabindex="0"
+                        aria-expanded="false"
+                        aria-controls="id-gollum-panel-1"
+                        id="id-gollum-panel-header-1"
+                      >
+                        <span
+                          class="lb-expansion-panel__trigger-name lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                          >jump to a section</span
+                        >
+                        <span class="lb-expansion-panel__trigger-icon">
+                          <img
+                            class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                            src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                            alt="jump to a section icon"
+                          />
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="lb-expansion-panel__surface"
+                      id="id-gollum-panel-1"
+                      role="region"
+                      aria-labelledby="id-lone-wolf-2-panel-header-1"
+                      style="--visibility--surface: visible"
+                    >
+                      <div class="lb-expansion-panel__surface-content">
+                        <div
+                          class="yth-jumplinks__items"
+                          role="navigation"
+                          aria-label="jump to a section"
+                        >
+                          <button
+                            class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                            data-id="the-creator-economy"
+                          >
+                            The creator economy
+                          </button>
+
+                          <button
+                            class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                            data-id="youtubes-business-model"
+                          >
+                            YouTube&#x27;s business model
+                          </button>
+
+                          <button
+                            class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                            data-id="youtube-partner-program"
+                          >
+                            YouTube Partner Programme
+                          </button>
+
+                          <button
+                            class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                            data-id="global-local-impact"
+                          >
+                            Global and local impact
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- jumplinks module template - Desktop -->
+              <div
+                class="yth-jumplinks yth-jumplinks--desktop"
+                id="creator-economy-new-desktop"
+                lb-auto-init="YTHPage"
+              >
+                <div class="yth-jumplinks__wrapper">
+                  <div class="yth-jumplinks__heading-container">
+                    <img
+                      class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                      src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                      alt="jump to a section icon"
+                    />
+                    <span
+                      class="lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                      >jump to a section</span
+                    >
+                    <span
+                      class="lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop yth-jumplinks__heading--fixed"
+                      >Creator Economy</span
+                    >
+                  </div>
+                  <div class="yth-jumplinks__items-container">
+                    <svg
+                      class="yth-jumplinks__arrow yth-jumplinks__arrow--left"
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="#606060"
+                      stroke-width="2.5"
+                      stroke-linecap="square"
+                      stroke-linejoin="arcs"
+                    >
+                      <path d="M15 18l-6-6 6-6" />
+                    </svg>
+                    <div class="yth-jumplinks__scroll-wrapper">
+                      <div
+                        class="yth-jumplinks__items"
+                        role="navigation"
+                        aria-label="jump to a section"
+                      >
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700"
+                          data-id="the-creator-economy"
+                        >
+                          The creator economy
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700"
+                          data-id="youtubes-business-model"
+                        >
+                          YouTube&#x27;s business model
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700"
+                          data-id="youtube-partner-program"
+                        >
+                          YouTube Partner Programme
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700"
+                          data-id="global-local-impact"
+                        >
+                          Global and local impact
+                        </button>
+                      </div>
+                    </div>
+                    <svg
+                      class="yth-jumplinks__arrow yth-jumplinks__arrow--right"
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="#606060"
+                      stroke-width="2.5"
+                      stroke-linecap="square"
+                      stroke-linejoin="arcs"
+                    >
+                      <path d="M9 18l6-6-6-6" />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="yth-highlight-lockup" id="the-creator-economy">
+          <div class="yth-section yth-section--small">
+            <div class="lb-grid yth-highlight-lockup__grid">
+              <div class="lb-grid__cell lb-grid__cell--span-6">
+                <div class="yth-rail lb-margin-bottom-xs"></div>
+
+                <h2
+                  class="yth-highlight-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+                >
+                  How YouTube started the creator economy
+                </h2>
+
+                <div class="hyth-highlight-lockup__description yth-font-body-2">
+                  <div class="yth-md">
+                    <p>
+                      In 2007, YouTube had a radical idea: what if creators
+                      earned a real share of the value that they create? By
+                      sharing more than half of the advertising and subscription
+                      revenue directly with creators, artists and media
+                      companies, YouTube broke down traditional barriers to
+                      entry. This gave anyone the chance to build a business and
+                      a brand by turning what they love into creative output
+                      that generates income.
+                    </p>
+                    <p>
+                      A portion of the remaining revenue is continuously
+                      reinvested back into YouTube, ensuring that creators
+                      always have quality production, distribution and
+                      monetisation tools at their fingertips.
+                    </p>
+                    <p>
+                      Twenty years on, YouTube's unique revenue-sharing model
+                      remains unmatched and has given rise to an entirely new
+                      ecosystem of creative businesses.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-grid__cell lb-grid__cell--offset-7-span-5">
+                <img
+                  class="yth-highlight-lockup__image"
+                  lb-auto-init="LBImageLoader"
+                  lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/758f34be19b23bb5cff2a2bf946d2ffab53ffa34635ec3553d6c1e021b7304b8a64dde9ada4e4ad527291a202c510f78ec4f3d6283821bbaaeee8e785aa4c21a 1x'
+      }"
+                  src="https://kstatic.googleusercontent.com/files/758f34be19b23bb5cff2a2bf946d2ffab53ffa34635ec3553d6c1e021b7304b8a64dde9ada4e4ad527291a202c510f78ec4f3d6283821bbaaeee8e785aa4c21a=w1080"
+                  alt="The creator economy image"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="yth-business-model" id="youtubes-business-model">
+          <div class="yth-section yth-section--small">
+            <div class="lb-grid yth-business-model__grid">
+              <div class="lb-grid__cell lb-grid__cell--span-5">
+                <div class="yth-rail lb-margin-bottom-xs"></div>
+
+                <h2
+                  class="yth-business-model__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+                >
+                  How YouTube&#x27;s business model works
+                </h2>
+              </div>
+              <div
+                class="lb-grid__cell lb-grid__cell--span-7 yth-business-model__description-grid"
+              >
+                <div class="yth-font-body-2">
+                  <div class="yth-md">
+                    <p>
+                      Revenue flows into the YouTube platform and our audience
+                      of 2B viewers from advertisers and subscription
+                      businesses.
+                    </p>
+                    <p>
+                      55% goes directly to creators, artists and media companies
+                      through the YouTube Partner Programme – and has a ripple
+                      effect on the broader economy.
+                    </p>
+                    <p>
+                      A significant portion of the other 45% is then reinvested
+                      back into the business to keep YouTube operating at the
+                      highest level.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="lb-grid__cell lb-grid__cell--span-12 yth-business-model__media-grid"
+              >
+                <img
+                  class="yth-image"
+                  lb-auto-init="LBImageLoader"
+                  lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/0970cc94f29d1b873fe9fad5a15962857939c82739dbe05b5a9ae183285fa984983d23d042496b2198eac5cfc47ff063cb5645c0b34a59f72bd8065172583afe 1x'
+      }"
+                  src="https://kstatic.googleusercontent.com/files/0970cc94f29d1b873fe9fad5a15962857939c82739dbe05b5a9ae183285fa984983d23d042496b2198eac5cfc47ff063cb5645c0b34a59f72bd8065172583afe=w1080"
+                  alt="YouTube's business model image"
+                />
+
+                <a
+                  class="yth-blue-arrow yth-business-model__link"
+                  href="https://services.google.com/fh/files/misc/youtubes_business_model.pdf"
+                  aria-label="Download our business model; link opens in new tab"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Download our business model
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="yth-information-banner">
+            <div
+              class="yth-information-banner__title lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop"
+            >
+              YouTube was the
+            </div>
+            <div
+              class="yth-information-banner__subtitle lb-font-headline-1 lb-font-weight-700 lb-font--no-crop yth-red"
+            >
+              second largest contributor to content creation
+            </div>
+            <div
+              class="yth-information-banner__subtitle2 lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop"
+            >
+              in terms of content spend in 2024, paying out more than $32B to
+              partners globally.
+            </div>
+            <a
+              class="yth-white-arrow yth-information-banner__link"
+              href="https://kpmg.com/us/en/articles/2025/future-content-spend.html"
+              aria-label="Read the full report here; link opens in new tab"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Read the full report here
+            </a>
+            <div
+              class="yth-information-banner__footnote yth-font-body-2 lb-margin-top-xs"
+            >
+              Source: KPMG &#x27;Money in Motion&#x27; report, September 2025
+            </div>
+          </div>
+        </section>
+
+        <section class="yth-ways-to-earn" id="youtube-partner-program">
+          <div class="yth-section yth-section--small">
+            <div class="lb-grid yth-ways-to-earn__grid">
+              <div class="lb-grid__cell lb-grid__cell--span-4">
+                <div class="yth-rail lb-margin-bottom-xs"></div>
+
+                <h2
+                  class="lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+                >
+                  How YouTube&#x27;s Partner Programme works
+                </h2>
+
+                <div class="yth-font-body-2">
+                  <div class="yth-md">
+                    <p>
+                      The YouTube Partner Programme is how creators, artists and
+                      media companies earn on the platform.
+                    </p>
+                    <p>
+                      Once a creator hits 500 subscribers, they are eligible to
+                      apply for the YouTube Partner Programme. Once accepted
+                      into the programme and at 1,000 subscribers, creators
+                      unlock ad revenue and start earning 55% of the ads shown
+                      on their videos + YouTube Premium subscriptions.
+                    </p>
+                    <p>
+                      There are also eight other ways* for creators, artists and
+                      media companies to monetise on YouTube – based on what's
+                      right for their business and audience.
+                    </p>
+                  </div>
+                </div>
+
+                <div class="yth-ways-to-earn__footnote lb-font-footnote">
+                  *Varies based on country
+                </div>
+              </div>
+              <div class="lb-grid__cell lb-grid__cell--offset-5-span-6">
+                <div
+                  class="yth-ways-to-earn__labels-heading lb-font--no-crop lb-font-headline-2 lb-font-weight-700"
+                >
+                  10 ways to earn
+                </div>
+                <div class="yth-ways-to-earn__labels-wrapper">
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Advertising revenue
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Premium subscriptions
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Super Chat
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Super Thanks
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Gifts
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Super Stickers
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    YouTube Creator Partnerships
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Ticketing
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    Channel memberships
+                  </div>
+
+                  <div
+                    class="yth-ways-to-earn__labels lb-font-subhead-2 lb-font-weight-600"
+                  >
+                    YouTube Shopping
+                  </div>
+                </div>
+              </div>
+              <div
+                class="lb-grid__cell lb-grid__cell--span-12 yth-ways-to-earn__bottom-heading-wrapper"
+              >
+                <div
+                  class="yth-ways-to-earn__bottom-heading lb-font--no-crop lb-font-headline-2 lb-font-weight-700"
+                >
+                  <div class="yth-md">
+                    <p>
+                      The output is a thriving ecosystem of<br />
+                      <span class="yth-red"
+                        >3M+ people earning through YouTube</span
+                      >
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section
+          id="global-local-impact"
+          class="yth-page-statistics page-statistics__bg"
+        >
+          <div
+            class="yth-section yth-section--small page-statistics lb-padding-top-l lb-padding-bottom-m"
+          >
+            <div class="yth-rail lb-margin-bottom-xs"></div>
+            <div class="lb-grid">
+              <div class="lb-grid__cell lb-grid__cell--span-5">
+                <div class="page-statistics__content-wrapper">
+                  <h3
+                    class="yth-recommendations-module__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+                  >
+                    How YouTube ignites global and local impact
+                  </h3>
+                  <div
+                    class="hyth-recommendations-module__description yth-font-body-2"
+                  >
+                    <div class="yth-md">
+                      <p>
+                        Our business model fuels a thriving creator ecosystem on
+                        a global and local level, turning creativity into
+                        substantial revenue through advertising, subscriptions
+                        and more.
+                      </p>
+                    </div>
+                  </div>
+
+                  <a
+                    class="yth-blue-arrow page-statistics__content-wrapper__link lb-font-weight-500"
+                    href="/howyoutubeworks/youtubes-impact/"
+                    target="_self"
+                    aria-label="See what it looks like at a local level"
+                  >
+                    See what it looks like at a local level
+                  </a>
+                </div>
+              </div>
+              <div class="lb-grid__cell lb-grid__cell--offset-6-span-6">
+                <div class="page-statistics__container">
+                  <div class="page-statistics__card page-statistics__text-left">
+                    <div
+                      class="page-statistics__chips lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                    >
+                      Global impact
+                    </div>
+
+                    <div
+                      class="page-statistics__number lb-font-display-2 lb-font--no-crop lb-font-weight-700 page-statistics__number"
+                    >
+                      50%
+                    </div>
+                    <div class="page-statistics__card-description">
+                      <p
+                        class="lb-font-subhead-2 lb-font-weight-700 lb-font--no-crop"
+                      >
+                        Globally, of the YouTube Partner Programme channels that
+                        earned five figures or more (USD) on YouTube in 2024,
+                        over 50% earned revenue from sources other than ads and
+                        YouTube Premium.
+                      </p>
+                      <p
+                        class="page-statistics__footnote lb-font-footnote lb-font-weight-400 lb-font--no-crop"
+                      >
+                        Source: YouTube internal data, Jan–Dec 2024
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section
+          class="yth-section impact-stories"
+          id="creator-economy-stories"
+        >
+          <div class="impact-stories__text-content">
+            <h3
+              class="lb-font-headline-2 lb-font-weight-700 lb-font--no-crop lb-margin-bottom-xs"
+            >
+              The next generation of media companies
+            </h3>
+            <div
+              class="lb-font-subhead-3 lb-font--no-crop lb-font-color-grey-5"
+            >
+              <div class="yth-md">
+                <p>
+                  YouTube creators around the world are leaning into new models
+                  of production, building studios to elevate their production
+                  quality and exploring new creative avenues. They are creating
+                  a whole new playing field for entertainment and the businesses
+                  behind them – all as a result of the YouTube Partner
+                  Programme. Find out what this new ecosystem of creative
+                  businesses looks like in the videos below.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="lb-carousel impact-stories__carousel yth-stories-filter"
+            lb-auto-init="LBCarousel"
+            lb-options="{'uid': 'demo-group', 'group': true}"
+          >
+            <div class="lbd-chips__demo-box">
+              <div
+                class="lb-chips yth-chips"
+                lb-auto-init="LBChips"
+                lb-options="{
+                'uid': 'categoryFilter',
+                'type': 'choice',
+                'nameKey': 'name'
+                }"
+              >
+                <button
+                  class="lb-chips__chip lb-js-chip lb-chips__chip--selected"
+                  value="all"
+                  name="ALL"
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    ALL
+                  </span>
+                </button>
+
+                <button
+                  class="lb-chips__chip lb-js-chip"
+                  value="media-co"
+                  name="Media Co."
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    Media Co.
+                  </span>
+                </button>
+
+                <button
+                  class="lb-chips__chip lb-js-chip"
+                  value="production-studio"
+                  name="Production studio"
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    Production studio
+                  </span>
+                </button>
+
+                <button
+                  class="lb-chips__chip lb-js-chip"
+                  value="news-outlet"
+                  name="News outlet"
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    News outlet
+                  </span>
+                </button>
+
+                <button
+                  class="lb-chips__chip lb-js-chip"
+                  value="record-label"
+                  name="Record label"
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    Record label
+                  </span>
+                </button>
+
+                <button
+                  class="lb-chips__chip lb-js-chip"
+                  value="podcast-production-co"
+                  name="Podcast Production Co."
+                  aria-selected="false"
+                  tabindex="0"
+                  aria-checked="false"
+                >
+                  <span class="lb-font-footnote lb-chips__chip-text">
+                    Podcast Production Co.
+                  </span>
+                </button>
+              </div>
+            </div>
+
+            <div class="lb-carousel__viewport">
+              <button
+                class="lb-carousel-button lb-carousel-button--previous yth-carousel-button--previous"
+                lb-auto-init="LBCarouselButton"
+                lb-options="{'uid': 'demo-group', 'previous': true, 'direction': -1}"
+              >
+                <img
+                  class="lb-carousel-button__icon"
+                  src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                  alt=""
+                  role="presentation"
+                />
+              </button>
+              <div class="lb-carousel__track yth-stories-filter__track">
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/UMsTIv6NwK4/maxresdefault.jpg"
+                          alt="Infinitum Network-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-UMsTIv6NwK4"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-UMsTIv6NwK4"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-UMsTIv6NwK4'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          India
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Infinitum Network
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          A media company&#x27;s journey from one channel to 550
+                          across 100 languages.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/uzjggV2PyiQ/maxresdefault.jpg"
+                          alt="Think School-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-uzjggV2PyiQ"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-uzjggV2PyiQ"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-uzjggV2PyiQ'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          India
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Think School
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          The media company making business education
+                          accessible.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/c/ThinkSchool"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/60622fa4b0bbea66bb22c2a631268cf681d6d6e20358ccbd979d30ac1cd46231392068f2229764a5064bd61a8a1601cb804ef4bb24b80bc3efd36b2c3df09f29"
+                            alt="Headshot of ThinkSchool"
+                          />
+
+                          @ThinkSchool
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/66eJDzVOp4Y/maxresdefault.jpg"
+                          alt="Dhar Mann Studios-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-66eJDzVOp4Y"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-66eJDzVOp4Y"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-66eJDzVOp4Y'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          United States
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Dhar Mann Studios
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          From making short films on a phone to running a
+                          Hollywood-style studio that employs hundreds.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@DharMann"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/b8b5272ca96b40b353e18606edfa2a5694b2327f53992effaf4213cf18e15d851842bc21b53885346d937775446f03f29413c4e081f4d5ac4bc3b71e3b4fb5bd"
+                            alt="Headshot of DharMann"
+                          />
+
+                          @DharMann
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/6JbzGSFRJJ8/maxresdefault.jpg"
+                          alt="Mel Robbins-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-6JbzGSFRJJ8"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-6JbzGSFRJJ8"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-6JbzGSFRJJ8'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          United States
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Mel Robbins
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          The journey from home studio to global podcast
+                          phenomenon.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@melrobbins"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/908a07e1dfef23d434c969b0f73a51ab60fc005a4f1f021df623a99eea8bc60f13cfdcf16eab3f790b22d98af2b55e12db628f6f5bc153d07f6427d9949b244c"
+                            alt="Headshot of melrobbins"
+                          />
+
+                          @melrobbins
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="production-studio"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/hSKcGIGYkCY/maxresdefault.jpg"
+                          alt="Brandon B-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Production studio
+                        </div>
+
+                        <button
+                          id="modal-trigger-hSKcGIGYkCY"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-hSKcGIGYkCY"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-hSKcGIGYkCY'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          United Kingdom
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Brandon B
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          Turning a passion for visual effects into a thriving
+                          production studio.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@heyBrandonB"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/aa28724de78ac517b0dcb8cbfacf84f4cbe585a853cfaabe90d181dd1c99b232896293e610e1706cba8c5278cc618fcdaa9103111124336525bc542980e8174c"
+                            alt="Headshot of heyBrandonB"
+                          />
+
+                          @heyBrandonB
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/E6TwPCvu6Hc/maxresdefault.jpg"
+                          alt="Sidemen-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-E6TwPCvu6Hc"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-E6TwPCvu6Hc"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-E6TwPCvu6Hc'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          United Kingdom
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Sidemen
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          Seven friends who turned casual gaming videos into a
+                          global entertainment empire.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@Sidemen"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/a21e386585e806e602be76eefebe4ca9ef128bae2a28c46cf0394a44eda660f56332b149b226db57c1374b0bf8d845ffbd6b6fd535f18012a15e86a8f95be62b"
+                            alt="Headshot of Sidemen"
+                          />
+
+                          @Sidemen
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="news-outlet"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/jHxTXG0CP8A/maxresdefault.jpg"
+                          alt="METRO TV-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          News outlet
+                        </div>
+
+                        <button
+                          id="modal-trigger-jHxTXG0CP8A"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-jHxTXG0CP8A"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-jHxTXG0CP8A'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          Indonesia
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          METRO TV
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          How a traditional news outlet became Indonesia&#x27;s
+                          first 24 hour news channel on YouTube.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@metrotvnews"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/eef177b0745afe04d66c24adcaf35da6462fae244097bb58604447b839a28d71bf78b1507c159aa12d724184a969b36142d5962d0d847d37517bb0093ae31945"
+                            alt="Headshot of metrotvnews"
+                          />
+
+                          @metrotvnews
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="record-label"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/Lqj9oIGHv9g/maxresdefault.jpg"
+                          alt="Aquarius Musikindo-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Record label
+                        </div>
+
+                        <button
+                          id="modal-trigger-Lqj9oIGHv9g"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-Lqj9oIGHv9g"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-Lqj9oIGHv9g'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          Indonesia
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Aquarius Musikindo
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          How a legacy record label re-imagined its future
+                          online.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/aqmvideo"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/be6fb7d5b4591b38a20d676844d8b5c8b2e05ddc62ff8bcbcf832c06d645dd1e799a88295a86bf78b5399efc95c61244d9dcf719846ab70bda2b1c629090a86c"
+                            alt="Headshot of AquariusMusikindo"
+                          />
+
+                          @AquariusMusikindo
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="media-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/xa1QK00yFxA/maxresdefault.jpg"
+                          alt="DiaTV-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Media Co.
+                        </div>
+
+                        <button
+                          id="modal-trigger-xa1QK00yFxA"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-xa1QK00yFxA"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-xa1QK00yFxA'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          Brazil
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          DiaTV
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          The unconventional creator-led TV channel redefining
+                          Brazilian media.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@DiaTV"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/df93b8a2c1e5cb4860c1b844c519dcf07fe01b1de1d038b64bd004c719866dab1c66abdaad252335d53fdc2cfd0f9a2b6da52f2d7cc3e67f252e657b73cc21c5"
+                            alt="Headshot of DiaTV"
+                          />
+
+                          @DiaTV
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="podcast-production-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/1OOURX416j0/maxresdefault.jpg"
+                          alt="Flow Podcast-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Podcast
+                        </div>
+
+                        <button
+                          id="modal-trigger-1OOURX416j0"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-1OOURX416j0"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-1OOURX416j0'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          Brazil
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Flow Podcast
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          Building a media empire through authentic dialogue.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/c/flowpodcast"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/828680677d9cce786b8cf83889724908260bdee2d14d930716b022e62e4b787a7321c12a7fb3e7c3dabb8427676de9c53e690f64d083f7677dc3130e9bd5e0d8"
+                            alt="Headshot of FlowPodcast"
+                          />
+
+                          @FlowPodcast
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="podcast-production-co"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/TV4A2nhGzlc/maxresdefault.jpg"
+                          alt="InPower Podcast-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          Podcast
+                        </div>
+
+                        <button
+                          id="modal-trigger-TV4A2nhGzlc"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-TV4A2nhGzlc"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-TV4A2nhGzlc'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          France
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          InPower Podcast
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          How a passion for helping others turned into a podcast
+                          production company.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@inpowerpodcast"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/884005be9b6e7894a2f3fe2184895d4ffb1a57d14567db35001a1c5e63300abb9bdedb24902f8f16864f981e4ea9ee82d278a9cfdac6f649893b5a3c860816b6"
+                            alt="Headshot of inpowerpodcast"
+                          />
+
+                          @inpowerpodcast
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-carousel__slide yth-stories-filter__slide"
+                  data-category="news-outlet"
+                >
+                  <div class="lb-tile">
+                    <div class="lb-tile__media-wrapper">
+                      <div class="lb-tile__media">
+                        <img
+                          src="https://i3.ytimg.com/vi/ulnpAdUfnDc/maxresdefault.jpg"
+                          alt="Gaspard G-image"
+                        />
+
+                        <div
+                          class="yth-stories-filter__category lb-font-weight-600"
+                        >
+                          News outlet
+                        </div>
+
+                        <button
+                          id="modal-trigger-ulnpAdUfnDc"
+                          role="button"
+                          lb-auto-init="LBButton"
+                          aria-label="modal-trigger-ulnpAdUfnDc"
+                          lb-options="{'component':'lb-modal', 'action':'open', 'detail':{'uid':'modal-yt-video-ulnpAdUfnDc'}}"
+                        >
+                          <svg
+                            width="45"
+                            height="33"
+                            viewBox="0 0 45 33"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <g clip-path="url(#clip0_3363_1185)">
+                              <path
+                                d="M44.0206 5.40585C43.5044 3.45252 42.3728 1.79918 40.4338 1.27918C36.9198 0.332516 22.5 0.24585 22.5 0.24585C22.5 0.24585 8.08015 0.332516 4.56618 1.27918C2.62721 1.79918 1.50221 3.45252 0.979412 5.40585C0.0397059 8.94585 0 16.2458 0 16.2458C0 16.2458 0.0397059 23.5458 0.979412 27.0858C1.49559 29.0392 2.62721 30.6925 4.56618 31.2125C8.08015 32.1592 22.5 32.2458 22.5 32.2458C22.5 32.2458 36.9198 32.1592 40.4338 31.2125C42.3728 30.6925 43.5044 29.0392 44.0206 27.0858C44.9603 23.5458 45 16.2458 45 16.2458C45 16.2458 44.9603 8.94585 44.0206 5.40585Z"
+                                fill="#FF0033"
+                              ></path>
+                              <path
+                                d="M29.7794 16.2459L17.8677 9.57922V22.9126"
+                                fill="white"
+                              ></path>
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_3363_1185">
+                                <rect
+                                  width="45"
+                                  height="32"
+                                  fill="white"
+                                  transform="translate(0 0.24585)"
+                                ></rect>
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+
+                    <div class="lb-tile__content">
+                      <div class="lb-tile__header">
+                        <div
+                          class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                        >
+                          France
+                        </div>
+
+                        <h3
+                          class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                        >
+                          Gaspard G
+                        </h3>
+                      </div>
+                      <div class="lb-tile__body">
+                        <p
+                          class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                        >
+                          Redefining media entrepreneurship on YouTube.
+                        </p>
+                      </div>
+                      <div class="lb-tile__footer">
+                        <a
+                          class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                          href="https://www.youtube.com/@GaspardG"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label="Link opens in a new tab"
+                        >
+                          <img
+                            src="https://kstatic.googleusercontent.com/files/a1d5af96bc6c94a267dac31b9c62f92b49dff27a207a7d67ea8ff65e3e35f2419f57d633f9800fd812abfddf923a7b21cb82aa4d3b8cbb7c41683bec11070bab"
+                            alt="Headshot of GaspardG"
+                          />
+
+                          @GaspardG
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <button
+                class="lb-carousel-button lb-carousel-button--next"
+                lb-auto-init="LBCarouselButton"
+                lb-options="{'uid': 'demo-group', 'next': true, 'direction': 1}"
+              >
+                <img
+                  class="lb-carousel-button__icon"
+                  src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                  alt=""
+                  role="presentation"
+                />
+              </button>
+            </div>
+            <div
+              class="lb-carousel-progress"
+              lb-auto-init="LBCarouselProgress"
+              lb-options="{'uid': 'demo-group'}"
+            ></div>
+          </div>
+
+          <div class="lb-margin-top-s">
+            <a
+              class="yth-blue-arrow lb-font-weight-500"
+              href="https://www.youtube.com/playlist?list=PLt5nrEHWOIJJL9i5VXzpBfs0WUF1rs_bM"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Link opens in a new tab"
+            >
+              Watch the full playlist
+            </a>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-hSKcGIGYkCY','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-hSKcGIGYkCY"
+              aria-modal="true"
+              aria-describedby="modal-description-hSKcGIGYkCY"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="hSKcGIGYkCY"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-E6TwPCvu6Hc','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-E6TwPCvu6Hc"
+              aria-modal="true"
+              aria-describedby="modal-description-E6TwPCvu6Hc"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="E6TwPCvu6Hc"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-66eJDzVOp4Y','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-66eJDzVOp4Y"
+              aria-modal="true"
+              aria-describedby="modal-description-66eJDzVOp4Y"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="66eJDzVOp4Y"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-6JbzGSFRJJ8','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-6JbzGSFRJJ8"
+              aria-modal="true"
+              aria-describedby="modal-description-6JbzGSFRJJ8"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="6JbzGSFRJJ8"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-jHxTXG0CP8A','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-jHxTXG0CP8A"
+              aria-modal="true"
+              aria-describedby="modal-description-jHxTXG0CP8A"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="jHxTXG0CP8A"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-Lqj9oIGHv9g','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-Lqj9oIGHv9g"
+              aria-modal="true"
+              aria-describedby="modal-description-Lqj9oIGHv9g"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="Lqj9oIGHv9g"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-xa1QK00yFxA','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-xa1QK00yFxA"
+              aria-modal="true"
+              aria-describedby="modal-description-xa1QK00yFxA"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="xa1QK00yFxA"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-1OOURX416j0','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-1OOURX416j0"
+              aria-modal="true"
+              aria-describedby="modal-description-1OOURX416j0"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="1OOURX416j0"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-TV4A2nhGzlc','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-TV4A2nhGzlc"
+              aria-modal="true"
+              aria-describedby="modal-description-TV4A2nhGzlc"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="TV4A2nhGzlc"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-ulnpAdUfnDc','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-ulnpAdUfnDc"
+              aria-modal="true"
+              aria-describedby="modal-description-ulnpAdUfnDc"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="ulnpAdUfnDc"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-UMsTIv6NwK4','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-UMsTIv6NwK4"
+              aria-modal="true"
+              aria-describedby="modal-description-UMsTIv6NwK4"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="UMsTIv6NwK4"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+
+          <div
+            class="lb-modal lb-modal--video"
+            role="presentation"
+            lb-auto-init="LBModal"
+            lb-options="{'uid':'modal-yt-video-uzjggV2PyiQ','autoPlayVideo':true}"
+          >
+            <div
+              class="lb-js-modal-body lb-modal__body"
+              role="dialog"
+              aria-labelledby="modal-trigger-uzjggV2PyiQ"
+              aria-modal="true"
+              aria-describedby="modal-description-uzjggV2PyiQ"
+            >
+              <button
+                class="lb-js-close-button lb-modal__close-button"
+                aria-label="close"
+              >
+                <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                  <g fill="none" fill-rule="evenodd">
+                    <circle
+                      class="lb-modal__close-button-circle"
+                      stroke-width="2"
+                      cx="24"
+                      cy="24"
+                      r="23"
+                    ></circle>
+                    <polygon
+                      class="lb-modal__close-button-x"
+                      points="29 16.41 27.59 15 22 20.59 16.41 15 15 16.41 20.59 22 15 27.59 16.41 29 22 23.41 27.59 29 29 27.59 23.41 22"
+                    ></polygon>
+                  </g>
+                </svg>
+              </button>
+              <div
+                class="lb-player"
+                lb-auto-init="LBPlayer"
+                lb-video-id="uzjggV2PyiQ"
+                lb-options="{'initType':'manual'}"
+              ></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="yth-text-lockup" id="protecting-creators-earnings">
+          <div class="yth-section yth-section--small">
+            <div class="lb-grid yth-text-lockup__grid yth-text-lockup__dark-bg">
+              <div class="lb-grid__cell lb-grid__cell--span-5">
+                <h2
+                  class="yth-text-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+                >
+                  <div class="yth-md"><p>Protecting creators' earnings</p></div>
+                </h2>
+              </div>
+              <div
+                class="lb-grid__cell lb-grid__cell--span-7 yth-text-lockup__description-grid"
+              >
+                <div class="yth-text-lockup__description yth-font-body-2">
+                  <div class="yth-md">
+                    <p>
+                      To ensure that we protect this thriving creator ecosystem,
+                      we have a set of
+                      <a
+                        href="https://support.google.com/youtube/answer/1311392"
+                        target="_blank"
+                        aria-label="monetisation policies link opens in new tab"
+                        rel="noopener noreferrer"
+                        >monetisation policies</a
+                      >
+                      that each member of the YouTube Partner Programme is
+                      required to follow.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="yth-explore-more" id="creator-economy-explore-more">
+          <div class="yth-section">
+            <h3
+              class="yth-explore-more__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+            >
+              Explore more
+            </h3>
+            <div class="lb-grid">
+              <div
+                class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+              >
+                <div
+                  class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+                >
+                  YouTube Partner Programme, explained
+                </div>
+                <a
+                  class="yth-arrow-link"
+                  href="https://blog.youtube/creator-and-artist-stories/youtube-partner-program-explained/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="YouTube Partner Programme, explained; link opens in new tab"
+                >
+                </a>
+              </div>
+
+              <div
+                class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+              >
+                <div
+                  class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+                >
+                  12 Creators on the Rise earning with YouTube Shopping
+                </div>
+                <a
+                  class="yth-arrow-link"
+                  href="https://blog.youtube/creator-and-artist-stories/shopping-creators-on-the-rise/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="12 Creators on the Rise earning with YouTube Shopping; link opens in new tab"
+                >
+                </a>
+              </div>
+
+              <div
+                class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+              >
+                <div
+                  class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+                >
+                  Beyond the frame: How viewers define content quality
+                </div>
+                <a
+                  class="yth-arrow-link"
+                  href="https://blog.youtube/culture-and-trends/how-viewers-define-content-quality-2024/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Beyond the frame: How viewers define content quality; link opens in new tab"
+                >
+                </a>
+              </div>
+
+              <div
+                class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+              >
+                <div
+                  class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+                >
+                  A future full of opportunities, made on YouTube
+                </div>
+                <a
+                  class="yth-arrow-link"
+                  href="https://blog.youtube/news-and-events/made-on-youtube-2025/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="A future full of opportunities, made on YouTube; link opens in new tab"
+                >
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <div class="yth-progress">
+          <div class="yth-progress__bar" lb-auto-init="ProgressBar"></div>
+        </div>
+      </div>
+    </main>
+
+    <footer
+      class="lb-footer"
+      role="contentinfo"
+      lb-auto-init="LBCustomFooter"
+      lb-options="{
+            'bareUrl': '/howyoutubeworks/creator-economy/',
+            'locales': 'en_us,ALL_au,en_be,ALL_ca,ALL_in,ALL_uk,en_mt,ALL_ie,ALL_kr,ALL_it,ALL_ee,ALL_fi,fr_ca,ALL_nl,ALL_be,ALL_hu,ALL_lv,ALL_cz,ALL_id,fr_be,ALL_fr,fr_lu,ALL_bg,sw_ALL,ALL_se,ALL_ro,ALL_sk,ALL_es,ALL_vn,es_us,mt_ALL,ALL_pl,ALL_lt,ALL_dk,ALL_hr,ALL_si,ALL_gr,el_cy,ALL_pt,ALL_ru,ar_ALL,ALL_de,ALL_at,de_be,ALL_lu,ALL_tr,tr_cy,ALL_br,ga_ALL,zh-TW_ALL,hi_in,iw_ALL,ALL_jp'
+          }"
+    ></footer>
+
+    <script type="application/ld+json" nonce="Vf6PZUCzjDiLWerwoL7txQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "How Youtube Works",
+        "alternateName": ["How Youtube Works"],
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "logo": "https://lh3.googleusercontent.com/u7efPJhM1pB1PAIAO5PotDW-Qkkpnde_2MPx2P8pWFua7ZfgMowbhNbklswuAbT9RpzabRA3TEhZd00LJQwbX71Z3PZKBhR87P71I21cS4FkiUXfTa0",
+        "description": "The YouTube Partner Programme has cultivated a creator economy through monetisation, allowing content creators to be part of a thriving creative ecosystem."
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="Vf6PZUCzjDiLWerwoL7txQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Creator economy: Income through YouTube – how YouTube works",
+        "image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/",
+        "description": "The YouTube Partner Programme has cultivated a creator economy through monetisation, allowing content creators to be part of a thriving creative ecosystem.",
+        "publisher": { "@type": "WebPageElement", "name": "How Youtube Works" }
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="Vf6PZUCzjDiLWerwoL7txQ">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/",
+        "name": "Creator economy: Income through YouTube – how YouTube works",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/creator-economy/",
+          "query-input": "required name=query"
+        }
+      }
+    </script>
+
+    <script
+      src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"
+      data-glue-cookie-notification-bar-category="2A"
+      data-glue-cookie-notification-bar-language="en"
+      data-glue-cookie-notification-bar-site-id="youtube.com/howyoutubeworks"
+    nonce="Vf6PZUCzjDiLWerwoL7txQ"></script>
+  </body>
+</html>

@@ -1,0 +1,2286 @@
+<!DOCTYPE html>
+<html data-generated-by="stalefish@0.0.9"
+  lang="en"
+  geo="in"
+  dir="ltr"
+  locale="ALL_in"
+  class="lb-breakpoints yth-page"
+  lb-auto-init="YTHPage"
+>
+  <head>
+    <meta charset="utf-8" />
+    <!-- Google Tag Manager -->
+    <script nonce="5uHZMQGnG4otjiIUZJAjdg">
+      function glueCookieNotificationBarLoaded() {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-56HCXDK");
+      }
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover"
+    />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <title>Fostering learning experiences on YouTube – How YouTube Works</title>
+    <meta
+      name="description"
+      content="Learning on YouTube is powered by high-quality education content. Understand how YouTube is fostering a safer, enriching and accessible learning environment for all learners."
+    />
+    <link
+      rel="canonical"
+      href="https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/"
+    />
+
+    <!-- Open graph metadata -->
+    <meta name="pinterest" content="nopin" />
+    <meta
+      property="og:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/"
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+    <meta
+      property="og:title"
+      content="Fostering learning experiences on YouTube – How YouTube Works"
+    />
+    <meta property="og:site_name" content="How YouTube works" />
+    <meta
+      property="og:description"
+      content="Learning on YouTube is powered by high-quality education content. Understand how YouTube is fostering a safer, enriching and accessible learning environment for all learners."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:url"
+      class="meta-url"
+      content="https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/"
+    />
+    <meta
+      name="twitter:title"
+      content="Fostering learning experiences on YouTube – How YouTube Works"
+    />
+    <meta
+      name="twitter:description"
+      content="Learning on YouTube is powered by high-quality education content. Understand how YouTube is fostering a safer, enriching and accessible learning environment for all learners."
+    />
+    <meta
+      name="twitter:image"
+      content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    />
+
+    <!-- Preconnect and preload assets here -->
+    <link rel="preconnect" href="//lh3.googleusercontent.com" />
+    <link rel="preconnect" href="//kstatic.googleusercontent.com" />
+
+    <!-- Favicons -->
+    <link
+      rel="shortcut icon"
+      href="https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_48-vflVjB_Qk.png"
+      sizes="48x48"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_96-vflW9Ec0w.png"
+      sizes="96x96"
+    />
+    <link
+      rel="icon"
+      href="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
+      sizes="144x144"
+    />
+
+    <!-- External stylesheets -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=YouTube+Sans:400,500,600,700|Roboto:400,500,600,700&amp;lang=en&amp;display=swap"
+      media="all"
+      nonce="5uHZMQGnG4otjiIUZJAjdg"
+    />
+    <link
+      href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css"
+      rel="stylesheet"
+   nonce="5uHZMQGnG4otjiIUZJAjdg" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/shared.index.min.css?cache=064ea36867"
+   nonce="5uHZMQGnG4otjiIUZJAjdg" />
+    <link
+      rel="stylesheet"
+      href="/howyoutubeworks/static/compiled/css/learning.index.min.css?cache=06362a44fa"
+   nonce="5uHZMQGnG4otjiIUZJAjdg" />
+
+    <script
+      defer
+      src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js"
+    nonce="5uHZMQGnG4otjiIUZJAjdg"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/shared.index.min.js?cache=4c3aea0bd5"
+    nonce="5uHZMQGnG4otjiIUZJAjdg"></script>
+    <script
+      defer
+      src="/howyoutubeworks/static/compiled/learning.index.min.js?cache=f34d154415"
+    nonce="5uHZMQGnG4otjiIUZJAjdg"></script>
+  </head>
+  <body>
+    <header
+      class="lb-header"
+      lb-auto-init="LBHeader, YTHPage"
+      lb-options="{
+            'persistentCtas': ['primary', 'secondary']
+          }"
+    >
+      <div class="lb-header__row">
+        <div class="lb-header__row-left lb-header-js-row-left">
+          <button
+            class="lb-header__menu-button lb-header-js-menu-btn"
+            aria-label="Toggle all"
+          >
+            <span class="lb-header__menu-button-box">
+              <span class="lb-header__menu-button-stroke"></span>
+            </span>
+          </button>
+          <a
+            class="lb-header__logo-wrapper lb-header-js-logo-wrapper"
+            href="/intl/ALL_in/howyoutubeworks/"
+            rel="noopener noreferrer"
+            aria-label="Home page link"
+          >
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-default"
+              src="https://kstatic.googleusercontent.com/files/eae0fcc1c67cc38d9c2cd2300f46c8e821fcd6bc3bafa1d222426a6a4d5f2081071424c94454d9d3b967ab373b16b6345a9fe9df890183f327400624d123f32d"
+              alt="YouTube logo"
+            />
+            <img
+              class="lb-header__logo lb-header-js-logo lb-logo-hc"
+              src="https://kstatic.googleusercontent.com/files/cfe5d66fd54bdfebc20e894bb64db27f2d4c8eb9e20a0c268d57fa62e48aa3f2d126b4b30e84840608d4c4bab611e63fe39c70834f1c8abd53e1f4cdbba4caa9"
+              alt="YouTube logo high contrast"
+            />
+          </a>
+          <a class="lb-button lb-header__jump-to" href="#content">
+            Jump to content
+          </a>
+          <div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+            <nav class="lb-header__nav lb-header-js-nav" aria-label="Header">
+              <div class="lb-header__nav-item-wrapper" role="none">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  id="menuitem-1"
+                  aria-haspopup="menu"
+                  aria-label="How YouTube Works menupopup"
+                  tabindex="0"
+                  aria-controls="subnav-how-youtube-works"
+                  rel="noopener noreferrer"
+                  href="/intl/ALL_in/howyoutubeworks/"
+                >
+                  How YouTube Works
+                  <span class="lb-header__subnav-chevron"></span>
+                </a>
+                <ul
+                  class="lb-header__subnav-wrapper lb-header-js-subnav-wrapper"
+                  role="menu"
+                  id="subnav-how-youtube-works"
+                >
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/ai/"
+                    >
+                      AI
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/copyright/"
+                    >
+                      Copyright
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/creator-economy/"
+                    >
+                      Creator Economy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/elections/"
+                    >
+                      Elections
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/kids-and-teens/"
+                    >
+                      Kids &amp; Teens
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header__subnav-item--active lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/learning/"
+                      aria-current="page"
+                    >
+                      Learning
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/news/"
+                    >
+                      News
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/privacy/"
+                    >
+                      Privacy
+                    </a>
+                  </li>
+
+                  <li class="lb-header__subnav-item-wrapper" role="none">
+                    <a
+                      class="lb-header-js-subnav-item lb-header__subnav-item"
+                      role="menuitem"
+                      href="/intl/ALL_in/howyoutubeworks/recommendations/"
+                    >
+                      Recommendations
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/our-policies/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Our Policies
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="/intl/ALL_in/howyoutubeworks/youtubes-impact/"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  Impact Reports
+                </a>
+              </div>
+
+              <div class="lb-header__nav-item-wrapper">
+                <a
+                  class="lb-header-js-nav-item lb-header__nav-item"
+                  tabindex="0"
+                  href="https://transparencyreport.google.com/youtube-policy/removals"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Transparency Reports
+                </a>
+              </div>
+            </nav>
+          </div>
+        </div>
+
+        <!-- Search -->
+        <div class="lb-header__row-right lb-header-js-row-right">
+          <div class="lb-header__search-wrapper lb-header-js-search-wrapper">
+            <!-- Search inner -->
+            <div class="lb-header__search-inner lb-header-js-search-inner">
+              <form
+                class="lb-header__search-bar-wrapper"
+                novalidate
+                role="search"
+                lb-auto-init="LBSearchForm"
+                lb-options="{
+                'resultsPage': '/howyoutubeworks/search/'
+              }"
+              >
+                <!-- Search expand/search button -->
+                <button
+                  class="lb-header__search-button lb-header-js-search-toggle"
+                  aria-label="Search"
+                  type="submit"
+                  role="button"
+                >
+                  <svg
+                    class="lb-header__search-icon"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M0 0h24v24H0z" fill="none" />
+                    <path
+                      d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                    />
+                  </svg>
+                </button>
+                <!-- end Search expand/search button -->
+                <!-- Search bar -->
+                <input
+                  class="lb-font-body lb-header__search-bar lb-header-js-search-bar"
+                  type="text"
+                  placeholder="Search"
+                  aria-hidden="false"
+                  aria-label="Search"
+                  tabindex="-1"
+                  name="lb-search"
+                />
+              </form>
+              <!-- Search collapse button -->
+              <button
+                class="lb-header__search-button lb-header__search-button--collapse lb-header-js-search-toggle"
+                aria-label="Close"
+                tabindex="-1"
+                aria-hidden="true"
+              >
+                <svg
+                  class="lb-header__search-icon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M0 0h24v24H0z" fill="none" />
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <!-- end Search collapse button -->
+            </div>
+            <!-- end Search inner -->
+            <div
+              class="lb-header__search-overlay lb-header-js-search-toggle"
+            ></div>
+          </div>
+        </div>
+        <!-- end Search -->
+      </div>
+    </header>
+
+    <main class="yt-main yth-learning">
+      <section class="hero-section">
+        <div class="hero-section__img-wrapper">
+          <img
+            class="hero-section__img"
+            lb-auto-init="LBImageLoader"
+            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/e9f5a6dff384a30a55f21c3bdd5fc5d004de60b3c01bea8327b5a0c54119143bab58dee14c96c3226daacffc49d10d7cd15b04eeb5a33defe5c9e972e859a843 1x'
+      }"
+            src="https://kstatic.googleusercontent.com/files/e9f5a6dff384a30a55f21c3bdd5fc5d004de60b3c01bea8327b5a0c54119143bab58dee14c96c3226daacffc49d10d7cd15b04eeb5a33defe5c9e972e859a843=w1080"
+            alt="Learning hero image"
+          />
+        </div>
+
+        <div class="hero-section__container lb-padding-bottom-m lb-grid">
+          <div
+            class="hero-section__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-9 lb-grid__cell--lg-span-7"
+          >
+            <h1
+              class="hero-section__heading lb-font-display-2 lb-font--no-crop lb-font-weight-700"
+              id="content"
+            >
+              <div class="yth-md"><p>Learning</p></div>
+            </h1>
+
+            <div
+              class="lb-font-subhead-1 yth-font-subhead-1 lb-font--no-crop lb-font-weight-600"
+            >
+              <div class="yth-md">
+                <p>
+                  Every day, people come to YouTube to learn something new.
+                  Whether it's getting help on class assignments, studying a
+                  foreign language or exploring a different career, people use
+                  YouTube to enrich their lives with new information.
+                </p>
+                <p>
+                  Our goal is to keep making it easier to learn and teach on
+                  YouTube for the billions of creators, teachers, students and
+                  lifelong learners around the world, who rely on the platform
+                  to go further.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-12">
+            <!-- jumplink sentinel div element for observer flicker issue -->
+            <div class="jumplink-sentinel"></div>
+
+            <!-- jumplinks module template - Mobile -->
+            <div
+              class="yth-jumplinks yth-jumplinks--mobile"
+              id="learning-mobile"
+              lb-auto-init="YTHPage"
+            >
+              <div
+                lb-auto-init="LBExpansionPanel"
+                class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized"
+                lb-expansion-panel-options="{'family': 'gollum'}"
+                style="--transition-duration--surface: 0.25s"
+              >
+                <div class="yth-jumplinks__wrapper">
+                  <div
+                    class="lb-expansion-panel__heading yth-jumplinks--mobile-heading"
+                    role="heading"
+                    aria-level="2"
+                  >
+                    <div
+                      lb-auto-init="LBExpansionPanelTrigger"
+                      lb-expansion-panel-trigger-options="{'family': 'gollum', 'index': 0}"
+                      class="lb-expansion-panel__trigger lb-expansion-panel__trigger--reverse lb-expansion-panel-trigger--initialized"
+                      role="button"
+                      tabindex="0"
+                      aria-expanded="false"
+                      aria-controls="id-gollum-panel-1"
+                      id="id-gollum-panel-header-1"
+                    >
+                      <span
+                        class="lb-expansion-panel__trigger-name lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                        >jump to a section</span
+                      >
+                      <span class="lb-expansion-panel__trigger-icon">
+                        <img
+                          class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                          src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                          alt="jump to a section icon"
+                        />
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-expansion-panel__surface"
+                    id="id-gollum-panel-1"
+                    role="region"
+                    aria-labelledby="id-lone-wolf-2-panel-header-1"
+                    style="--visibility--surface: visible"
+                  >
+                    <div class="lb-expansion-panel__surface-content">
+                      <div
+                        class="yth-jumplinks__items"
+                        role="navigation"
+                        aria-label="jump to a section"
+                      >
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="how-users-learn-on-youtube"
+                        >
+                          Learning experiences
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="world-biggest-classroom"
+                        >
+                          World&#x27;s biggest classroom
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="tool-for-teachers"
+                        >
+                          Tool for teachers
+                        </button>
+
+                        <button
+                          class="yth-jumplinks__items-label lb-font-weight-700 lb-font-subhead-2"
+                          data-id="partnerships-strengthen-learning"
+                        >
+                          Content partnerships
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- jumplinks module template - Desktop -->
+            <div
+              class="yth-jumplinks yth-jumplinks--desktop"
+              id="learning-desktop"
+              lb-auto-init="YTHPage"
+            >
+              <div class="yth-jumplinks__wrapper">
+                <div class="yth-jumplinks__heading-container">
+                  <img
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--down"
+                    src="/howyoutubeworks/static/images/arrow_drop_dow_black.svg"
+                    alt="jump to a section icon"
+                  />
+                  <span
+                    class="lb-font-eyebrow lb-font--no-crop yth-jumplinks__heading lb-font-weight-600"
+                    >jump to a section</span
+                  >
+                  <span
+                    class="lb-font-subhead-1 lb-font-weight-700 lb-font--no-crop yth-jumplinks__heading--fixed"
+                    >Learning</span
+                  >
+                </div>
+                <div class="yth-jumplinks__items-container">
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--left"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M15 18l-6-6 6-6" />
+                  </svg>
+                  <div class="yth-jumplinks__scroll-wrapper">
+                    <div
+                      class="yth-jumplinks__items"
+                      role="navigation"
+                      aria-label="jump to a section"
+                    >
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="how-users-learn-on-youtube"
+                      >
+                        Learning experiences
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="world-biggest-classroom"
+                      >
+                        World&#x27;s biggest classroom
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="tool-for-teachers"
+                      >
+                        Tool for teachers
+                      </button>
+
+                      <button
+                        class="yth-jumplinks__items-label lb-font-weight-700"
+                        data-id="partnerships-strengthen-learning"
+                      >
+                        Content partnerships
+                      </button>
+                    </div>
+                  </div>
+                  <svg
+                    class="yth-jumplinks__arrow yth-jumplinks__arrow--right"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="#606060"
+                    stroke-width="2.5"
+                    stroke-linecap="square"
+                    stroke-linejoin="arcs"
+                  >
+                    <path d="M9 18l6-6-6-6" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-information" id="how-users-learn-on-youtube">
+        <div class="yth-section yth-section--small">
+          <div class="yth-rail lb-margin-bottom-xs"></div>
+          <div class="lb-grid lb-margin-bottom-m yth-information__header">
+            <div class="lb-grid__cell lb-grid__cell--span-5">
+              <h2
+                class="yth-information__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+              >
+                How users learn on YouTube
+              </h2>
+            </div>
+            <div class="lb-grid__cell lb-grid__cell--span-7">
+              <div class="yth-information__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    YouTube attracts an array of learners looking for different
+                    learning experiences.
+                  </p>
+                  <p>
+                    People choose to learn on YouTube because it's the world's
+                    largest library of content on topics of all kinds, from
+                    coding to chemistry. Users enjoy the learning experience on
+                    YouTube as it provides them with the opportunity to discover
+                    creators and communities that inspire and motivate them,
+                    dive deep into the content of their choice and continue
+                    learning at their own pace.
+                  </p>
+                  <p>
+                    Across our learning-focused offerings and tools, we support
+                    users' learning journeys by making the learning experience
+                    active, reinforcing learning on the platform, providing
+                    feedback on how they're progressing and more.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="desktop-only">
+            <div class="yth-information__tab lb-grid">
+              <div
+                class="lb-tablist lb-grid__cell lb-grid__cell--span-6"
+                lb-auto-init="LBTablist"
+                lb-options="{'uid': 'how-users-learn-on-youtube'}"
+              >
+                <ul
+                  class="lb-tablist__tabs-wrapper lb-js-tablist-wrapper"
+                  role="tablist"
+                  tabindex="0"
+                >
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="quizzes"
+                      id="quizzes"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="0"
+                      aria-label="Quizzes"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': true}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="1"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-1"
+                            id="id-gollum-panel-header-1"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Quizzes
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-1"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-1"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  introduce an interactive way for creators to
+                                  engage with viewers and help them apply what
+                                  they've learned.
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+
+                  <li class="lb-tablist__tab-container" role="none">
+                    <button
+                      class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                      role="tab"
+                      value="courses"
+                      id="courses"
+                      tabindex="0"
+                      data-tabindex="-1"
+                      index="1"
+                      aria-label="Courses"
+                    >
+                      <div
+                        lb-auto-init="LBExpansionPanel"
+                        class="lb-expansion-panel lb-expansion-panel--light lb-expansion-panel--initialized yth-information__panel"
+                        lb-expansion-panel-options="{'family': 'gollum', 'open': false}"
+                      >
+                        <div
+                          class="lb-expansion-panel__heading yth-information__panel-heading"
+                          role="heading"
+                          aria-level="2"
+                        >
+                          <div
+                            lb-auto-init="LBExpansionPanelTrigger"
+                            class="lb-expansion-panel__trigger lb-expansion-panel-trigger--initialized yth-expansion-panel__trigger"
+                            data-panel-id="2"
+                            role="button"
+                            tabindex="0"
+                            aria-expanded="false"
+                            aria-controls="id-gollum-panel-2"
+                            id="id-gollum-panel-header-2"
+                          >
+                            <h3
+                              class="lb-expansion-panel__trigger-name lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                            >
+                              Courses
+                            </h3>
+                          </div>
+                        </div>
+                        <div
+                          class="lb-expansion-panel__surface yth-information__panel-surface"
+                          id="id-gollum-panel-2"
+                          role="region"
+                          aria-labelledby="id-gollum-panel-header-2"
+                          aria-hidden="true"
+                        >
+                          <div class="lb-expansion-panel__surface-content">
+                            <div class="yth-font-body-2 lb-padding-top-xxs">
+                              <div class="yth-md">
+                                <p>
+                                  are structured learning experiences made by
+                                  participating creators to offer in-depth,
+                                  organised video lessons on specific topics
+                                  while also providing supplemental materials.
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </button>
+                  </li>
+                </ul>
+              </div>
+
+              <div
+                class="lb-tabpanel-group lb-grid__cell lb-grid__cell--span-6"
+              >
+                <div
+                  class="lb-tabpanel lb-tabpanel--open"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'how-users-learn-on-youtube',
+                            'panelIndex': 'quizzes'
+                          }"
+                  role="tabpanel"
+                  id="quizzes"
+                  aria-labelledby="quizzes"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/2d666930424e40f13ce40f14693f56a559b911eea68d19d2bbf976f07704d77a7be710800b46402c7ea7b32744f7fba519769dc094ff1eeb41b8ebd36f7689bd 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/2d666930424e40f13ce40f14693f56a559b911eea68d19d2bbf976f07704d77a7be710800b46402c7ea7b32744f7fba519769dc094ff1eeb41b8ebd36f7689bd=w1080"
+                            alt="صورة للاختبارات"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  class="lb-tabpanel"
+                  lb-auto-init="LBTabpanel"
+                  lb-options="{
+                            'uid': 'how-users-learn-on-youtube',
+                            'panelIndex': 'courses'
+                          }"
+                  role="tabpanel"
+                  id="courses"
+                  aria-labelledby="courses"
+                >
+                  <div class="lb-tabpanel__inner">
+                    <div class="lb-tabpanel__content">
+                      <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                        <div class="image">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/702fd28d41dcbdd6805e5e345b1e0feb2250e914362f780e6314416f5916a699d03d2543ef62149187f02a580a975ea51a15077090c37d617532840067385019 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/702fd28d41dcbdd6805e5e345b1e0feb2250e914362f780e6314416f5916a699d03d2543ef62149187f02a580a975ea51a15077090c37d617532840067385019=w1080"
+                            alt="صورة للدورات التعليمية"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mobile-only">
+            <div
+              class="yth-carousel yth-elections-information-carousel lb-carousel how-users-learn-on-youtube__carousel lbd-carousel-demo lbd-carousel-demo--tiles"
+              lb-auto-init="LBCarousel"
+              lb-options="{'uid': 'how-users-learn-on-youtube'}"
+            >
+              <div class="lb-carousel__viewport">
+                <div
+                  class="lb-carousel__track how-users-learn-on-youtube__carousel-track"
+                >
+                  <div
+                    class="lb-carousel__slide how-users-learn-on-youtube__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/2d666930424e40f13ce40f14693f56a559b911eea68d19d2bbf976f07704d77a7be710800b46402c7ea7b32744f7fba519769dc094ff1eeb41b8ebd36f7689bd 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/2d666930424e40f13ce40f14693f56a559b911eea68d19d2bbf976f07704d77a7be710800b46402c7ea7b32744f7fba519769dc094ff1eeb41b8ebd36f7689bd=w1080"
+                            alt="صورة للاختبارات"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Quizzes
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              introduce an interactive way for creators to
+                              engage with viewers and help them apply what
+                              they've learned.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    class="lb-carousel__slide how-users-learn-on-youtube__carousel-slide"
+                  >
+                    <div class="yth-generic-carousel__card">
+                      <div class="media-wrapper">
+                        <div class="yth-img-wrapper yth-img-wrapper--portrait">
+                          <img
+                            class="yth-image"
+                            lb-auto-init="LBImageLoader"
+                            lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/702fd28d41dcbdd6805e5e345b1e0feb2250e914362f780e6314416f5916a699d03d2543ef62149187f02a580a975ea51a15077090c37d617532840067385019 1x'
+      }"
+                            src="https://kstatic.googleusercontent.com/files/702fd28d41dcbdd6805e5e345b1e0feb2250e914362f780e6314416f5916a699d03d2543ef62149187f02a580a975ea51a15077090c37d617532840067385019=w1080"
+                            alt="صورة للدورات التعليمية"
+                          />
+                        </div>
+                      </div>
+
+                      <div class="content-wrapper">
+                        <h3
+                          class="lb-font--no-crop lb-font-subhead-2 lb-font-weight-600"
+                        >
+                          Courses
+                        </h3>
+
+                        <div class="yth-font-body-2">
+                          <div class="yth-md">
+                            <p>
+                              are structured learning experiences made by
+                              participating creators to offer in-depth,
+                              organised video lessons on specific topics while
+                              also providing supplemental materials.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <button
+                  class="lb-carousel-button lb-carousel-button--previous carousel-previous-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'how-users-learn-on-youtube', 'previous': true, 'direction': -1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                    alt="Previous"
+                  />
+                </button>
+                <button
+                  class="lb-carousel-button lb-carousel-button--next carousel-next-btn"
+                  lb-auto-init="LBCarouselButton"
+                  lb-options="{'uid': 'how-users-learn-on-youtube', 'next': true, 'direction': 1}"
+                >
+                  <img
+                    class="lb-carousel-button__icon"
+                    src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                    alt="Next"
+                  />
+                </button>
+              </div>
+
+              <div
+                class="lb-carousel-progress"
+                lb-auto-init="LBCarouselProgress"
+                lb-options="{'uid': 'how-users-learn-on-youtube'}"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-highlight-lockup" id="world-biggest-classroom">
+        <div class="yth-section yth-section--small">
+          <div class="lb-grid yth-highlight-lockup__grid">
+            <div class="lb-grid__cell lb-grid__cell--span-6">
+              <div class="yth-rail lb-margin-bottom-xs"></div>
+
+              <h2
+                class="yth-highlight-lockup__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s"
+              >
+                How YouTube supports the world&#x27;s biggest classroom
+              </h2>
+
+              <div class="hyth-highlight-lockup__description yth-font-body-2">
+                <div class="yth-md">
+                  <p>
+                    When people come to YouTube, they're met with high-quality
+                    educational content from world-class creators and tools that
+                    foster a safer, enriching and accessible learning
+                    environment for all ages.
+                  </p>
+                  <p>
+                    Learning on YouTube is powered by high-quality education
+                    content developed by exceptional creators from around the
+                    world, many of whom are former teachers who draw on their
+                    educational background across subjects to create content
+                    that helps users learn.
+                  </p>
+                  <p>
+                    YouTube is more than just entertainment – it's a place for
+                    people to learn new skills, dive deep into their passions,
+                    express their unique selves and discover creators. We
+                    understand the value of YouTube in our users' lives and
+                    learning, and we're dedicated to making it a safer,
+                    impactful and positive experience.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="lb-grid__cell lb-grid__cell--offset-7-span-5">
+              <div
+                class="number-counter"
+                lb-auto-init-lazy="NumberCounter"
+                lb-number-counter-options='{"value":[1,98],"duration":1000,"suffix":"%"}'
+              >
+                <div class="number-counter__container">
+                  <div class="number-counter__percentage">
+                    <div class="progress-ring-container">
+                      <svg
+                        class="progress-ring"
+                        width="161"
+                        height="160"
+                        viewBox="0 0 161 160"
+                      >
+                        <circle
+                          class="progress-ring__track"
+                          stroke="#EDEDED"
+                          stroke-width="8"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__indicator"
+                          stroke="#FF0033"
+                          stroke-width="8"
+                          stroke-linecap="round"
+                          fill="transparent"
+                          r="76"
+                          cx="80.5"
+                          cy="80"
+                        />
+                        <circle
+                          class="progress-ring__endpoint"
+                          fill="#FF0033"
+                          r="8.5"
+                          cx="80.5"
+                          cy="4"
+                        />
+                      </svg>
+                      <span
+                        class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                        >1</span
+                      >
+                    </div>
+                    <div
+                      class="number-counter__text-content lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-offset-4-span-8"
+                    >
+                      <div
+                        class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            In India, 98% of users report using YouTube to
+                            gather information and knowledge.
+                          </p>
+                        </div>
+                      </div>
+                      <div
+                        class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                      >
+                        <p
+                          class="lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-top-xs"
+                        >
+                          According to Oxford Economics
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-section impact-stories" id="learning-stories">
+        <div class="impact-stories__text-content">
+          <div class="lb-font-subhead-3 lb-font--no-crop lb-font-color-grey-5">
+            <div class="yth-md"></div>
+          </div>
+        </div>
+        <div
+          class="lb-carousel impact-stories__carousel yth-stories-filter"
+          lb-auto-init="LBCarousel"
+          lb-options="{'uid': 'demo-group', 'group': true}"
+        >
+          <div class="lb-carousel__viewport">
+            <button
+              class="lb-carousel-button lb-carousel-button--previous yth-carousel-button--previous"
+              lb-auto-init="LBCarouselButton"
+              lb-options="{'uid': 'demo-group', 'previous': true, 'direction': -1}"
+            >
+              <img
+                class="lb-carousel-button__icon"
+                src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg"
+                alt="Previous"
+              />
+            </button>
+            <div class="lb-carousel__track yth-stories-filter__track">
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/46dfebbb873caae4d03e58bede33ed1d1707913ac6128d98c92fd965beb2d53a60da5ae9befd61582d3d0afeacac04bf574ce0396a3eac143a40e7f361a5be89"
+                        alt="Amoeba Sisters channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        United States
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        Amoeba Sisters
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>Demystifying science with humour and relevance.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/3d3bea2b96b3ea4fe00aabef5b88a55416692e1a9c5b0ae86eff7f05556815e65ba371988d618324967f0517c950682846fbf881bf3ce156586ceb4437140cd2"
+                          alt="Headshot of @AmoebaSisters"
+                        />
+
+                        @AmoebaSisters
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@AmoebaSisters"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="Amoeba Sisters link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/e1c05300ae3d848304b1489007b3a4f264bf12559f167ca37fe7f3d65b548c8ef713207aa410e1b89247d09514edc855e1a9be2e7e4ece9d0f65c4f98ee77c90"
+                        alt="Eddie Woo channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        Australia
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        Eddie Woo
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            Sharing a love for maths and learning with others.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/12d50a854df02f22efb46a1516e1b69c97a33fa2acdbccf9067be705725043ced96cbd0479f4a8f3572dd8ca2fb68b7e03cbec5dd878a87f8ec77d32da3c356e"
+                          alt="Headshot of @misterwootube"
+                        />
+
+                        @misterwootube
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@misterwootube"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="Eddie Woo link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/6ace3663c926ef891161a40cb692cbb3c5dfe8b8b17fbfa880979c86c37309be52bb09f7a244a72256e66dcd96b2099f093b538f9303e5c3d3e5240c29df5e41"
+                        alt="Kok Bisa? channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        INDONESIA
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        Kok Bisa?
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            Sparking curiosity and promoting critical thinking
+                            through engaging animated videos.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/7e95f18d9b8b855d11232ec5cc29222646a5992b2a366a9d5e8d3977ef205bbffdbfa61628bdf86c2f2c7a00e037d7394b60b9db150b06a0db582452f9a96e81"
+                          alt="Headshot of @KokBisa"
+                        />
+
+                        @KokBisa
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@KokBisa"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="Kok Bisa? link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/7c2d1c99f50f7d0bee143caf64d8cdb93206e5557960e0c2106e136adf3e1ff930611ca6a3a7f940a3fd72c72310ff892d7fbd91664edda709b5f5be69d21118"
+                        alt="MC Grammar channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        United Kingdom
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        MC Grammar
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            Making learning exciting and memorable through the
+                            power of music.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/050d11d0358fd6bc6ec28ad18993f1da167feb3ed43a90a29c32b3665784e4f92d29984184f7e75d3f6ca3d408b1fa480f5682ff03dc0c87127db9c6423cdf8d"
+                          alt="Headshot of @MCGrammarTV"
+                        />
+
+                        @MCGrammarTV
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@MCGrammarTV"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="MC Grammar link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/c5dd1469a9db590b2d3cf998e7b7d871bc6db14073419d6bb23cfafc805b5f2837a9d83b8c6d6e9b3a4749980d6d1ea836f5200e63360359ee862670faa4130b"
+                        alt="Professor Noslen channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        Brazil
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        Professor Noslen
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>
+                            Teaching Portuguese language and literature in an
+                            engaging and vibrant way.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/3a1cdd98e16be09a1651cb481a410d806f381b1da586358bf52ffb2e4420a3ef9864e6474afdccf8fe8a0dc036d37a668662581ea2a55f9ff0919c652d77dc3f"
+                          alt="Headshot of @ProfessorNoslen"
+                        />
+
+                        @ProfessorNoslen
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@ProfessorNoslen"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="Professor Noslen link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="lb-carousel__slide yth-stories-filter__slide">
+                <div class="lb-tile">
+                  <div class="lb-tile__media-wrapper">
+                    <div class="lb-tile__media">
+                      <img
+                        src="https://kstatic.googleusercontent.com/files/930e8310bbf32b212b45039cd479cb24a89f87286df1c5cc452e1e4d373dd36766d836017c7aca3b827612efdb3da4e65fbd6b84c1cac4d1ace551620abe36ba"
+                        alt="Neha Agrawal Mathematically Inclined channel image"
+                      />
+                    </div>
+                  </div>
+
+                  <div class="lb-tile__content">
+                    <div class="lb-tile__header">
+                      <div
+                        class="lb-tile__eyebrow lb-font-eyebrow lb-font--no-crop lb-font-weight-700"
+                      >
+                        India
+                      </div>
+
+                      <h3
+                        class="lb-tile__channel-name lb-font--no-crop lb-font-weight-700"
+                      >
+                        Neha Agrawal Mathematically Inclined
+                      </h3>
+                    </div>
+                    <div class="lb-tile__body">
+                      <div
+                        class="lb-tile__text lb-font-body-2 lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5"
+                      >
+                        <div class="yth-md">
+                          <p>Sharing maths tips one video at a time.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="lb-tile__footer">
+                      <div
+                        class="impact-stories__creator-handle lb-font-subhead-3 lb-font--no-crop lb-font-weight-600 lb-font-color-black-4"
+                      >
+                        <img
+                          src="https://kstatic.googleusercontent.com/files/c6bb14967044eb8aea805b959601b064f143bfc99ce2d34091bc01e77484c1f257259a6d6bed435281e2d6f38fb06560731220ccc5e0ed2811161aa088dc45aa"
+                          alt="Headshot of @nehamamsarmy"
+                        />
+
+                        @nehamamsarmy
+                      </div>
+
+                      <a
+                        class="impact-stories__creator-link yth-arrow-link"
+                        href="https://www.youtube.com/@nehamamsarmy"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        aria-label="Neha Agrawal Mathematically Inclined link opens in new tab"
+                      >
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <button
+              class="lb-carousel-button lb-carousel-button--next"
+              lb-auto-init="LBCarouselButton"
+              lb-options="{'uid': 'demo-group', 'next': true, 'direction': 1}"
+            >
+              <img
+                class="lb-carousel-button__icon"
+                src="https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg"
+                alt="Next"
+              />
+            </button>
+          </div>
+          <div
+            class="lb-carousel-progress"
+            lb-auto-init="LBCarouselProgress"
+            lb-options="{'uid': 'demo-group'}"
+          ></div>
+        </div>
+      </section>
+
+      <section
+        class="yth-section yth-section--small yth-textmedia-lockup"
+        id="tool-for-teachers"
+      >
+        <div class="yth-rail lb-margin-bottom-xs"></div>
+        <div class="lb-grid lb-margin-bottom-m">
+          <div class="lb-grid__cell lb-grid__cell--span-5">
+            <h3
+              class="yth-guidelines__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-m"
+            >
+              How YouTube is a tool for teachers
+            </h3>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-7 lb-margin-bottom-m">
+            <div class="hyth-highlight-lockup__description yth-font-body-2">
+              <div class="yth-md">
+                <p>
+                  For teachers, YouTube is a trusted and effective education
+                  tool inside and outside the classroom.
+                </p>
+                <p>
+                  Teachers use YouTube to complement traditional lesson plans
+                  with effective and engaging learning videos, and to develop
+                  customised lesson plans for students who need additional time
+                  and focus to build understanding.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="lb-grid">
+          <div class="lb-grid__cell lb-grid__cell--span-4">
+            <div
+              class="yth-textmedia-lockup__player-title lb-margin-bottom-xs lb-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+            >
+              Player for Education
+            </div>
+            <div class="yth-font-body-2">
+              <div class="yth-md">
+                <p>
+                  YouTube's Player for Education is a distraction-free YouTube
+                  embedded player that improves the way that YouTube shows
+                  videos inside educational tools, enabling students and
+                  educators to go further together. It is designed for learners,
+                  continues to support student privacy and allows educators the
+                  ability to assign YouTube videos while limiting students'
+                  direct access to the platform.
+                </p>
+              </div>
+            </div>
+
+            <a
+              class="yth-blue-arrow"
+              href="https://blog.youtube/news-and-events/player-for-education-making-edtech-better-for-learners/"
+              aria-label="Learn more"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Learn more
+            </a>
+          </div>
+          <div class="lb-grid__cell lb-grid__cell--span-8">
+            <div class="ytc-home-hero__video-container" lb-auto-init="YTHVideo">
+              <video
+                class="ytc-home-hero__video"
+                src="https://kstatic.googleusercontent.com/files/1d93c662bfc1dea90d22a4cbedfff1013edf1a628b810f3c384ae63acc739dd8d9fa6627e45c252731a9ca04e09ac7bed84903c667b81eb30de06901c23d13bb"
+                autoplay
+                muted
+                loop
+                playsinline
+                controls
+              ></video>
+            </div>
+          </div>
+        </div>
+        <div class="lb-grid">
+          <div class="lb-grid__cell lb-grid__cell--span-4">
+            <div
+              class="number-counter"
+              lb-auto-init-lazy="NumberCounter"
+              lb-number-counter-options='{"value":[1,94],"duration":1000,"suffix":"%"}'
+            >
+              <div class="number-counter__container">
+                <div class="number-counter__percentage">
+                  <div class="progress-ring-container">
+                    <svg
+                      class="progress-ring"
+                      width="161"
+                      height="160"
+                      viewBox="0 0 161 160"
+                    >
+                      <circle
+                        class="progress-ring__track"
+                        stroke="#EDEDED"
+                        stroke-width="8"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__indicator"
+                        stroke="#FF0033"
+                        stroke-width="8"
+                        stroke-linecap="round"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__endpoint"
+                        fill="#FF0033"
+                        r="8.5"
+                        cx="80.5"
+                        cy="4"
+                      />
+                    </svg>
+                    <span
+                      class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                      >1</span
+                    >
+                  </div>
+                  <div
+                    class="number-counter__text-content lb-grid__cell lb-grid__cell--span-12"
+                  >
+                    <div
+                      class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                    >
+                      <div class="yth-md">
+                        <p>
+                          of teachers surveyed globally have used YouTube in
+                          their role as a teacher.*
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                    ></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-4">
+            <div
+              class="number-counter"
+              lb-auto-init-lazy="NumberCounter"
+              lb-number-counter-options='{"value":[1,82],"duration":1000,"suffix":"%"}'
+            >
+              <div class="number-counter__container">
+                <div class="number-counter__percentage">
+                  <div class="progress-ring-container">
+                    <svg
+                      class="progress-ring"
+                      width="161"
+                      height="160"
+                      viewBox="0 0 161 160"
+                    >
+                      <circle
+                        class="progress-ring__track"
+                        stroke="#EDEDED"
+                        stroke-width="8"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__indicator"
+                        stroke="#FF0033"
+                        stroke-width="8"
+                        stroke-linecap="round"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__endpoint"
+                        fill="#FF0033"
+                        r="8.5"
+                        cx="80.5"
+                        cy="4"
+                      />
+                    </svg>
+                    <span
+                      class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                      >1</span
+                    >
+                  </div>
+                  <div
+                    class="number-counter__text-content lb-grid__cell lb-grid__cell--span-12"
+                  >
+                    <div
+                      class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                    >
+                      <div class="yth-md">
+                        <p>
+                          of teachers surveyed globally say YouTube has the
+                          right kind of content to complement traditional lesson
+                          plans.*
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                    ></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="lb-grid__cell lb-grid__cell--span-4">
+            <div
+              class="number-counter"
+              lb-auto-init-lazy="NumberCounter"
+              lb-number-counter-options='{"value":[1,82],"duration":1000,"suffix":"%"}'
+            >
+              <div class="number-counter__container">
+                <div class="number-counter__percentage">
+                  <div class="progress-ring-container">
+                    <svg
+                      class="progress-ring"
+                      width="161"
+                      height="160"
+                      viewBox="0 0 161 160"
+                    >
+                      <circle
+                        class="progress-ring__track"
+                        stroke="#EDEDED"
+                        stroke-width="8"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__indicator"
+                        stroke="#FF0033"
+                        stroke-width="8"
+                        stroke-linecap="round"
+                        fill="transparent"
+                        r="76"
+                        cx="80.5"
+                        cy="80"
+                      />
+                      <circle
+                        class="progress-ring__endpoint"
+                        fill="#FF0033"
+                        r="8.5"
+                        cx="80.5"
+                        cy="4"
+                      />
+                    </svg>
+                    <span
+                      class="number-counter__value js-number-counter-percentage lb-font-headline-1 lb-font--no-crop lb-font-weight-700"
+                      >1</span
+                    >
+                  </div>
+                  <div
+                    class="number-counter__text-content lb-grid__cell lb-grid__cell--span-12"
+                  >
+                    <div
+                      class="number-counter__factoid yth-font-subhead-2 lb-font--no-crop lb-font-weight-700"
+                    >
+                      <div class="yth-md">
+                        <p>
+                          of teachers surveyed globally say that
+                          learning-related content on YouTube helps students
+                          spend their online time in a positive way.*
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="number-counter__source lb-font-footnote lb-font--no-crop lb-font-weight-400 lb-font-color-grey-5 lb-margin-bottom-s"
+                    ></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="lb-grid__cell lb-grid__cell--span-12 yth-font-body-2 footnote"
+          >
+            <div class="yth-md">
+              <p>
+                *According to an Ipsos survey conducted in August 2024 in 11
+                markets (AU, BR, CA, DE, FR, ID, IN, JP, KR, UK and US).
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="yth-section yth-section--small tab-module"
+        id="partnerships-strengthen-learning"
+      >
+        <div class="yth-rail lb-margin-bottom-xs"></div>
+        <div class="lb-grid lb-margin-bottom-m">
+          <div class="lb-grid__cell lb-grid__cell--span-5">
+            <h3
+              class="yth-guidelines__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+            >
+              How YouTube&#x27;s partnerships strengthen learning
+            </h3>
+          </div>
+          <div class="lb-grid__cell lb-grid__cell--span-7">
+            <div class="hyth-highlight-lockup__description yth-font-body-2">
+              <div class="yth-md">
+                <p>
+                  YouTube partners with experts in learning to deliver
+                  high-impact learning experiences for our users. Through our
+                  partnerships efforts, we look to have global coverage, which
+                  is why we continue to curate partnership opportunities that
+                  span across the globe. For example:
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="lb-tablist"
+          lb-auto-init="LBTablist"
+          lb-options="{'uid': 'partnerships-strengthen-learning'}"
+        >
+          <ul
+            class="lb-tablist__tabs-wrapper lb-js-tablist-wrapper"
+            role="tablist"
+            tabindex="0"
+          >
+            <li class="lb-tablist__tab-container" role="none">
+              <button
+                class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                role="tab"
+                value="unesco"
+                id="unesco"
+                tabindex="0"
+                data-tabindex="-1"
+                index="0"
+              >
+                <span class="lb-tablist__tab-label"> UNESCO </span>
+              </button>
+            </li>
+
+            <li class="lb-tablist__tab-container" role="none">
+              <button
+                class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                role="tab"
+                value="nptel"
+                id="nptel"
+                tabindex="0"
+                data-tabindex="-1"
+                index="1"
+              >
+                <span class="lb-tablist__tab-label"> NPTEL </span>
+              </button>
+            </li>
+
+            <li class="lb-tablist__tab-container" role="none">
+              <button
+                class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                role="tab"
+                value="common-sense-media"
+                id="common-sense-media"
+                tabindex="0"
+                data-tabindex="-1"
+                index="2"
+              >
+                <span class="lb-tablist__tab-label"> Common Sense Media </span>
+              </button>
+            </li>
+
+            <li class="lb-tablist__tab-container" role="none">
+              <button
+                class="lb-tablist__tab lb-js-tablist-tab lb-font-weight-600"
+                role="tab"
+                value="arizona-state-university"
+                id="arizona-state-university"
+                tabindex="0"
+                data-tabindex="-1"
+                index="3"
+              >
+                <span class="lb-tablist__tab-label">
+                  Arizona State University
+                </span>
+              </button>
+            </li>
+          </ul>
+
+          <div class="lb-tablist__rail desktop">
+            <div class="lb-tablist__slider lb-js-tablist-slider"></div>
+          </div>
+        </div>
+
+        <div class="lb-tabpanel-group">
+          <div
+            class="lb-tabpanel lb-tabpanel--open"
+            lb-auto-init="LBTabpanel"
+            lb-options="{
+                    'uid': 'partnerships-strengthen-learning',
+                    'panelIndex': 'unesco'
+                  }"
+            role="tabpanel"
+            id="unesco"
+            aria-labelledby="unesco"
+          >
+            <div class="lb-tabpanel__inner">
+              <div class="lb-tabpanel__content">
+                <div class="lb-grid tab-module__grid">
+                  <div
+                    class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-span-7"
+                  >
+                    <div class="yth-font-body-2 lb-margin-top-xxs">
+                      <div class="yth-md">
+                        <p>
+                          We partner with UNESCO to enhance access to quality
+                          education content across Latin America. The
+                          partnership focuses on establishing dedicated YouTube
+                          channels that offer curated content that aligns with
+                          an individual country's national curriculum for
+                          secondary school. It also provides teachers with
+                          valuable resources and support materials, empowering
+                          them to seamlessly integrate these curated videos into
+                          their lesson plans and create more engaging learning
+                          experiences.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-grid__cell lb-grid__cell--span-5 yth-lb-tabpanel__media"
+                  >
+                    <div class="yth-img-video-wrapper">
+                      <img
+                        class="yth-image"
+                        lb-auto-init="LBImageLoader"
+                        lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/80a69c3d36118c797be475a018a5a0d2f74e400dd465c8224f43b3d90a8f771491c7da65efd013f5559c1df5619e566ca38e5e98d12a4422f1a6620396100135 1x'
+      }"
+                        src="https://kstatic.googleusercontent.com/files/80a69c3d36118c797be475a018a5a0d2f74e400dd465c8224f43b3d90a8f771491c7da65efd013f5559c1df5619e566ca38e5e98d12a4422f1a6620396100135=w1080"
+                        alt="UNESCO image"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="lb-tabpanel"
+            lb-auto-init="LBTabpanel"
+            lb-options="{
+                    'uid': 'partnerships-strengthen-learning',
+                    'panelIndex': 'nptel'
+                  }"
+            role="tabpanel"
+            id="nptel"
+            aria-labelledby="nptel"
+          >
+            <div class="lb-tabpanel__inner">
+              <div class="lb-tabpanel__content">
+                <div class="lb-grid tab-module__grid">
+                  <div
+                    class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-span-7"
+                  >
+                    <div class="yth-font-body-2 lb-margin-top-xxs">
+                      <div class="yth-md">
+                        <p>
+                          In partnership with YouTube India, NPTEL offers 100
+                          courses for certification on YouTube across subjects
+                          ranging from rocket propulsion to literary criticism,
+                          machine learning to sports psychology. Each course is
+                          designed to offer structured content, including video
+                          lectures, slides and supplementary file attachments,
+                          providing a comprehensive learning experience.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-grid__cell lb-grid__cell--span-5 yth-lb-tabpanel__media"
+                  >
+                    <div class="yth-img-video-wrapper">
+                      <img
+                        class="yth-image"
+                        lb-auto-init="LBImageLoader"
+                        lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/8439a74e9fec02f211860d1fd2ff0544563114646194d8cb291e75f865fcdb3236f928012fb687c01cfc9c3e72893c5655a980ad4fff878de7e4542eb7fb8e91 1x'
+      }"
+                        src="https://kstatic.googleusercontent.com/files/8439a74e9fec02f211860d1fd2ff0544563114646194d8cb291e75f865fcdb3236f928012fb687c01cfc9c3e72893c5655a980ad4fff878de7e4542eb7fb8e91=w1080"
+                        alt="NPTEL image"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="lb-tabpanel"
+            lb-auto-init="LBTabpanel"
+            lb-options="{
+                    'uid': 'partnerships-strengthen-learning',
+                    'panelIndex': 'common-sense-media'
+                  }"
+            role="tabpanel"
+            id="common-sense-media"
+            aria-labelledby="common-sense-media"
+          >
+            <div class="lb-tabpanel__inner">
+              <div class="lb-tabpanel__content">
+                <div class="lb-grid tab-module__grid">
+                  <div
+                    class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-span-7"
+                  >
+                    <div class="yth-font-body-2 lb-margin-top-xxs">
+                      <div class="yth-md">
+                        <p>
+                          We've partnered with Common Sense Media to connect
+                          teachers with high-quality, engaging content without
+                          the time-consuming search process. Made possible
+                          through collections of curated videos for secondary
+                          school teachers on predefined topics in maths and
+                          advisory topics that map to Common Core Standards,
+                          CASEL and Common Sense Media learning rubrics.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-grid__cell lb-grid__cell--span-5 yth-lb-tabpanel__media"
+                  >
+                    <div class="yth-img-video-wrapper">
+                      <img
+                        class="yth-image"
+                        lb-auto-init="LBImageLoader"
+                        lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/280f6a542665ebc555859d459c05d85fdb8d40b204b3007d28f971e258bbd48260621b42a521e91b987e608358383d987dc0624a731f364eb9541c3e49d3232a 1x'
+      }"
+                        src="https://kstatic.googleusercontent.com/files/280f6a542665ebc555859d459c05d85fdb8d40b204b3007d28f971e258bbd48260621b42a521e91b987e608358383d987dc0624a731f364eb9541c3e49d3232a=w1080"
+                        alt="Common Sense Media image"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="lb-tabpanel"
+            lb-auto-init="LBTabpanel"
+            lb-options="{
+                    'uid': 'partnerships-strengthen-learning',
+                    'panelIndex': 'arizona-state-university'
+                  }"
+            role="tabpanel"
+            id="arizona-state-university"
+            aria-labelledby="arizona-state-university"
+          >
+            <div class="lb-tabpanel__inner">
+              <div class="lb-tabpanel__content">
+                <div class="lb-grid tab-module__grid">
+                  <div
+                    class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-span-7"
+                  >
+                    <div class="yth-font-body-2 lb-margin-top-xxs">
+                      <div class="yth-md">
+                        <p>
+                          We've partnered with Arizona State University (ASU)
+                          and Crash Course to create Study Hall. It's a new
+                          approach that demystifies the university process while
+                          creating an affordable and accessible route to earning
+                          university credits.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="lb-grid__cell lb-grid__cell--span-5 yth-lb-tabpanel__media"
+                  >
+                    <div class="yth-img-video-wrapper">
+                      <img
+                        class="yth-image"
+                        lb-auto-init="LBImageLoader"
+                        lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/c4df2e138ef89c8cac107473feacda15e4be31281356f0aad286401f1b68b61e2b915736d2f296852c5d830cf5355f3246789a868d95729f62c965d57a85296f 1x'
+      }"
+                        src="https://kstatic.googleusercontent.com/files/c4df2e138ef89c8cac107473feacda15e4be31281356f0aad286401f1b68b61e2b915736d2f296852c5d830cf5355f3246789a868d95729f62c965d57a85296f=w1080"
+                        alt="Arizona State University image"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="yth-explore-more" id="learning-explore-more">
+        <div class="yth-section">
+          <h3
+            class="yth-explore-more__heading lb-font-headline-2 lb-font--no-crop lb-font-weight-700"
+          >
+            Explore more
+          </h3>
+          <div class="lb-grid">
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Want to learn a new skill? Let YouTube help you learn how to
+                code
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/learn-to-code-on-youtube/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Want to learn a new skill? Let YouTube help you learn how to code link opens in new tab"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Three ways that the YouTube Player for Education is making
+                edtech better for learners
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/player-for-education-making-edtech-better-for-learners/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Three ways that the YouTube Player for Education is making edtech better for learners link opens in new tab"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                A new path to higher education that begins on YouTube
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/news-and-events/higher-education-on-youtube-study-hall/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="A new path to higher education that begins on YouTube link opens in new tab"
+              >
+              </a>
+            </div>
+
+            <div
+              class="lb-grid__cell lb-grid__cell--sm-span-12 lb-grid__cell--md-span-12 lb-grid__cell--lg-span-3 yth-explore-more__content-wrapper"
+            >
+              <div
+                class="yth-explore-more__label lb-font-subhead-1 lb-font--no-crop lb-font-weight-700"
+              >
+                Celebrating World Teachers&#x27; Day: Honouring the impact of
+                teachers, with YouTube creators
+              </div>
+              <a
+                class="yth-arrow-link"
+                href="https://blog.youtube/creator-and-artist-stories/celebrating-world-teachers-day/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Celebrating World Teachers&#x27; Day: Honouring the impact of teachers, with YouTube creators link opens in new tab"
+              >
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="yth-progress">
+        <div class="yth-progress__bar" lb-auto-init="ProgressBar"></div>
+      </div>
+    </main>
+
+    <footer
+      class="lb-footer"
+      role="contentinfo"
+      lb-auto-init="LBCustomFooter"
+      lb-options="{
+            'bareUrl': '/howyoutubeworks/learning/',
+            'locales': 'en_us,ALL_au,en_be,ALL_ca,ALL_in,ALL_uk,en_mt,ALL_ie,ALL_kr,ALL_it,ALL_ee,ALL_fi,fr_ca,ALL_nl,ALL_be,ALL_hu,ALL_lv,ALL_cz,ALL_id,fr_be,ALL_fr,fr_lu,ALL_bg,sw_ALL,ALL_se,ALL_ro,ALL_sk,ALL_es,ALL_vn,es_us,mt_ALL,ALL_pl,ALL_lt,ALL_dk,ALL_hr,ALL_si,ALL_gr,el_cy,ALL_pt,ALL_ru,ar_ALL,ALL_de,ALL_at,de_be,ALL_lu,ALL_tr,tr_cy,ALL_br,ga_ALL,zh-TW_ALL,hi_in,iw_ALL,ALL_jp'
+          }"
+    ></footer>
+
+    <script type="application/ld+json" nonce="5uHZMQGnG4otjiIUZJAjdg">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "How Youtube Works",
+        "alternateName": ["How Youtube Works"],
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "logo": "https://lh3.googleusercontent.com/u7efPJhM1pB1PAIAO5PotDW-Qkkpnde_2MPx2P8pWFua7ZfgMowbhNbklswuAbT9RpzabRA3TEhZd00LJQwbX71Z3PZKBhR87P71I21cS4FkiUXfTa0",
+        "description": "Learning on YouTube is powered by high-quality education content. Understand how YouTube is fostering a safer, enriching and accessible learning environment for all learners."
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="5uHZMQGnG4otjiIUZJAjdg">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Fostering learning experiences on YouTube – How YouTube Works",
+        "image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/",
+        "description": "Learning on YouTube is powered by high-quality education content. Understand how YouTube is fostering a safer, enriching and accessible learning environment for all learners.",
+        "publisher": { "@type": "WebPageElement", "name": "How Youtube Works" }
+      }
+    </script>
+
+    <script type="application/ld+json" nonce="5uHZMQGnG4otjiIUZJAjdg">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/",
+        "name": "Fostering learning experiences on YouTube – How YouTube Works",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/learning/",
+          "query-input": "required name=query"
+        }
+      }
+    </script>
+
+    <script
+      src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"
+      data-glue-cookie-notification-bar-category="2A"
+      data-glue-cookie-notification-bar-language="en"
+      data-glue-cookie-notification-bar-site-id="youtube.com/howyoutubeworks"
+    nonce="5uHZMQGnG4otjiIUZJAjdg"></script>
+  </body>
+</html>
